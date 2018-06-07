@@ -1,0 +1,7 @@
+Encoding = utf-8
+Source = eng
+Target = fra
+Method = lexicon
+DictPath = default
+DictType = USEPAVLICK
+InFile = eng.conll

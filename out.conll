@@ -1,0 +1,14 @@
+B-PER	0	0	x	NNP	Coste	x	x	0
+O	0	1	x	VBD	affirmé	x	x	0
+O	0	2	x	PRP	il	x	x	0
+O	0	3	x	VBD	sétaient	x	x	0
+O	0	4	x	VBN	approche	x	x	0
+O	0	5	x	DT	celui	x	x	0
+O	0	6	x	NN	joueur	x	x	0
+O	0	7	x	CD	deux	x	x	0
+O	0	8	x	NNS	mois	x	x	0
+O	0	9	x	RB	ago	x	x	0
+O	0	10	x	RB	alentours	x	x	0
+O	0	11	x	DT	achromatie	x	x	0
+O	0	12	x	NN	comeback	x	x	0
+O	0	13	x	.	.	x	x	0
