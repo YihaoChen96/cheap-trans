@@ -1,7 +1,7 @@
 Encoding = utf-8
 Source = eng
-Target = fra
+Target = spa
 Method = lexicon
 DictPath = default
 DictType = USEPAVLICK
-InFile = eng.conll
+InFile = /shared/corpora/ner/conll2003/eng/eng.train.conll

@@ -48,13 +48,13 @@ public class Translate {
 		int missing = 0;
 		int total = 0;
 		ArrayList<String> missed_words = new ArrayList<String>();
-		
+		//for (String line :lines) System.out.println(lines.size());
+		ArrayList<Integer> empty_lines = new ArrayList<Integer>();
 		int i = 0;
 		double progress = 0;
 		int window = 4;
-		
+		int line_counter = 0;
 		while(true) {
-			
 			double current_prog = i/(double)lines.size();
 			if (current_prog > progress + 0.1){
 				//System.out.println(current_prog);
@@ -67,19 +67,22 @@ public class Translate {
 			ArrayList<String> tags = new ArrayList<String>();
 			
 			for(String line: lines) {
+				
 				String word = this.util.getWord(line);
 				String tag = this.util.getTag(line);
-				if(word == null) break;
 				
+				if(word == null) {
+					empty_lines.add(line_counter);
+					line_counter++;
+				}
+				else{
 				words.add(word);
 				tags.add(tag);
+				line_counter++;
+				}
 			}
 			
-			if (words.size()==0) {
-				outlines.add("\n");
-				i+=1;
-				continue;
-			}
+			
 			
 			//TODO: check split//
 			String[] sline = lines.get(i).split("\t");
@@ -170,13 +173,23 @@ public class Translate {
 					missed_words.add(srcwords);
 				}
 			}
-			for(int x= 0 ;x<trans_words.size();x++) {
-				outlines.add(this.util.setWord(lines.get(x), trans_words.get(x)));
-				//System.out.println(outlines.get(x));
+			int word_counter=0;
+			for(int x= 0 ;x<lines.size();x++) {
+				if(empty_lines.contains(x)){
+					outlines.add("\n");
+				}
+				else {
+				outlines.add(this.util.setWord(lines.get(x), trans_words.get(word_counter)));
+				word_counter++;
+				//System.out.println(outlines.get(x));}
+			
+				}
 			}
 			total=words.size();
+			
 			break;		
 		}
+		System.out.println(outlines.size());
 		return outlines;
 	}
 	
@@ -192,5 +205,4 @@ public class Translate {
 		tl.loadDictionary();
 		tl.translateFile(args[0],args[2],"utf-8");
 	}
-	
 }

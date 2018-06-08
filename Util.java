@@ -37,7 +37,7 @@ public class Util {
 		while ((str = br.readLine())!= null) {
 			str_lst.add(str);
 		}
-		
+		System.out.println(str_lst.size());
 		br.close();
 		reader.close();
 		return str_lst;

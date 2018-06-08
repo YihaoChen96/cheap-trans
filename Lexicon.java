@@ -21,7 +21,7 @@ public class Lexicon {
 		
 		File f = new File ("");
 		String path = f.getAbsolutePath();
-		this.lex_path =  path + "\\dictionaries\\dict." + "fr";
+		this.lex_path =  path + "/dictionaries/dict." + "fr";
 	}
 	
 	public Lexicon(String source,String target) {
@@ -31,7 +31,7 @@ public class Lexicon {
 		
 		File f = new File ("");
 		String path = f.getAbsolutePath();
-		this.lex_path = path + "\\dictionaries\\dict." + ut.langMapping(target);	
+		this.lex_path = path + "/dictionaries/dict." + ut.langMapping(target);	
 	}
 	
 	public Lexicon(String dictionary,String source,String target) {
@@ -44,7 +44,7 @@ public class Lexicon {
 		if (dictionary.equals ("USEMASTERLEX"))
 			this.lex_path = path + "{0}-eng.masterlex.txt.gz";
 		else if (dictionary.equals("USEPAVLICK")) {
-			this.lex_path = path + "\\dictionaries\\dict." + ut.langMapping(target);
+			this.lex_path = path + "/dictionaries/dict." + ut.langMapping(target);
 		}
 		
 	}
@@ -55,7 +55,7 @@ public class Lexicon {
 		if (dictionary.equals ("USEMASTERLEX"))
 			this.lex_path = path + "{0}-eng.masterlex.txt.gz";
 		else if (dictionary.equals("USEPAVLICK")) {
-			this.lex_path = path + "\\dict." + ut.langMapping(target);
+			this.lex_path = path + "/dict." + ut.langMapping(target);
 		}
 	}
 	
