@@ -1,0 +1,224 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T101ZUS",
+  "text": "RT @PrimeraPlanaN: Declaran Estado de Emergencia en 45 municipios de Zacatecas por nevadas https://t.co/Tqd8ZWqfLu",
+  "tokens": [
+    "RT",
+    "@PrimeraPlanaN:",
+    "Declaran",
+    "Estado",
+    "de",
+    "Emergencia",
+    "en",
+    "45",
+    "municipios",
+    "de",
+    "Zacatecas",
+    "por",
+    "nevadas",
+    "https://t.co/Tqd8ZWqfLu"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@PrimeraPlanaN:",
+      "startCharOffset": 3,
+      "endCharOffset": 18
+    },
+    {
+      "form": "Declaran",
+      "startCharOffset": 19,
+      "endCharOffset": 27
+    },
+    {
+      "form": "Estado",
+      "startCharOffset": 28,
+      "endCharOffset": 34
+    },
+    {
+      "form": "de",
+      "startCharOffset": 35,
+      "endCharOffset": 37
+    },
+    {
+      "form": "Emergencia",
+      "startCharOffset": 38,
+      "endCharOffset": 48
+    },
+    {
+      "form": "en",
+      "startCharOffset": 49,
+      "endCharOffset": 51
+    },
+    {
+      "form": "45",
+      "startCharOffset": 52,
+      "endCharOffset": 54
+    },
+    {
+      "form": "municipios",
+      "startCharOffset": 55,
+      "endCharOffset": 65
+    },
+    {
+      "form": "de",
+      "startCharOffset": 66,
+      "endCharOffset": 68
+    },
+    {
+      "form": "Zacatecas",
+      "startCharOffset": 69,
+      "endCharOffset": 78
+    },
+    {
+      "form": "por",
+      "startCharOffset": 79,
+      "endCharOffset": 82
+    },
+    {
+      "form": "nevadas",
+      "startCharOffset": 83,
+      "endCharOffset": 90
+    },
+    {
+      "form": "https://t.co/Tqd8ZWqfLu",
+      "startCharOffset": 91,
+      "endCharOffset": 114
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

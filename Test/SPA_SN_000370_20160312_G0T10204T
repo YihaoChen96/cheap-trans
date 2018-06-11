@@ -1,0 +1,302 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T10204T",
+  "text": "Dead Space 2 | PC 1080p 60fps | Modo Extremo | Capítulo 15 \"Zona de aterrizaje\": https://t.co/DeJPE211Hl vía @YouTube",
+  "tokens": [
+    "Dead",
+    "Space",
+    "2",
+    "|",
+    "PC",
+    "1080p",
+    "60fps",
+    "|",
+    "Modo",
+    "Extremo",
+    "|",
+    "Capítulo",
+    "15",
+    "\"",
+    "Zona",
+    "de",
+    "aterrizaje",
+    "\":",
+    "https://t.co/DeJPE211Hl",
+    "vía",
+    "@YouTube"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Dead",
+      "startCharOffset": 0,
+      "endCharOffset": 4
+    },
+    {
+      "form": "Space",
+      "startCharOffset": 5,
+      "endCharOffset": 10
+    },
+    {
+      "form": "2",
+      "startCharOffset": 11,
+      "endCharOffset": 12
+    },
+    {
+      "form": "|",
+      "startCharOffset": 13,
+      "endCharOffset": 14
+    },
+    {
+      "form": "PC",
+      "startCharOffset": 15,
+      "endCharOffset": 17
+    },
+    {
+      "form": "1080p",
+      "startCharOffset": 18,
+      "endCharOffset": 23
+    },
+    {
+      "form": "60fps",
+      "startCharOffset": 24,
+      "endCharOffset": 29
+    },
+    {
+      "form": "|",
+      "startCharOffset": 30,
+      "endCharOffset": 31
+    },
+    {
+      "form": "Modo",
+      "startCharOffset": 32,
+      "endCharOffset": 36
+    },
+    {
+      "form": "Extremo",
+      "startCharOffset": 37,
+      "endCharOffset": 44
+    },
+    {
+      "form": "|",
+      "startCharOffset": 45,
+      "endCharOffset": 46
+    },
+    {
+      "form": "Capítulo",
+      "startCharOffset": 47,
+      "endCharOffset": 55
+    },
+    {
+      "form": "15",
+      "startCharOffset": 56,
+      "endCharOffset": 58
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 59,
+      "endCharOffset": 60
+    },
+    {
+      "form": "Zona",
+      "startCharOffset": 60,
+      "endCharOffset": 64
+    },
+    {
+      "form": "de",
+      "startCharOffset": 65,
+      "endCharOffset": 67
+    },
+    {
+      "form": "aterrizaje",
+      "startCharOffset": 68,
+      "endCharOffset": 78
+    },
+    {
+      "form": "\":",
+      "startCharOffset": 78,
+      "endCharOffset": 80
+    },
+    {
+      "form": "https://t.co/DeJPE211Hl",
+      "startCharOffset": 81,
+      "endCharOffset": 104
+    },
+    {
+      "form": "vía",
+      "startCharOffset": 105,
+      "endCharOffset": 108
+    },
+    {
+      "form": "@YouTube",
+      "startCharOffset": 109,
+      "endCharOffset": 117
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      21
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T1020HT",
+  "text": "RT @SergioRMagaldi: Marcha d repudio al terrorismo en España el anterior Gobierno kirchenerista en Argentina lis reivindicó justicia ver ht…",
+  "tokens": [
+    "RT",
+    "@SergioRMagaldi:",
+    "Marcha",
+    "d",
+    "repudio",
+    "al",
+    "terrorismo",
+    "en",
+    "España",
+    "el",
+    "anterior",
+    "Gobierno",
+    "kirchenerista",
+    "en",
+    "Argentina",
+    "lis",
+    "reivindicó",
+    "justicia",
+    "ver",
+    "ht",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@SergioRMagaldi:",
+      "startCharOffset": 3,
+      "endCharOffset": 19
+    },
+    {
+      "form": "Marcha",
+      "startCharOffset": 20,
+      "endCharOffset": 26
+    },
+    {
+      "form": "d",
+      "startCharOffset": 27,
+      "endCharOffset": 28
+    },
+    {
+      "form": "repudio",
+      "startCharOffset": 29,
+      "endCharOffset": 36
+    },
+    {
+      "form": "al",
+      "startCharOffset": 37,
+      "endCharOffset": 39
+    },
+    {
+      "form": "terrorismo",
+      "startCharOffset": 40,
+      "endCharOffset": 50
+    },
+    {
+      "form": "en",
+      "startCharOffset": 51,
+      "endCharOffset": 53
+    },
+    {
+      "form": "España",
+      "startCharOffset": 54,
+      "endCharOffset": 60
+    },
+    {
+      "form": "el",
+      "startCharOffset": 61,
+      "endCharOffset": 63
+    },
+    {
+      "form": "anterior",
+      "startCharOffset": 64,
+      "endCharOffset": 72
+    },
+    {
+      "form": "Gobierno",
+      "startCharOffset": 73,
+      "endCharOffset": 81
+    },
+    {
+      "form": "kirchenerista",
+      "startCharOffset": 82,
+      "endCharOffset": 95
+    },
+    {
+      "form": "en",
+      "startCharOffset": 96,
+      "endCharOffset": 98
+    },
+    {
+      "form": "Argentina",
+      "startCharOffset": 99,
+      "endCharOffset": 108
+    },
+    {
+      "form": "lis",
+      "startCharOffset": 109,
+      "endCharOffset": 112
+    },
+    {
+      "form": "reivindicó",
+      "startCharOffset": 113,
+      "endCharOffset": 123
+    },
+    {
+      "form": "justicia",
+      "startCharOffset": 124,
+      "endCharOffset": 132
+    },
+    {
+      "form": "ver",
+      "startCharOffset": 133,
+      "endCharOffset": 136
+    },
+    {
+      "form": "ht",
+      "startCharOffset": 137,
+      "endCharOffset": 139
+    },
+    {
+      "form": "…",
+      "startCharOffset": 139,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      21
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

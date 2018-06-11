@@ -1,0 +1,236 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160316_G0T1020QY",
+  "text": "RT @iAgua: Cuatro millones de personas en Zimbabue necesitan ayuda humanitaria por la sequía https://t.co/Ji2MvYYWMp",
+  "tokens": [
+    "RT",
+    "@iAgua:",
+    "Cuatro",
+    "millones",
+    "de",
+    "personas",
+    "en",
+    "Zimbabue",
+    "necesitan",
+    "ayuda",
+    "humanitaria",
+    "por",
+    "la",
+    "sequía",
+    "https://t.co/Ji2MvYYWMp"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@iAgua:",
+      "startCharOffset": 3,
+      "endCharOffset": 10
+    },
+    {
+      "form": "Cuatro",
+      "startCharOffset": 11,
+      "endCharOffset": 17
+    },
+    {
+      "form": "millones",
+      "startCharOffset": 18,
+      "endCharOffset": 26
+    },
+    {
+      "form": "de",
+      "startCharOffset": 27,
+      "endCharOffset": 29
+    },
+    {
+      "form": "personas",
+      "startCharOffset": 30,
+      "endCharOffset": 38
+    },
+    {
+      "form": "en",
+      "startCharOffset": 39,
+      "endCharOffset": 41
+    },
+    {
+      "form": "Zimbabue",
+      "startCharOffset": 42,
+      "endCharOffset": 50
+    },
+    {
+      "form": "necesitan",
+      "startCharOffset": 51,
+      "endCharOffset": 60
+    },
+    {
+      "form": "ayuda",
+      "startCharOffset": 61,
+      "endCharOffset": 66
+    },
+    {
+      "form": "humanitaria",
+      "startCharOffset": 67,
+      "endCharOffset": 78
+    },
+    {
+      "form": "por",
+      "startCharOffset": 79,
+      "endCharOffset": 82
+    },
+    {
+      "form": "la",
+      "startCharOffset": 83,
+      "endCharOffset": 85
+    },
+    {
+      "form": "sequía",
+      "startCharOffset": 86,
+      "endCharOffset": 92
+    },
+    {
+      "form": "https://t.co/Ji2MvYYWMp",
+      "startCharOffset": 93,
+      "endCharOffset": 116
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

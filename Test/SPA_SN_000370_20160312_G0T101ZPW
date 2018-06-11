@@ -1,0 +1,266 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T101ZPW",
+  "text": "Diario Rio Negro: Bariloche: Bicicleteada a dos años de la muerte de Pablo Ramos https://t.co/qYQKilXq3s",
+  "tokens": [
+    "Diario",
+    "Rio",
+    "Negro",
+    ":",
+    "Bariloche",
+    ":",
+    "Bicicleteada",
+    "a",
+    "dos",
+    "años",
+    "de",
+    "la",
+    "muerte",
+    "de",
+    "Pablo",
+    "Ramos",
+    "https://t.co/qYQKilXq3s"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Diario",
+      "startCharOffset": 0,
+      "endCharOffset": 6
+    },
+    {
+      "form": "Rio",
+      "startCharOffset": 7,
+      "endCharOffset": 10
+    },
+    {
+      "form": "Negro",
+      "startCharOffset": 11,
+      "endCharOffset": 16
+    },
+    {
+      "form": ":",
+      "startCharOffset": 16,
+      "endCharOffset": 17
+    },
+    {
+      "form": "Bariloche",
+      "startCharOffset": 18,
+      "endCharOffset": 27
+    },
+    {
+      "form": ":",
+      "startCharOffset": 27,
+      "endCharOffset": 28
+    },
+    {
+      "form": "Bicicleteada",
+      "startCharOffset": 29,
+      "endCharOffset": 41
+    },
+    {
+      "form": "a",
+      "startCharOffset": 42,
+      "endCharOffset": 43
+    },
+    {
+      "form": "dos",
+      "startCharOffset": 44,
+      "endCharOffset": 47
+    },
+    {
+      "form": "años",
+      "startCharOffset": 48,
+      "endCharOffset": 52
+    },
+    {
+      "form": "de",
+      "startCharOffset": 53,
+      "endCharOffset": 55
+    },
+    {
+      "form": "la",
+      "startCharOffset": 56,
+      "endCharOffset": 58
+    },
+    {
+      "form": "muerte",
+      "startCharOffset": 59,
+      "endCharOffset": 65
+    },
+    {
+      "form": "de",
+      "startCharOffset": 66,
+      "endCharOffset": 68
+    },
+    {
+      "form": "Pablo",
+      "startCharOffset": 69,
+      "endCharOffset": 74
+    },
+    {
+      "form": "Ramos",
+      "startCharOffset": 75,
+      "endCharOffset": 80
+    },
+    {
+      "form": "https://t.co/qYQKilXq3s",
+      "startCharOffset": 81,
+      "endCharOffset": 104
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      17
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 14,
+              "end": 16
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 0,
+              "end": 3
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T101ZQP",
+  "text": "RT @artsyfella: LA MUERTE DE LEXA HA SIDO SÚPER TONTA ME CAGO EN TODO QUE PUTA MIERDA ES ESTO OS VOY A ARRANCAR LA MALDITA CABEZA CABRONES …",
+  "tokens": [
+    "RT",
+    "@artsyfella:",
+    "LA",
+    "MUERTE",
+    "DE",
+    "LEXA",
+    "HA",
+    "SIDO",
+    "SÚPER",
+    "TONTA",
+    "ME",
+    "CAGO",
+    "EN",
+    "TODO",
+    "QUE",
+    "PUTA",
+    "MIERDA",
+    "ES",
+    "ESTO",
+    "OS",
+    "VOY",
+    "A",
+    "ARRANCAR",
+    "LA",
+    "MALDITA",
+    "CABEZA",
+    "CABRONES",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@artsyfella:",
+      "startCharOffset": 3,
+      "endCharOffset": 15
+    },
+    {
+      "form": "LA",
+      "startCharOffset": 16,
+      "endCharOffset": 18
+    },
+    {
+      "form": "MUERTE",
+      "startCharOffset": 19,
+      "endCharOffset": 25
+    },
+    {
+      "form": "DE",
+      "startCharOffset": 26,
+      "endCharOffset": 28
+    },
+    {
+      "form": "LEXA",
+      "startCharOffset": 29,
+      "endCharOffset": 33
+    },
+    {
+      "form": "HA",
+      "startCharOffset": 34,
+      "endCharOffset": 36
+    },
+    {
+      "form": "SIDO",
+      "startCharOffset": 37,
+      "endCharOffset": 41
+    },
+    {
+      "form": "SÚPER",
+      "startCharOffset": 42,
+      "endCharOffset": 47
+    },
+    {
+      "form": "TONTA",
+      "startCharOffset": 48,
+      "endCharOffset": 53
+    },
+    {
+      "form": "ME",
+      "startCharOffset": 54,
+      "endCharOffset": 56
+    },
+    {
+      "form": "CAGO",
+      "startCharOffset": 57,
+      "endCharOffset": 61
+    },
+    {
+      "form": "EN",
+      "startCharOffset": 62,
+      "endCharOffset": 64
+    },
+    {
+      "form": "TODO",
+      "startCharOffset": 65,
+      "endCharOffset": 69
+    },
+    {
+      "form": "QUE",
+      "startCharOffset": 70,
+      "endCharOffset": 73
+    },
+    {
+      "form": "PUTA",
+      "startCharOffset": 74,
+      "endCharOffset": 78
+    },
+    {
+      "form": "MIERDA",
+      "startCharOffset": 79,
+      "endCharOffset": 85
+    },
+    {
+      "form": "ES",
+      "startCharOffset": 86,
+      "endCharOffset": 88
+    },
+    {
+      "form": "ESTO",
+      "startCharOffset": 89,
+      "endCharOffset": 93
+    },
+    {
+      "form": "OS",
+      "startCharOffset": 94,
+      "endCharOffset": 96
+    },
+    {
+      "form": "VOY",
+      "startCharOffset": 97,
+      "endCharOffset": 100
+    },
+    {
+      "form": "A",
+      "startCharOffset": 101,
+      "endCharOffset": 102
+    },
+    {
+      "form": "ARRANCAR",
+      "startCharOffset": 103,
+      "endCharOffset": 111
+    },
+    {
+      "form": "LA",
+      "startCharOffset": 112,
+      "endCharOffset": 114
+    },
+    {
+      "form": "MALDITA",
+      "startCharOffset": 115,
+      "endCharOffset": 122
+    },
+    {
+      "form": "CABEZA",
+      "startCharOffset": 123,
+      "endCharOffset": 129
+    },
+    {
+      "form": "CABRONES",
+      "startCharOffset": 130,
+      "endCharOffset": 138
+    },
+    {
+      "form": "…",
+      "startCharOffset": 139,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      28
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

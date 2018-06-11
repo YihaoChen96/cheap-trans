@@ -1,0 +1,356 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160316_G0T1020PL",
+  "text": "RT @williameizarra: Contra las guarimbas, el terrorismo y el imperio: la Fuerza Revolucionaria que le perdió el miedo a la muerte. https://…",
+  "tokens": [
+    "RT",
+    "@williameizarra:",
+    "Contra",
+    "las",
+    "guarimbas",
+    ",",
+    "el",
+    "terrorismo",
+    "y",
+    "el",
+    "imperio",
+    ":",
+    "la",
+    "Fuerza",
+    "Revolucionaria",
+    "que",
+    "le",
+    "perdió",
+    "el",
+    "miedo",
+    "a",
+    "la",
+    "muerte",
+    ".",
+    "https://…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@williameizarra:",
+      "startCharOffset": 3,
+      "endCharOffset": 19
+    },
+    {
+      "form": "Contra",
+      "startCharOffset": 20,
+      "endCharOffset": 26
+    },
+    {
+      "form": "las",
+      "startCharOffset": 27,
+      "endCharOffset": 30
+    },
+    {
+      "form": "guarimbas",
+      "startCharOffset": 31,
+      "endCharOffset": 40
+    },
+    {
+      "form": ",",
+      "startCharOffset": 40,
+      "endCharOffset": 41
+    },
+    {
+      "form": "el",
+      "startCharOffset": 42,
+      "endCharOffset": 44
+    },
+    {
+      "form": "terrorismo",
+      "startCharOffset": 45,
+      "endCharOffset": 55
+    },
+    {
+      "form": "y",
+      "startCharOffset": 56,
+      "endCharOffset": 57
+    },
+    {
+      "form": "el",
+      "startCharOffset": 58,
+      "endCharOffset": 60
+    },
+    {
+      "form": "imperio",
+      "startCharOffset": 61,
+      "endCharOffset": 68
+    },
+    {
+      "form": ":",
+      "startCharOffset": 68,
+      "endCharOffset": 69
+    },
+    {
+      "form": "la",
+      "startCharOffset": 70,
+      "endCharOffset": 72
+    },
+    {
+      "form": "Fuerza",
+      "startCharOffset": 73,
+      "endCharOffset": 79
+    },
+    {
+      "form": "Revolucionaria",
+      "startCharOffset": 80,
+      "endCharOffset": 94
+    },
+    {
+      "form": "que",
+      "startCharOffset": 95,
+      "endCharOffset": 98
+    },
+    {
+      "form": "le",
+      "startCharOffset": 99,
+      "endCharOffset": 101
+    },
+    {
+      "form": "perdió",
+      "startCharOffset": 102,
+      "endCharOffset": 108
+    },
+    {
+      "form": "el",
+      "startCharOffset": 109,
+      "endCharOffset": 111
+    },
+    {
+      "form": "miedo",
+      "startCharOffset": 112,
+      "endCharOffset": 117
+    },
+    {
+      "form": "a",
+      "startCharOffset": 118,
+      "endCharOffset": 119
+    },
+    {
+      "form": "la",
+      "startCharOffset": 120,
+      "endCharOffset": 122
+    },
+    {
+      "form": "muerte",
+      "startCharOffset": 123,
+      "endCharOffset": 129
+    },
+    {
+      "form": ".",
+      "startCharOffset": 129,
+      "endCharOffset": 130
+    },
+    {
+      "form": "https://…",
+      "startCharOffset": 131,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      25
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 13,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

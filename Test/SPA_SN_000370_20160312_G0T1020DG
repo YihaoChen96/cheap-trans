@@ -1,0 +1,272 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T1020DG",
+  "text": "#ObamaVenezuelaNoSeRinde Xq Somos Esperanza, Somos Pueblo Valiente y Futuro. Mientas tu representas mentira y muerte https://t.co/EClQHEGQ7T",
+  "tokens": [
+    "#ObamaVenezuelaNoSeRinde",
+    "Xq",
+    "Somos",
+    "Esperanza",
+    ",",
+    "Somos",
+    "Pueblo",
+    "Valiente",
+    "y",
+    "Futuro",
+    ".",
+    "Mientas",
+    "tu",
+    "representas",
+    "mentira",
+    "y",
+    "muerte",
+    "https://t.co/EClQHEGQ7T"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "#ObamaVenezuelaNoSeRinde",
+      "startCharOffset": 0,
+      "endCharOffset": 24
+    },
+    {
+      "form": "Xq",
+      "startCharOffset": 25,
+      "endCharOffset": 27
+    },
+    {
+      "form": "Somos",
+      "startCharOffset": 28,
+      "endCharOffset": 33
+    },
+    {
+      "form": "Esperanza",
+      "startCharOffset": 34,
+      "endCharOffset": 43
+    },
+    {
+      "form": ",",
+      "startCharOffset": 43,
+      "endCharOffset": 44
+    },
+    {
+      "form": "Somos",
+      "startCharOffset": 45,
+      "endCharOffset": 50
+    },
+    {
+      "form": "Pueblo",
+      "startCharOffset": 51,
+      "endCharOffset": 57
+    },
+    {
+      "form": "Valiente",
+      "startCharOffset": 58,
+      "endCharOffset": 66
+    },
+    {
+      "form": "y",
+      "startCharOffset": 67,
+      "endCharOffset": 68
+    },
+    {
+      "form": "Futuro",
+      "startCharOffset": 69,
+      "endCharOffset": 75
+    },
+    {
+      "form": ".",
+      "startCharOffset": 75,
+      "endCharOffset": 76
+    },
+    {
+      "form": "Mientas",
+      "startCharOffset": 77,
+      "endCharOffset": 84
+    },
+    {
+      "form": "tu",
+      "startCharOffset": 85,
+      "endCharOffset": 87
+    },
+    {
+      "form": "representas",
+      "startCharOffset": 88,
+      "endCharOffset": 99
+    },
+    {
+      "form": "mentira",
+      "startCharOffset": 100,
+      "endCharOffset": 107
+    },
+    {
+      "form": "y",
+      "startCharOffset": 108,
+      "endCharOffset": 109
+    },
+    {
+      "form": "muerte",
+      "startCharOffset": 110,
+      "endCharOffset": 116
+    },
+    {
+      "form": "https://t.co/EClQHEGQ7T",
+      "startCharOffset": 117,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      18
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

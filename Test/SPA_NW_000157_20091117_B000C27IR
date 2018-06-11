@@ -1,0 +1,4610 @@
+{
+  "corpusId": "",
+  "id": "SPA_NW_000157_20091117_B000C27IR",
+  "text": "Obama crea grupo especial para combate a delitos financieros  WASHINGTON, 17 nov (Xinhua)  Obama crea grupo especial para combate a delitos financieros  La administración Obama estableció hoy un Grupo Especial para el Combate al Fraude Financiero, integrado por varias agencias, con el fin de fortalecer los esfuerzos encaminados a combatir los delitos en el área de finanzas.  El Departamento de Justicia encabezará el grupo especial y el Departamento del Tesoro, Desarrollo Urbano y de Vivienda y la Comisión de Valores y Bolsa formarán parte del comité directivo.  La dirigencia del grupo especial, junto con los representantes de una amplia gama de agencias federales, autoridades regulatorias e inspectores generales, trabajará con los socios estatales y locales para investigar y perseguir delitos financieron importantes, asegurar un castigo justo y efectivo a los responsables de delitos fiancieros, atender la discriminación en los mercados financieros y de préstamo y recuperar dinero para las víctimas, se indicó en una declaración emitida por el Departamento del Tesoro.  El nuevo grupo, que reemplazará al Grupo Especial para el Fraude Corporativo creado en el 2002, tomará como base los esfuerzos ya en curso para combatir el fraude hipotecario, corporativo y de valores a través de incrementar la coordinación y de utilizar plenamente los recursos y los conocimientos del aparato regulador y legal del gobierno.  El procurador general convocará la primera reunión del nuevo grupo en los próximos 30 días.  \"La misión de este grupo especial no es solamente pedir la rendición de cuentas a quienes contribuyeron a producir la última crisis financiera, sino evitar que ocurra una nueva crisis\", dijo en una declaración el procurador general Eric Holder.  \"No resulta suficiente perseguir el fraude sólo despues de que se ha generalizado. Estamos buscando una reforma financiera para crear un sistema financiero más estable y más seguro y el mejoramiento de la estrategia para lograr el cumplimiento\", dijo Timothy Geithner, secretario del Tesoro de Estados Unidos.  \"Hacerlo ayudará a detener las tendencias emergentes en el fraude financiero antes de que puedan provocar daños amplios y generalizados a nuestra economía\". Fin",
+  "tokens": [
+    "Obama",
+    "crea",
+    "grupo",
+    "especial",
+    "para",
+    "combate",
+    "a",
+    "delitos",
+    "financieros",
+    "WASHINGTON",
+    ",",
+    "17",
+    "nov",
+    "(",
+    "Xinhua",
+    ")",
+    "Obama",
+    "crea",
+    "grupo",
+    "especial",
+    "para",
+    "combate",
+    "a",
+    "delitos",
+    "financieros",
+    "La",
+    "administración",
+    "Obama",
+    "estableció",
+    "hoy",
+    "un",
+    "Grupo",
+    "Especial",
+    "para",
+    "el",
+    "Combate",
+    "al",
+    "Fraude",
+    "Financiero",
+    ",",
+    "integrado",
+    "por",
+    "varias",
+    "agencias",
+    ",",
+    "con",
+    "el",
+    "fin",
+    "de",
+    "fortalecer",
+    "los",
+    "esfuerzos",
+    "encaminados",
+    "a",
+    "combatir",
+    "los",
+    "delitos",
+    "en",
+    "el",
+    "área",
+    "de",
+    "finanzas",
+    ".",
+    "El",
+    "Departamento",
+    "de",
+    "Justicia",
+    "encabezará",
+    "el",
+    "grupo",
+    "especial",
+    "y",
+    "el",
+    "Departamento",
+    "del",
+    "Tesoro",
+    ",",
+    "Desarrollo",
+    "Urbano",
+    "y",
+    "de",
+    "Vivienda",
+    "y",
+    "la",
+    "Comisión",
+    "de",
+    "Valores",
+    "y",
+    "Bolsa",
+    "formarán",
+    "parte",
+    "del",
+    "comité",
+    "directivo",
+    ".",
+    "La",
+    "dirigencia",
+    "del",
+    "grupo",
+    "especial",
+    ",",
+    "junto",
+    "con",
+    "los",
+    "representantes",
+    "de",
+    "una",
+    "amplia",
+    "gama",
+    "de",
+    "agencias",
+    "federales",
+    ",",
+    "autoridades",
+    "regulatorias",
+    "e",
+    "inspectores",
+    "generales",
+    ",",
+    "trabajará",
+    "con",
+    "los",
+    "socios",
+    "estatales",
+    "y",
+    "locales",
+    "para",
+    "investigar",
+    "y",
+    "perseguir",
+    "delitos",
+    "financieron",
+    "importantes",
+    ",",
+    "asegurar",
+    "un",
+    "castigo",
+    "justo",
+    "y",
+    "efectivo",
+    "a",
+    "los",
+    "responsables",
+    "de",
+    "delitos",
+    "fiancieros",
+    ",",
+    "atender",
+    "la",
+    "discriminación",
+    "en",
+    "los",
+    "mercados",
+    "financieros",
+    "y",
+    "de",
+    "préstamo",
+    "y",
+    "recuperar",
+    "dinero",
+    "para",
+    "las",
+    "víctimas",
+    ",",
+    "se",
+    "indicó",
+    "en",
+    "una",
+    "declaración",
+    "emitida",
+    "por",
+    "el",
+    "Departamento",
+    "del",
+    "Tesoro",
+    ".",
+    "El",
+    "nuevo",
+    "grupo",
+    ",",
+    "que",
+    "reemplazará",
+    "al",
+    "Grupo",
+    "Especial",
+    "para",
+    "el",
+    "Fraude",
+    "Corporativo",
+    "creado",
+    "en",
+    "el",
+    "2002",
+    ",",
+    "tomará",
+    "como",
+    "base",
+    "los",
+    "esfuerzos",
+    "ya",
+    "en",
+    "curso",
+    "para",
+    "combatir",
+    "el",
+    "fraude",
+    "hipotecario",
+    ",",
+    "corporativo",
+    "y",
+    "de",
+    "valores",
+    "a",
+    "través",
+    "de",
+    "incrementar",
+    "la",
+    "coordinación",
+    "y",
+    "de",
+    "utilizar",
+    "plenamente",
+    "los",
+    "recursos",
+    "y",
+    "los",
+    "conocimientos",
+    "del",
+    "aparato",
+    "regulador",
+    "y",
+    "legal",
+    "del",
+    "gobierno",
+    ".",
+    "El",
+    "procurador",
+    "general",
+    "convocará",
+    "la",
+    "primera",
+    "reunión",
+    "del",
+    "nuevo",
+    "grupo",
+    "en",
+    "los",
+    "próximos",
+    "30",
+    "días",
+    ".",
+    "\"",
+    "La",
+    "misión",
+    "de",
+    "este",
+    "grupo",
+    "especial",
+    "no",
+    "es",
+    "solamente",
+    "pedir",
+    "la",
+    "rendición",
+    "de",
+    "cuentas",
+    "a",
+    "quienes",
+    "contribuyeron",
+    "a",
+    "producir",
+    "la",
+    "última",
+    "crisis",
+    "financiera",
+    ",",
+    "sino",
+    "evitar",
+    "que",
+    "ocurra",
+    "una",
+    "nueva",
+    "crisis",
+    "\",",
+    "dijo",
+    "en",
+    "una",
+    "declaración",
+    "el",
+    "procurador",
+    "general",
+    "Eric",
+    "Holder",
+    ".",
+    "\"",
+    "No",
+    "resulta",
+    "suficiente",
+    "perseguir",
+    "el",
+    "fraude",
+    "sólo",
+    "despues",
+    "de",
+    "que",
+    "se",
+    "ha",
+    "generalizado",
+    ".",
+    "Estamos",
+    "buscando",
+    "una",
+    "reforma",
+    "financiera",
+    "para",
+    "crear",
+    "un",
+    "sistema",
+    "financiero",
+    "más",
+    "estable",
+    "y",
+    "más",
+    "seguro",
+    "y",
+    "el",
+    "mejoramiento",
+    "de",
+    "la",
+    "estrategia",
+    "para",
+    "lograr",
+    "el",
+    "cumplimiento",
+    "\",",
+    "dijo",
+    "Timothy",
+    "Geithner",
+    ",",
+    "secretario",
+    "del",
+    "Tesoro",
+    "de",
+    "Estados",
+    "Unidos",
+    ".",
+    "\"",
+    "Hacerlo",
+    "ayudará",
+    "a",
+    "detener",
+    "las",
+    "tendencias",
+    "emergentes",
+    "en",
+    "el",
+    "fraude",
+    "financiero",
+    "antes",
+    "de",
+    "que",
+    "puedan",
+    "provocar",
+    "daños",
+    "amplios",
+    "y",
+    "generalizados",
+    "a",
+    "nuestra",
+    "economía",
+    "\".",
+    "Fin"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Obama",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "crea",
+      "startCharOffset": 6,
+      "endCharOffset": 10
+    },
+    {
+      "form": "grupo",
+      "startCharOffset": 11,
+      "endCharOffset": 16
+    },
+    {
+      "form": "especial",
+      "startCharOffset": 17,
+      "endCharOffset": 25
+    },
+    {
+      "form": "para",
+      "startCharOffset": 26,
+      "endCharOffset": 30
+    },
+    {
+      "form": "combate",
+      "startCharOffset": 31,
+      "endCharOffset": 38
+    },
+    {
+      "form": "a",
+      "startCharOffset": 39,
+      "endCharOffset": 40
+    },
+    {
+      "form": "delitos",
+      "startCharOffset": 41,
+      "endCharOffset": 48
+    },
+    {
+      "form": "financieros",
+      "startCharOffset": 49,
+      "endCharOffset": 60
+    },
+    {
+      "form": "WASHINGTON",
+      "startCharOffset": 62,
+      "endCharOffset": 72
+    },
+    {
+      "form": ",",
+      "startCharOffset": 72,
+      "endCharOffset": 73
+    },
+    {
+      "form": "17",
+      "startCharOffset": 74,
+      "endCharOffset": 76
+    },
+    {
+      "form": "nov",
+      "startCharOffset": 77,
+      "endCharOffset": 80
+    },
+    {
+      "form": "(",
+      "startCharOffset": 81,
+      "endCharOffset": 82
+    },
+    {
+      "form": "Xinhua",
+      "startCharOffset": 82,
+      "endCharOffset": 88
+    },
+    {
+      "form": ")",
+      "startCharOffset": 88,
+      "endCharOffset": 89
+    },
+    {
+      "form": "Obama",
+      "startCharOffset": 91,
+      "endCharOffset": 96
+    },
+    {
+      "form": "crea",
+      "startCharOffset": 97,
+      "endCharOffset": 101
+    },
+    {
+      "form": "grupo",
+      "startCharOffset": 102,
+      "endCharOffset": 107
+    },
+    {
+      "form": "especial",
+      "startCharOffset": 108,
+      "endCharOffset": 116
+    },
+    {
+      "form": "para",
+      "startCharOffset": 117,
+      "endCharOffset": 121
+    },
+    {
+      "form": "combate",
+      "startCharOffset": 122,
+      "endCharOffset": 129
+    },
+    {
+      "form": "a",
+      "startCharOffset": 130,
+      "endCharOffset": 131
+    },
+    {
+      "form": "delitos",
+      "startCharOffset": 132,
+      "endCharOffset": 139
+    },
+    {
+      "form": "financieros",
+      "startCharOffset": 140,
+      "endCharOffset": 151
+    },
+    {
+      "form": "La",
+      "startCharOffset": 153,
+      "endCharOffset": 155
+    },
+    {
+      "form": "administración",
+      "startCharOffset": 156,
+      "endCharOffset": 170
+    },
+    {
+      "form": "Obama",
+      "startCharOffset": 171,
+      "endCharOffset": 176
+    },
+    {
+      "form": "estableció",
+      "startCharOffset": 177,
+      "endCharOffset": 187
+    },
+    {
+      "form": "hoy",
+      "startCharOffset": 188,
+      "endCharOffset": 191
+    },
+    {
+      "form": "un",
+      "startCharOffset": 192,
+      "endCharOffset": 194
+    },
+    {
+      "form": "Grupo",
+      "startCharOffset": 195,
+      "endCharOffset": 200
+    },
+    {
+      "form": "Especial",
+      "startCharOffset": 201,
+      "endCharOffset": 209
+    },
+    {
+      "form": "para",
+      "startCharOffset": 210,
+      "endCharOffset": 214
+    },
+    {
+      "form": "el",
+      "startCharOffset": 215,
+      "endCharOffset": 217
+    },
+    {
+      "form": "Combate",
+      "startCharOffset": 218,
+      "endCharOffset": 225
+    },
+    {
+      "form": "al",
+      "startCharOffset": 226,
+      "endCharOffset": 228
+    },
+    {
+      "form": "Fraude",
+      "startCharOffset": 229,
+      "endCharOffset": 235
+    },
+    {
+      "form": "Financiero",
+      "startCharOffset": 236,
+      "endCharOffset": 246
+    },
+    {
+      "form": ",",
+      "startCharOffset": 246,
+      "endCharOffset": 247
+    },
+    {
+      "form": "integrado",
+      "startCharOffset": 248,
+      "endCharOffset": 257
+    },
+    {
+      "form": "por",
+      "startCharOffset": 258,
+      "endCharOffset": 261
+    },
+    {
+      "form": "varias",
+      "startCharOffset": 262,
+      "endCharOffset": 268
+    },
+    {
+      "form": "agencias",
+      "startCharOffset": 269,
+      "endCharOffset": 277
+    },
+    {
+      "form": ",",
+      "startCharOffset": 277,
+      "endCharOffset": 278
+    },
+    {
+      "form": "con",
+      "startCharOffset": 279,
+      "endCharOffset": 282
+    },
+    {
+      "form": "el",
+      "startCharOffset": 283,
+      "endCharOffset": 285
+    },
+    {
+      "form": "fin",
+      "startCharOffset": 286,
+      "endCharOffset": 289
+    },
+    {
+      "form": "de",
+      "startCharOffset": 290,
+      "endCharOffset": 292
+    },
+    {
+      "form": "fortalecer",
+      "startCharOffset": 293,
+      "endCharOffset": 303
+    },
+    {
+      "form": "los",
+      "startCharOffset": 304,
+      "endCharOffset": 307
+    },
+    {
+      "form": "esfuerzos",
+      "startCharOffset": 308,
+      "endCharOffset": 317
+    },
+    {
+      "form": "encaminados",
+      "startCharOffset": 318,
+      "endCharOffset": 329
+    },
+    {
+      "form": "a",
+      "startCharOffset": 330,
+      "endCharOffset": 331
+    },
+    {
+      "form": "combatir",
+      "startCharOffset": 332,
+      "endCharOffset": 340
+    },
+    {
+      "form": "los",
+      "startCharOffset": 341,
+      "endCharOffset": 344
+    },
+    {
+      "form": "delitos",
+      "startCharOffset": 345,
+      "endCharOffset": 352
+    },
+    {
+      "form": "en",
+      "startCharOffset": 353,
+      "endCharOffset": 355
+    },
+    {
+      "form": "el",
+      "startCharOffset": 356,
+      "endCharOffset": 358
+    },
+    {
+      "form": "área",
+      "startCharOffset": 359,
+      "endCharOffset": 363
+    },
+    {
+      "form": "de",
+      "startCharOffset": 364,
+      "endCharOffset": 366
+    },
+    {
+      "form": "finanzas",
+      "startCharOffset": 367,
+      "endCharOffset": 375
+    },
+    {
+      "form": ".",
+      "startCharOffset": 375,
+      "endCharOffset": 376
+    },
+    {
+      "form": "El",
+      "startCharOffset": 378,
+      "endCharOffset": 380
+    },
+    {
+      "form": "Departamento",
+      "startCharOffset": 381,
+      "endCharOffset": 393
+    },
+    {
+      "form": "de",
+      "startCharOffset": 394,
+      "endCharOffset": 396
+    },
+    {
+      "form": "Justicia",
+      "startCharOffset": 397,
+      "endCharOffset": 405
+    },
+    {
+      "form": "encabezará",
+      "startCharOffset": 406,
+      "endCharOffset": 416
+    },
+    {
+      "form": "el",
+      "startCharOffset": 417,
+      "endCharOffset": 419
+    },
+    {
+      "form": "grupo",
+      "startCharOffset": 420,
+      "endCharOffset": 425
+    },
+    {
+      "form": "especial",
+      "startCharOffset": 426,
+      "endCharOffset": 434
+    },
+    {
+      "form": "y",
+      "startCharOffset": 435,
+      "endCharOffset": 436
+    },
+    {
+      "form": "el",
+      "startCharOffset": 437,
+      "endCharOffset": 439
+    },
+    {
+      "form": "Departamento",
+      "startCharOffset": 440,
+      "endCharOffset": 452
+    },
+    {
+      "form": "del",
+      "startCharOffset": 453,
+      "endCharOffset": 456
+    },
+    {
+      "form": "Tesoro",
+      "startCharOffset": 457,
+      "endCharOffset": 463
+    },
+    {
+      "form": ",",
+      "startCharOffset": 463,
+      "endCharOffset": 464
+    },
+    {
+      "form": "Desarrollo",
+      "startCharOffset": 465,
+      "endCharOffset": 475
+    },
+    {
+      "form": "Urbano",
+      "startCharOffset": 476,
+      "endCharOffset": 482
+    },
+    {
+      "form": "y",
+      "startCharOffset": 483,
+      "endCharOffset": 484
+    },
+    {
+      "form": "de",
+      "startCharOffset": 485,
+      "endCharOffset": 487
+    },
+    {
+      "form": "Vivienda",
+      "startCharOffset": 488,
+      "endCharOffset": 496
+    },
+    {
+      "form": "y",
+      "startCharOffset": 497,
+      "endCharOffset": 498
+    },
+    {
+      "form": "la",
+      "startCharOffset": 499,
+      "endCharOffset": 501
+    },
+    {
+      "form": "Comisión",
+      "startCharOffset": 502,
+      "endCharOffset": 510
+    },
+    {
+      "form": "de",
+      "startCharOffset": 511,
+      "endCharOffset": 513
+    },
+    {
+      "form": "Valores",
+      "startCharOffset": 514,
+      "endCharOffset": 521
+    },
+    {
+      "form": "y",
+      "startCharOffset": 522,
+      "endCharOffset": 523
+    },
+    {
+      "form": "Bolsa",
+      "startCharOffset": 524,
+      "endCharOffset": 529
+    },
+    {
+      "form": "formarán",
+      "startCharOffset": 530,
+      "endCharOffset": 538
+    },
+    {
+      "form": "parte",
+      "startCharOffset": 539,
+      "endCharOffset": 544
+    },
+    {
+      "form": "del",
+      "startCharOffset": 545,
+      "endCharOffset": 548
+    },
+    {
+      "form": "comité",
+      "startCharOffset": 549,
+      "endCharOffset": 555
+    },
+    {
+      "form": "directivo",
+      "startCharOffset": 556,
+      "endCharOffset": 565
+    },
+    {
+      "form": ".",
+      "startCharOffset": 565,
+      "endCharOffset": 566
+    },
+    {
+      "form": "La",
+      "startCharOffset": 568,
+      "endCharOffset": 570
+    },
+    {
+      "form": "dirigencia",
+      "startCharOffset": 571,
+      "endCharOffset": 581
+    },
+    {
+      "form": "del",
+      "startCharOffset": 582,
+      "endCharOffset": 585
+    },
+    {
+      "form": "grupo",
+      "startCharOffset": 586,
+      "endCharOffset": 591
+    },
+    {
+      "form": "especial",
+      "startCharOffset": 592,
+      "endCharOffset": 600
+    },
+    {
+      "form": ",",
+      "startCharOffset": 600,
+      "endCharOffset": 601
+    },
+    {
+      "form": "junto",
+      "startCharOffset": 602,
+      "endCharOffset": 607
+    },
+    {
+      "form": "con",
+      "startCharOffset": 608,
+      "endCharOffset": 611
+    },
+    {
+      "form": "los",
+      "startCharOffset": 612,
+      "endCharOffset": 615
+    },
+    {
+      "form": "representantes",
+      "startCharOffset": 616,
+      "endCharOffset": 630
+    },
+    {
+      "form": "de",
+      "startCharOffset": 631,
+      "endCharOffset": 633
+    },
+    {
+      "form": "una",
+      "startCharOffset": 634,
+      "endCharOffset": 637
+    },
+    {
+      "form": "amplia",
+      "startCharOffset": 638,
+      "endCharOffset": 644
+    },
+    {
+      "form": "gama",
+      "startCharOffset": 645,
+      "endCharOffset": 649
+    },
+    {
+      "form": "de",
+      "startCharOffset": 650,
+      "endCharOffset": 652
+    },
+    {
+      "form": "agencias",
+      "startCharOffset": 653,
+      "endCharOffset": 661
+    },
+    {
+      "form": "federales",
+      "startCharOffset": 662,
+      "endCharOffset": 671
+    },
+    {
+      "form": ",",
+      "startCharOffset": 671,
+      "endCharOffset": 672
+    },
+    {
+      "form": "autoridades",
+      "startCharOffset": 673,
+      "endCharOffset": 684
+    },
+    {
+      "form": "regulatorias",
+      "startCharOffset": 685,
+      "endCharOffset": 697
+    },
+    {
+      "form": "e",
+      "startCharOffset": 698,
+      "endCharOffset": 699
+    },
+    {
+      "form": "inspectores",
+      "startCharOffset": 700,
+      "endCharOffset": 711
+    },
+    {
+      "form": "generales",
+      "startCharOffset": 712,
+      "endCharOffset": 721
+    },
+    {
+      "form": ",",
+      "startCharOffset": 721,
+      "endCharOffset": 722
+    },
+    {
+      "form": "trabajará",
+      "startCharOffset": 723,
+      "endCharOffset": 732
+    },
+    {
+      "form": "con",
+      "startCharOffset": 733,
+      "endCharOffset": 736
+    },
+    {
+      "form": "los",
+      "startCharOffset": 737,
+      "endCharOffset": 740
+    },
+    {
+      "form": "socios",
+      "startCharOffset": 741,
+      "endCharOffset": 747
+    },
+    {
+      "form": "estatales",
+      "startCharOffset": 748,
+      "endCharOffset": 757
+    },
+    {
+      "form": "y",
+      "startCharOffset": 758,
+      "endCharOffset": 759
+    },
+    {
+      "form": "locales",
+      "startCharOffset": 760,
+      "endCharOffset": 767
+    },
+    {
+      "form": "para",
+      "startCharOffset": 768,
+      "endCharOffset": 772
+    },
+    {
+      "form": "investigar",
+      "startCharOffset": 773,
+      "endCharOffset": 783
+    },
+    {
+      "form": "y",
+      "startCharOffset": 784,
+      "endCharOffset": 785
+    },
+    {
+      "form": "perseguir",
+      "startCharOffset": 786,
+      "endCharOffset": 795
+    },
+    {
+      "form": "delitos",
+      "startCharOffset": 796,
+      "endCharOffset": 803
+    },
+    {
+      "form": "financieron",
+      "startCharOffset": 804,
+      "endCharOffset": 815
+    },
+    {
+      "form": "importantes",
+      "startCharOffset": 816,
+      "endCharOffset": 827
+    },
+    {
+      "form": ",",
+      "startCharOffset": 827,
+      "endCharOffset": 828
+    },
+    {
+      "form": "asegurar",
+      "startCharOffset": 829,
+      "endCharOffset": 837
+    },
+    {
+      "form": "un",
+      "startCharOffset": 838,
+      "endCharOffset": 840
+    },
+    {
+      "form": "castigo",
+      "startCharOffset": 841,
+      "endCharOffset": 848
+    },
+    {
+      "form": "justo",
+      "startCharOffset": 849,
+      "endCharOffset": 854
+    },
+    {
+      "form": "y",
+      "startCharOffset": 855,
+      "endCharOffset": 856
+    },
+    {
+      "form": "efectivo",
+      "startCharOffset": 857,
+      "endCharOffset": 865
+    },
+    {
+      "form": "a",
+      "startCharOffset": 866,
+      "endCharOffset": 867
+    },
+    {
+      "form": "los",
+      "startCharOffset": 868,
+      "endCharOffset": 871
+    },
+    {
+      "form": "responsables",
+      "startCharOffset": 872,
+      "endCharOffset": 884
+    },
+    {
+      "form": "de",
+      "startCharOffset": 885,
+      "endCharOffset": 887
+    },
+    {
+      "form": "delitos",
+      "startCharOffset": 888,
+      "endCharOffset": 895
+    },
+    {
+      "form": "fiancieros",
+      "startCharOffset": 896,
+      "endCharOffset": 906
+    },
+    {
+      "form": ",",
+      "startCharOffset": 906,
+      "endCharOffset": 907
+    },
+    {
+      "form": "atender",
+      "startCharOffset": 908,
+      "endCharOffset": 915
+    },
+    {
+      "form": "la",
+      "startCharOffset": 916,
+      "endCharOffset": 918
+    },
+    {
+      "form": "discriminación",
+      "startCharOffset": 919,
+      "endCharOffset": 933
+    },
+    {
+      "form": "en",
+      "startCharOffset": 934,
+      "endCharOffset": 936
+    },
+    {
+      "form": "los",
+      "startCharOffset": 937,
+      "endCharOffset": 940
+    },
+    {
+      "form": "mercados",
+      "startCharOffset": 941,
+      "endCharOffset": 949
+    },
+    {
+      "form": "financieros",
+      "startCharOffset": 950,
+      "endCharOffset": 961
+    },
+    {
+      "form": "y",
+      "startCharOffset": 962,
+      "endCharOffset": 963
+    },
+    {
+      "form": "de",
+      "startCharOffset": 964,
+      "endCharOffset": 966
+    },
+    {
+      "form": "préstamo",
+      "startCharOffset": 967,
+      "endCharOffset": 975
+    },
+    {
+      "form": "y",
+      "startCharOffset": 976,
+      "endCharOffset": 977
+    },
+    {
+      "form": "recuperar",
+      "startCharOffset": 978,
+      "endCharOffset": 987
+    },
+    {
+      "form": "dinero",
+      "startCharOffset": 988,
+      "endCharOffset": 994
+    },
+    {
+      "form": "para",
+      "startCharOffset": 995,
+      "endCharOffset": 999
+    },
+    {
+      "form": "las",
+      "startCharOffset": 1000,
+      "endCharOffset": 1003
+    },
+    {
+      "form": "víctimas",
+      "startCharOffset": 1004,
+      "endCharOffset": 1012
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1012,
+      "endCharOffset": 1013
+    },
+    {
+      "form": "se",
+      "startCharOffset": 1014,
+      "endCharOffset": 1016
+    },
+    {
+      "form": "indicó",
+      "startCharOffset": 1017,
+      "endCharOffset": 1023
+    },
+    {
+      "form": "en",
+      "startCharOffset": 1024,
+      "endCharOffset": 1026
+    },
+    {
+      "form": "una",
+      "startCharOffset": 1027,
+      "endCharOffset": 1030
+    },
+    {
+      "form": "declaración",
+      "startCharOffset": 1031,
+      "endCharOffset": 1042
+    },
+    {
+      "form": "emitida",
+      "startCharOffset": 1043,
+      "endCharOffset": 1050
+    },
+    {
+      "form": "por",
+      "startCharOffset": 1051,
+      "endCharOffset": 1054
+    },
+    {
+      "form": "el",
+      "startCharOffset": 1055,
+      "endCharOffset": 1057
+    },
+    {
+      "form": "Departamento",
+      "startCharOffset": 1058,
+      "endCharOffset": 1070
+    },
+    {
+      "form": "del",
+      "startCharOffset": 1071,
+      "endCharOffset": 1074
+    },
+    {
+      "form": "Tesoro",
+      "startCharOffset": 1075,
+      "endCharOffset": 1081
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1081,
+      "endCharOffset": 1082
+    },
+    {
+      "form": "El",
+      "startCharOffset": 1084,
+      "endCharOffset": 1086
+    },
+    {
+      "form": "nuevo",
+      "startCharOffset": 1087,
+      "endCharOffset": 1092
+    },
+    {
+      "form": "grupo",
+      "startCharOffset": 1093,
+      "endCharOffset": 1098
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1098,
+      "endCharOffset": 1099
+    },
+    {
+      "form": "que",
+      "startCharOffset": 1100,
+      "endCharOffset": 1103
+    },
+    {
+      "form": "reemplazará",
+      "startCharOffset": 1104,
+      "endCharOffset": 1115
+    },
+    {
+      "form": "al",
+      "startCharOffset": 1116,
+      "endCharOffset": 1118
+    },
+    {
+      "form": "Grupo",
+      "startCharOffset": 1119,
+      "endCharOffset": 1124
+    },
+    {
+      "form": "Especial",
+      "startCharOffset": 1125,
+      "endCharOffset": 1133
+    },
+    {
+      "form": "para",
+      "startCharOffset": 1134,
+      "endCharOffset": 1138
+    },
+    {
+      "form": "el",
+      "startCharOffset": 1139,
+      "endCharOffset": 1141
+    },
+    {
+      "form": "Fraude",
+      "startCharOffset": 1142,
+      "endCharOffset": 1148
+    },
+    {
+      "form": "Corporativo",
+      "startCharOffset": 1149,
+      "endCharOffset": 1160
+    },
+    {
+      "form": "creado",
+      "startCharOffset": 1161,
+      "endCharOffset": 1167
+    },
+    {
+      "form": "en",
+      "startCharOffset": 1168,
+      "endCharOffset": 1170
+    },
+    {
+      "form": "el",
+      "startCharOffset": 1171,
+      "endCharOffset": 1173
+    },
+    {
+      "form": "2002",
+      "startCharOffset": 1174,
+      "endCharOffset": 1178
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1178,
+      "endCharOffset": 1179
+    },
+    {
+      "form": "tomará",
+      "startCharOffset": 1180,
+      "endCharOffset": 1186
+    },
+    {
+      "form": "como",
+      "startCharOffset": 1187,
+      "endCharOffset": 1191
+    },
+    {
+      "form": "base",
+      "startCharOffset": 1192,
+      "endCharOffset": 1196
+    },
+    {
+      "form": "los",
+      "startCharOffset": 1197,
+      "endCharOffset": 1200
+    },
+    {
+      "form": "esfuerzos",
+      "startCharOffset": 1201,
+      "endCharOffset": 1210
+    },
+    {
+      "form": "ya",
+      "startCharOffset": 1211,
+      "endCharOffset": 1213
+    },
+    {
+      "form": "en",
+      "startCharOffset": 1214,
+      "endCharOffset": 1216
+    },
+    {
+      "form": "curso",
+      "startCharOffset": 1217,
+      "endCharOffset": 1222
+    },
+    {
+      "form": "para",
+      "startCharOffset": 1223,
+      "endCharOffset": 1227
+    },
+    {
+      "form": "combatir",
+      "startCharOffset": 1228,
+      "endCharOffset": 1236
+    },
+    {
+      "form": "el",
+      "startCharOffset": 1237,
+      "endCharOffset": 1239
+    },
+    {
+      "form": "fraude",
+      "startCharOffset": 1240,
+      "endCharOffset": 1246
+    },
+    {
+      "form": "hipotecario",
+      "startCharOffset": 1247,
+      "endCharOffset": 1258
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1258,
+      "endCharOffset": 1259
+    },
+    {
+      "form": "corporativo",
+      "startCharOffset": 1260,
+      "endCharOffset": 1271
+    },
+    {
+      "form": "y",
+      "startCharOffset": 1272,
+      "endCharOffset": 1273
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1274,
+      "endCharOffset": 1276
+    },
+    {
+      "form": "valores",
+      "startCharOffset": 1277,
+      "endCharOffset": 1284
+    },
+    {
+      "form": "a",
+      "startCharOffset": 1285,
+      "endCharOffset": 1286
+    },
+    {
+      "form": "través",
+      "startCharOffset": 1287,
+      "endCharOffset": 1293
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1294,
+      "endCharOffset": 1296
+    },
+    {
+      "form": "incrementar",
+      "startCharOffset": 1297,
+      "endCharOffset": 1308
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1309,
+      "endCharOffset": 1311
+    },
+    {
+      "form": "coordinación",
+      "startCharOffset": 1312,
+      "endCharOffset": 1324
+    },
+    {
+      "form": "y",
+      "startCharOffset": 1325,
+      "endCharOffset": 1326
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1327,
+      "endCharOffset": 1329
+    },
+    {
+      "form": "utilizar",
+      "startCharOffset": 1330,
+      "endCharOffset": 1338
+    },
+    {
+      "form": "plenamente",
+      "startCharOffset": 1339,
+      "endCharOffset": 1349
+    },
+    {
+      "form": "los",
+      "startCharOffset": 1350,
+      "endCharOffset": 1353
+    },
+    {
+      "form": "recursos",
+      "startCharOffset": 1354,
+      "endCharOffset": 1362
+    },
+    {
+      "form": "y",
+      "startCharOffset": 1363,
+      "endCharOffset": 1364
+    },
+    {
+      "form": "los",
+      "startCharOffset": 1365,
+      "endCharOffset": 1368
+    },
+    {
+      "form": "conocimientos",
+      "startCharOffset": 1369,
+      "endCharOffset": 1382
+    },
+    {
+      "form": "del",
+      "startCharOffset": 1383,
+      "endCharOffset": 1386
+    },
+    {
+      "form": "aparato",
+      "startCharOffset": 1387,
+      "endCharOffset": 1394
+    },
+    {
+      "form": "regulador",
+      "startCharOffset": 1395,
+      "endCharOffset": 1404
+    },
+    {
+      "form": "y",
+      "startCharOffset": 1405,
+      "endCharOffset": 1406
+    },
+    {
+      "form": "legal",
+      "startCharOffset": 1407,
+      "endCharOffset": 1412
+    },
+    {
+      "form": "del",
+      "startCharOffset": 1413,
+      "endCharOffset": 1416
+    },
+    {
+      "form": "gobierno",
+      "startCharOffset": 1417,
+      "endCharOffset": 1425
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1425,
+      "endCharOffset": 1426
+    },
+    {
+      "form": "El",
+      "startCharOffset": 1428,
+      "endCharOffset": 1430
+    },
+    {
+      "form": "procurador",
+      "startCharOffset": 1431,
+      "endCharOffset": 1441
+    },
+    {
+      "form": "general",
+      "startCharOffset": 1442,
+      "endCharOffset": 1449
+    },
+    {
+      "form": "convocará",
+      "startCharOffset": 1450,
+      "endCharOffset": 1459
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1460,
+      "endCharOffset": 1462
+    },
+    {
+      "form": "primera",
+      "startCharOffset": 1463,
+      "endCharOffset": 1470
+    },
+    {
+      "form": "reunión",
+      "startCharOffset": 1471,
+      "endCharOffset": 1478
+    },
+    {
+      "form": "del",
+      "startCharOffset": 1479,
+      "endCharOffset": 1482
+    },
+    {
+      "form": "nuevo",
+      "startCharOffset": 1483,
+      "endCharOffset": 1488
+    },
+    {
+      "form": "grupo",
+      "startCharOffset": 1489,
+      "endCharOffset": 1494
+    },
+    {
+      "form": "en",
+      "startCharOffset": 1495,
+      "endCharOffset": 1497
+    },
+    {
+      "form": "los",
+      "startCharOffset": 1498,
+      "endCharOffset": 1501
+    },
+    {
+      "form": "próximos",
+      "startCharOffset": 1502,
+      "endCharOffset": 1510
+    },
+    {
+      "form": "30",
+      "startCharOffset": 1511,
+      "endCharOffset": 1513
+    },
+    {
+      "form": "días",
+      "startCharOffset": 1514,
+      "endCharOffset": 1518
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1518,
+      "endCharOffset": 1519
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 1521,
+      "endCharOffset": 1522
+    },
+    {
+      "form": "La",
+      "startCharOffset": 1522,
+      "endCharOffset": 1524
+    },
+    {
+      "form": "misión",
+      "startCharOffset": 1525,
+      "endCharOffset": 1531
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1532,
+      "endCharOffset": 1534
+    },
+    {
+      "form": "este",
+      "startCharOffset": 1535,
+      "endCharOffset": 1539
+    },
+    {
+      "form": "grupo",
+      "startCharOffset": 1540,
+      "endCharOffset": 1545
+    },
+    {
+      "form": "especial",
+      "startCharOffset": 1546,
+      "endCharOffset": 1554
+    },
+    {
+      "form": "no",
+      "startCharOffset": 1555,
+      "endCharOffset": 1557
+    },
+    {
+      "form": "es",
+      "startCharOffset": 1558,
+      "endCharOffset": 1560
+    },
+    {
+      "form": "solamente",
+      "startCharOffset": 1561,
+      "endCharOffset": 1570
+    },
+    {
+      "form": "pedir",
+      "startCharOffset": 1571,
+      "endCharOffset": 1576
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1577,
+      "endCharOffset": 1579
+    },
+    {
+      "form": "rendición",
+      "startCharOffset": 1580,
+      "endCharOffset": 1589
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1590,
+      "endCharOffset": 1592
+    },
+    {
+      "form": "cuentas",
+      "startCharOffset": 1593,
+      "endCharOffset": 1600
+    },
+    {
+      "form": "a",
+      "startCharOffset": 1601,
+      "endCharOffset": 1602
+    },
+    {
+      "form": "quienes",
+      "startCharOffset": 1603,
+      "endCharOffset": 1610
+    },
+    {
+      "form": "contribuyeron",
+      "startCharOffset": 1611,
+      "endCharOffset": 1624
+    },
+    {
+      "form": "a",
+      "startCharOffset": 1625,
+      "endCharOffset": 1626
+    },
+    {
+      "form": "producir",
+      "startCharOffset": 1627,
+      "endCharOffset": 1635
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1636,
+      "endCharOffset": 1638
+    },
+    {
+      "form": "última",
+      "startCharOffset": 1639,
+      "endCharOffset": 1645
+    },
+    {
+      "form": "crisis",
+      "startCharOffset": 1646,
+      "endCharOffset": 1652
+    },
+    {
+      "form": "financiera",
+      "startCharOffset": 1653,
+      "endCharOffset": 1663
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1663,
+      "endCharOffset": 1664
+    },
+    {
+      "form": "sino",
+      "startCharOffset": 1665,
+      "endCharOffset": 1669
+    },
+    {
+      "form": "evitar",
+      "startCharOffset": 1670,
+      "endCharOffset": 1676
+    },
+    {
+      "form": "que",
+      "startCharOffset": 1677,
+      "endCharOffset": 1680
+    },
+    {
+      "form": "ocurra",
+      "startCharOffset": 1681,
+      "endCharOffset": 1687
+    },
+    {
+      "form": "una",
+      "startCharOffset": 1688,
+      "endCharOffset": 1691
+    },
+    {
+      "form": "nueva",
+      "startCharOffset": 1692,
+      "endCharOffset": 1697
+    },
+    {
+      "form": "crisis",
+      "startCharOffset": 1698,
+      "endCharOffset": 1704
+    },
+    {
+      "form": "\",",
+      "startCharOffset": 1704,
+      "endCharOffset": 1706
+    },
+    {
+      "form": "dijo",
+      "startCharOffset": 1707,
+      "endCharOffset": 1711
+    },
+    {
+      "form": "en",
+      "startCharOffset": 1712,
+      "endCharOffset": 1714
+    },
+    {
+      "form": "una",
+      "startCharOffset": 1715,
+      "endCharOffset": 1718
+    },
+    {
+      "form": "declaración",
+      "startCharOffset": 1719,
+      "endCharOffset": 1730
+    },
+    {
+      "form": "el",
+      "startCharOffset": 1731,
+      "endCharOffset": 1733
+    },
+    {
+      "form": "procurador",
+      "startCharOffset": 1734,
+      "endCharOffset": 1744
+    },
+    {
+      "form": "general",
+      "startCharOffset": 1745,
+      "endCharOffset": 1752
+    },
+    {
+      "form": "Eric",
+      "startCharOffset": 1753,
+      "endCharOffset": 1757
+    },
+    {
+      "form": "Holder",
+      "startCharOffset": 1758,
+      "endCharOffset": 1764
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1764,
+      "endCharOffset": 1765
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 1767,
+      "endCharOffset": 1768
+    },
+    {
+      "form": "No",
+      "startCharOffset": 1768,
+      "endCharOffset": 1770
+    },
+    {
+      "form": "resulta",
+      "startCharOffset": 1771,
+      "endCharOffset": 1778
+    },
+    {
+      "form": "suficiente",
+      "startCharOffset": 1779,
+      "endCharOffset": 1789
+    },
+    {
+      "form": "perseguir",
+      "startCharOffset": 1790,
+      "endCharOffset": 1799
+    },
+    {
+      "form": "el",
+      "startCharOffset": 1800,
+      "endCharOffset": 1802
+    },
+    {
+      "form": "fraude",
+      "startCharOffset": 1803,
+      "endCharOffset": 1809
+    },
+    {
+      "form": "sólo",
+      "startCharOffset": 1810,
+      "endCharOffset": 1814
+    },
+    {
+      "form": "despues",
+      "startCharOffset": 1815,
+      "endCharOffset": 1822
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1823,
+      "endCharOffset": 1825
+    },
+    {
+      "form": "que",
+      "startCharOffset": 1826,
+      "endCharOffset": 1829
+    },
+    {
+      "form": "se",
+      "startCharOffset": 1830,
+      "endCharOffset": 1832
+    },
+    {
+      "form": "ha",
+      "startCharOffset": 1833,
+      "endCharOffset": 1835
+    },
+    {
+      "form": "generalizado",
+      "startCharOffset": 1836,
+      "endCharOffset": 1848
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1848,
+      "endCharOffset": 1849
+    },
+    {
+      "form": "Estamos",
+      "startCharOffset": 1850,
+      "endCharOffset": 1857
+    },
+    {
+      "form": "buscando",
+      "startCharOffset": 1858,
+      "endCharOffset": 1866
+    },
+    {
+      "form": "una",
+      "startCharOffset": 1867,
+      "endCharOffset": 1870
+    },
+    {
+      "form": "reforma",
+      "startCharOffset": 1871,
+      "endCharOffset": 1878
+    },
+    {
+      "form": "financiera",
+      "startCharOffset": 1879,
+      "endCharOffset": 1889
+    },
+    {
+      "form": "para",
+      "startCharOffset": 1890,
+      "endCharOffset": 1894
+    },
+    {
+      "form": "crear",
+      "startCharOffset": 1895,
+      "endCharOffset": 1900
+    },
+    {
+      "form": "un",
+      "startCharOffset": 1901,
+      "endCharOffset": 1903
+    },
+    {
+      "form": "sistema",
+      "startCharOffset": 1904,
+      "endCharOffset": 1911
+    },
+    {
+      "form": "financiero",
+      "startCharOffset": 1912,
+      "endCharOffset": 1922
+    },
+    {
+      "form": "más",
+      "startCharOffset": 1923,
+      "endCharOffset": 1926
+    },
+    {
+      "form": "estable",
+      "startCharOffset": 1927,
+      "endCharOffset": 1934
+    },
+    {
+      "form": "y",
+      "startCharOffset": 1935,
+      "endCharOffset": 1936
+    },
+    {
+      "form": "más",
+      "startCharOffset": 1937,
+      "endCharOffset": 1940
+    },
+    {
+      "form": "seguro",
+      "startCharOffset": 1941,
+      "endCharOffset": 1947
+    },
+    {
+      "form": "y",
+      "startCharOffset": 1948,
+      "endCharOffset": 1949
+    },
+    {
+      "form": "el",
+      "startCharOffset": 1950,
+      "endCharOffset": 1952
+    },
+    {
+      "form": "mejoramiento",
+      "startCharOffset": 1953,
+      "endCharOffset": 1965
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1966,
+      "endCharOffset": 1968
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1969,
+      "endCharOffset": 1971
+    },
+    {
+      "form": "estrategia",
+      "startCharOffset": 1972,
+      "endCharOffset": 1982
+    },
+    {
+      "form": "para",
+      "startCharOffset": 1983,
+      "endCharOffset": 1987
+    },
+    {
+      "form": "lograr",
+      "startCharOffset": 1988,
+      "endCharOffset": 1994
+    },
+    {
+      "form": "el",
+      "startCharOffset": 1995,
+      "endCharOffset": 1997
+    },
+    {
+      "form": "cumplimiento",
+      "startCharOffset": 1998,
+      "endCharOffset": 2010
+    },
+    {
+      "form": "\",",
+      "startCharOffset": 2010,
+      "endCharOffset": 2012
+    },
+    {
+      "form": "dijo",
+      "startCharOffset": 2013,
+      "endCharOffset": 2017
+    },
+    {
+      "form": "Timothy",
+      "startCharOffset": 2018,
+      "endCharOffset": 2025
+    },
+    {
+      "form": "Geithner",
+      "startCharOffset": 2026,
+      "endCharOffset": 2034
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2034,
+      "endCharOffset": 2035
+    },
+    {
+      "form": "secretario",
+      "startCharOffset": 2036,
+      "endCharOffset": 2046
+    },
+    {
+      "form": "del",
+      "startCharOffset": 2047,
+      "endCharOffset": 2050
+    },
+    {
+      "form": "Tesoro",
+      "startCharOffset": 2051,
+      "endCharOffset": 2057
+    },
+    {
+      "form": "de",
+      "startCharOffset": 2058,
+      "endCharOffset": 2060
+    },
+    {
+      "form": "Estados",
+      "startCharOffset": 2061,
+      "endCharOffset": 2068
+    },
+    {
+      "form": "Unidos",
+      "startCharOffset": 2069,
+      "endCharOffset": 2075
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2075,
+      "endCharOffset": 2076
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 2078,
+      "endCharOffset": 2079
+    },
+    {
+      "form": "Hacerlo",
+      "startCharOffset": 2079,
+      "endCharOffset": 2086
+    },
+    {
+      "form": "ayudará",
+      "startCharOffset": 2087,
+      "endCharOffset": 2094
+    },
+    {
+      "form": "a",
+      "startCharOffset": 2095,
+      "endCharOffset": 2096
+    },
+    {
+      "form": "detener",
+      "startCharOffset": 2097,
+      "endCharOffset": 2104
+    },
+    {
+      "form": "las",
+      "startCharOffset": 2105,
+      "endCharOffset": 2108
+    },
+    {
+      "form": "tendencias",
+      "startCharOffset": 2109,
+      "endCharOffset": 2119
+    },
+    {
+      "form": "emergentes",
+      "startCharOffset": 2120,
+      "endCharOffset": 2130
+    },
+    {
+      "form": "en",
+      "startCharOffset": 2131,
+      "endCharOffset": 2133
+    },
+    {
+      "form": "el",
+      "startCharOffset": 2134,
+      "endCharOffset": 2136
+    },
+    {
+      "form": "fraude",
+      "startCharOffset": 2137,
+      "endCharOffset": 2143
+    },
+    {
+      "form": "financiero",
+      "startCharOffset": 2144,
+      "endCharOffset": 2154
+    },
+    {
+      "form": "antes",
+      "startCharOffset": 2155,
+      "endCharOffset": 2160
+    },
+    {
+      "form": "de",
+      "startCharOffset": 2161,
+      "endCharOffset": 2163
+    },
+    {
+      "form": "que",
+      "startCharOffset": 2164,
+      "endCharOffset": 2167
+    },
+    {
+      "form": "puedan",
+      "startCharOffset": 2168,
+      "endCharOffset": 2174
+    },
+    {
+      "form": "provocar",
+      "startCharOffset": 2175,
+      "endCharOffset": 2183
+    },
+    {
+      "form": "daños",
+      "startCharOffset": 2184,
+      "endCharOffset": 2189
+    },
+    {
+      "form": "amplios",
+      "startCharOffset": 2190,
+      "endCharOffset": 2197
+    },
+    {
+      "form": "y",
+      "startCharOffset": 2198,
+      "endCharOffset": 2199
+    },
+    {
+      "form": "generalizados",
+      "startCharOffset": 2200,
+      "endCharOffset": 2213
+    },
+    {
+      "form": "a",
+      "startCharOffset": 2214,
+      "endCharOffset": 2215
+    },
+    {
+      "form": "nuestra",
+      "startCharOffset": 2216,
+      "endCharOffset": 2223
+    },
+    {
+      "form": "economía",
+      "startCharOffset": 2224,
+      "endCharOffset": 2232
+    },
+    {
+      "form": "\".",
+      "startCharOffset": 2232,
+      "endCharOffset": 2234
+    },
+    {
+      "form": "Fin",
+      "startCharOffset": 2235,
+      "endCharOffset": 2238
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      9,
+      16,
+      25,
+      63,
+      95,
+      176,
+      235,
+      251,
+      294,
+      309,
+      346,
+      371,
+      372
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 31,
+              "end": 39
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 64,
+              "end": 67
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 73,
+              "end": 76
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 77,
+              "end": 82
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 84,
+              "end": 89
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 172,
+              "end": 175
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 183,
+              "end": 189
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 291,
+              "end": 293
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 336,
+              "end": 338
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 341,
+              "end": 345
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 30,
+              "end": 31
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 31,
+              "end": 32
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 32,
+              "end": 33
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 33,
+              "end": 34
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 34,
+              "end": 35
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 35,
+              "end": 36
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 36,
+              "end": 37
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 37,
+              "end": 38
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 39,
+              "end": 40
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 40,
+              "end": 41
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 41,
+              "end": 42
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 42,
+              "end": 43
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 45,
+              "end": 46
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 46,
+              "end": 47
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 47,
+              "end": 48
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 48,
+              "end": 49
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 49,
+              "end": 50
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 50,
+              "end": 51
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 51,
+              "end": 52
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 52,
+              "end": 53
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 53,
+              "end": 54
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 54,
+              "end": 55
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 55,
+              "end": 56
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 56,
+              "end": 57
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 57,
+              "end": 58
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 58,
+              "end": 59
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 59,
+              "end": 60
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 61,
+              "end": 62
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 62,
+              "end": 63
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 63,
+              "end": 64
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 64,
+              "end": 65
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 66,
+              "end": 67
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 67,
+              "end": 68
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 68,
+              "end": 69
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 69,
+              "end": 70
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 70,
+              "end": 71
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 71,
+              "end": 72
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 72,
+              "end": 73
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 73,
+              "end": 74
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 74,
+              "end": 75
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 75,
+              "end": 76
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 76,
+              "end": 77
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 77,
+              "end": 78
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 78,
+              "end": 79
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 79,
+              "end": 80
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 80,
+              "end": 81
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 81,
+              "end": 82
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 82,
+              "end": 83
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 83,
+              "end": 84
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 84,
+              "end": 85
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 85,
+              "end": 86
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 86,
+              "end": 87
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 87,
+              "end": 88
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 88,
+              "end": 89
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 89,
+              "end": 90
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 90,
+              "end": 91
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 91,
+              "end": 92
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 92,
+              "end": 93
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 93,
+              "end": 94
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 94,
+              "end": 95
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 96,
+              "end": 97
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 97,
+              "end": 98
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 98,
+              "end": 99
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 100,
+              "end": 101
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 101,
+              "end": 102
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 103,
+              "end": 104
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 105,
+              "end": 106
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 106,
+              "end": 107
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 108,
+              "end": 109
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 110,
+              "end": 111
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 112,
+              "end": 113
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 113,
+              "end": 114
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 115,
+              "end": 116
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 116,
+              "end": 117
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 117,
+              "end": 118
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 118,
+              "end": 119
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 119,
+              "end": 120
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 120,
+              "end": 121
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 121,
+              "end": 122
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 122,
+              "end": 123
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 123,
+              "end": 124
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 124,
+              "end": 125
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 125,
+              "end": 126
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 126,
+              "end": 127
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 127,
+              "end": 128
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 128,
+              "end": 129
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 129,
+              "end": 130
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 130,
+              "end": 131
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 131,
+              "end": 132
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 132,
+              "end": 133
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 133,
+              "end": 134
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 135,
+              "end": 136
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 136,
+              "end": 137
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 137,
+              "end": 138
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 138,
+              "end": 139
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 139,
+              "end": 140
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 140,
+              "end": 141
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 142,
+              "end": 143
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 144,
+              "end": 145
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 145,
+              "end": 146
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 146,
+              "end": 147
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 147,
+              "end": 148
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 148,
+              "end": 149
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 149,
+              "end": 150
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 150,
+              "end": 151
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 151,
+              "end": 152
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 152,
+              "end": 153
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 153,
+              "end": 154
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 154,
+              "end": 155
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 155,
+              "end": 156
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 156,
+              "end": 157
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 157,
+              "end": 158
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 158,
+              "end": 159
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 159,
+              "end": 160
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 160,
+              "end": 161
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 161,
+              "end": 162
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 162,
+              "end": 163
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 163,
+              "end": 164
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 164,
+              "end": 165
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 165,
+              "end": 166
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 166,
+              "end": 167
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 167,
+              "end": 168
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 168,
+              "end": 169
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 169,
+              "end": 170
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 170,
+              "end": 171
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 171,
+              "end": 172
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 172,
+              "end": 173
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 173,
+              "end": 174
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 174,
+              "end": 175
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 175,
+              "end": 176
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 176,
+              "end": 177
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 177,
+              "end": 178
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 178,
+              "end": 179
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 179,
+              "end": 180
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 180,
+              "end": 181
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 181,
+              "end": 182
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 182,
+              "end": 183
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 183,
+              "end": 184
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 184,
+              "end": 185
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 185,
+              "end": 186
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 186,
+              "end": 187
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 187,
+              "end": 188
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 188,
+              "end": 189
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 189,
+              "end": 190
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 190,
+              "end": 191
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 191,
+              "end": 192
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 192,
+              "end": 193
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 193,
+              "end": 194
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 194,
+              "end": 195
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 195,
+              "end": 196
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 196,
+              "end": 197
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 197,
+              "end": 198
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 198,
+              "end": 199
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 199,
+              "end": 200
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 200,
+              "end": 201
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 201,
+              "end": 202
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 202,
+              "end": 203
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 203,
+              "end": 204
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 204,
+              "end": 205
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 205,
+              "end": 206
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 206,
+              "end": 207
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 207,
+              "end": 208
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 208,
+              "end": 209
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 209,
+              "end": 210
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 210,
+              "end": 211
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 211,
+              "end": 212
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 212,
+              "end": 213
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 213,
+              "end": 214
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 214,
+              "end": 215
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 215,
+              "end": 216
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 216,
+              "end": 217
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 217,
+              "end": 218
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 218,
+              "end": 219
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 219,
+              "end": 220
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 220,
+              "end": 221
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 221,
+              "end": 222
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 222,
+              "end": 223
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 223,
+              "end": 224
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 224,
+              "end": 225
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 225,
+              "end": 226
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 226,
+              "end": 227
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 227,
+              "end": 228
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 228,
+              "end": 229
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 229,
+              "end": 230
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 230,
+              "end": 231
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 231,
+              "end": 232
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 232,
+              "end": 233
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 233,
+              "end": 234
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 234,
+              "end": 235
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 235,
+              "end": 236
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 236,
+              "end": 237
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 237,
+              "end": 238
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 238,
+              "end": 239
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 239,
+              "end": 240
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 240,
+              "end": 241
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 241,
+              "end": 242
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 242,
+              "end": 243
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 243,
+              "end": 244
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 244,
+              "end": 245
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 245,
+              "end": 246
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 246,
+              "end": 247
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 247,
+              "end": 248
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 248,
+              "end": 249
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 249,
+              "end": 250
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 250,
+              "end": 251
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 251,
+              "end": 252
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 252,
+              "end": 253
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 253,
+              "end": 254
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 254,
+              "end": 255
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 255,
+              "end": 256
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 256,
+              "end": 257
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 257,
+              "end": 258
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 258,
+              "end": 259
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 259,
+              "end": 260
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 260,
+              "end": 261
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 261,
+              "end": 262
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 262,
+              "end": 263
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 263,
+              "end": 264
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 264,
+              "end": 265
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 265,
+              "end": 266
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 266,
+              "end": 267
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 267,
+              "end": 268
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 268,
+              "end": 269
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 269,
+              "end": 270
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 270,
+              "end": 271
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 271,
+              "end": 272
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 272,
+              "end": 273
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 273,
+              "end": 274
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 274,
+              "end": 275
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 275,
+              "end": 276
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 276,
+              "end": 277
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 277,
+              "end": 278
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 278,
+              "end": 279
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 279,
+              "end": 280
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 280,
+              "end": 281
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 281,
+              "end": 282
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 282,
+              "end": 283
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 283,
+              "end": 284
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 284,
+              "end": 285
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 285,
+              "end": 286
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 286,
+              "end": 287
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 287,
+              "end": 288
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 288,
+              "end": 289
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 289,
+              "end": 290
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 290,
+              "end": 291
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 291,
+              "end": 292
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 292,
+              "end": 293
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 293,
+              "end": 294
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 294,
+              "end": 295
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 295,
+              "end": 296
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 296,
+              "end": 297
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 297,
+              "end": 298
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 298,
+              "end": 299
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 299,
+              "end": 300
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 300,
+              "end": 301
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 301,
+              "end": 302
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 302,
+              "end": 303
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 303,
+              "end": 304
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 304,
+              "end": 305
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 305,
+              "end": 306
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 306,
+              "end": 307
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 307,
+              "end": 308
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 308,
+              "end": 309
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 309,
+              "end": 310
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 310,
+              "end": 311
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 311,
+              "end": 312
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 312,
+              "end": 313
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 313,
+              "end": 314
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 314,
+              "end": 315
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 315,
+              "end": 316
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 316,
+              "end": 317
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 317,
+              "end": 318
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 318,
+              "end": 319
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 319,
+              "end": 320
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 320,
+              "end": 321
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 321,
+              "end": 322
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 322,
+              "end": 323
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 323,
+              "end": 324
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 324,
+              "end": 325
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 325,
+              "end": 326
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 326,
+              "end": 327
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 327,
+              "end": 328
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 328,
+              "end": 329
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 329,
+              "end": 330
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 330,
+              "end": 331
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 331,
+              "end": 332
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 332,
+              "end": 333
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 333,
+              "end": 334
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 334,
+              "end": 335
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 335,
+              "end": 336
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 336,
+              "end": 337
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 337,
+              "end": 338
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 338,
+              "end": 339
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 339,
+              "end": 340
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 340,
+              "end": 341
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 341,
+              "end": 342
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 342,
+              "end": 343
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 343,
+              "end": 344
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 344,
+              "end": 345
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 345,
+              "end": 346
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 346,
+              "end": 347
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 347,
+              "end": 348
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 348,
+              "end": 349
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 349,
+              "end": 350
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 350,
+              "end": 351
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 351,
+              "end": 352
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 352,
+              "end": 353
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 353,
+              "end": 354
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 354,
+              "end": 355
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 355,
+              "end": 356
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 356,
+              "end": 357
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 357,
+              "end": 358
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 358,
+              "end": 359
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 359,
+              "end": 360
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 360,
+              "end": 361
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 361,
+              "end": 362
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 362,
+              "end": 363
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 363,
+              "end": 364
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 364,
+              "end": 365
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 365,
+              "end": 366
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 366,
+              "end": 367
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 367,
+              "end": 368
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 368,
+              "end": 369
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 369,
+              "end": 370
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 370,
+              "end": 371
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 371,
+              "end": 372
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

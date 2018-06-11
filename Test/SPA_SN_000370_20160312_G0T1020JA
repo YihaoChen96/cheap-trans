@@ -1,0 +1,146 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T1020JA",
+  "text": "RT @EzioMelilla: Señores, un placer #Terremoto https://t.co/YmE4rOq3Kx",
+  "tokens": [
+    "RT",
+    "@EzioMelilla:",
+    "Señores",
+    ",",
+    "un",
+    "placer",
+    "#Terremoto",
+    "https://t.co/YmE4rOq3Kx"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@EzioMelilla:",
+      "startCharOffset": 3,
+      "endCharOffset": 16
+    },
+    {
+      "form": "Señores",
+      "startCharOffset": 17,
+      "endCharOffset": 24
+    },
+    {
+      "form": ",",
+      "startCharOffset": 24,
+      "endCharOffset": 25
+    },
+    {
+      "form": "un",
+      "startCharOffset": 26,
+      "endCharOffset": 28
+    },
+    {
+      "form": "placer",
+      "startCharOffset": 29,
+      "endCharOffset": 35
+    },
+    {
+      "form": "#Terremoto",
+      "startCharOffset": 36,
+      "endCharOffset": 46
+    },
+    {
+      "form": "https://t.co/YmE4rOq3Kx",
+      "startCharOffset": 47,
+      "endCharOffset": 70
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      8
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

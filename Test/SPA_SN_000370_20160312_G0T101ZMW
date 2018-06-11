@@ -1,0 +1,350 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T101ZMW",
+  "text": "RT @LuisCarlos: Quizás si dicen que Tumeremo queda en Palestina, el chavismo intente hablar de las víctimas como si fuesen seres humanos.",
+  "tokens": [
+    "RT",
+    "@LuisCarlos:",
+    "Quizás",
+    "si",
+    "dicen",
+    "que",
+    "Tumeremo",
+    "queda",
+    "en",
+    "Palestina",
+    ",",
+    "el",
+    "chavismo",
+    "intente",
+    "hablar",
+    "de",
+    "las",
+    "víctimas",
+    "como",
+    "si",
+    "fuesen",
+    "seres",
+    "humanos",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@LuisCarlos:",
+      "startCharOffset": 3,
+      "endCharOffset": 15
+    },
+    {
+      "form": "Quizás",
+      "startCharOffset": 16,
+      "endCharOffset": 22
+    },
+    {
+      "form": "si",
+      "startCharOffset": 23,
+      "endCharOffset": 25
+    },
+    {
+      "form": "dicen",
+      "startCharOffset": 26,
+      "endCharOffset": 31
+    },
+    {
+      "form": "que",
+      "startCharOffset": 32,
+      "endCharOffset": 35
+    },
+    {
+      "form": "Tumeremo",
+      "startCharOffset": 36,
+      "endCharOffset": 44
+    },
+    {
+      "form": "queda",
+      "startCharOffset": 45,
+      "endCharOffset": 50
+    },
+    {
+      "form": "en",
+      "startCharOffset": 51,
+      "endCharOffset": 53
+    },
+    {
+      "form": "Palestina",
+      "startCharOffset": 54,
+      "endCharOffset": 63
+    },
+    {
+      "form": ",",
+      "startCharOffset": 63,
+      "endCharOffset": 64
+    },
+    {
+      "form": "el",
+      "startCharOffset": 65,
+      "endCharOffset": 67
+    },
+    {
+      "form": "chavismo",
+      "startCharOffset": 68,
+      "endCharOffset": 76
+    },
+    {
+      "form": "intente",
+      "startCharOffset": 77,
+      "endCharOffset": 84
+    },
+    {
+      "form": "hablar",
+      "startCharOffset": 85,
+      "endCharOffset": 91
+    },
+    {
+      "form": "de",
+      "startCharOffset": 92,
+      "endCharOffset": 94
+    },
+    {
+      "form": "las",
+      "startCharOffset": 95,
+      "endCharOffset": 98
+    },
+    {
+      "form": "víctimas",
+      "startCharOffset": 99,
+      "endCharOffset": 107
+    },
+    {
+      "form": "como",
+      "startCharOffset": 108,
+      "endCharOffset": 112
+    },
+    {
+      "form": "si",
+      "startCharOffset": 113,
+      "endCharOffset": 115
+    },
+    {
+      "form": "fuesen",
+      "startCharOffset": 116,
+      "endCharOffset": 122
+    },
+    {
+      "form": "seres",
+      "startCharOffset": 123,
+      "endCharOffset": 128
+    },
+    {
+      "form": "humanos",
+      "startCharOffset": 129,
+      "endCharOffset": 136
+    },
+    {
+      "form": ".",
+      "startCharOffset": 136,
+      "endCharOffset": 137
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      24
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

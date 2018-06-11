@@ -1,0 +1,230 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T1020OG",
+  "text": "AMBULACIAS Y BUSETAS...UN PELIGRO ANDANTE...Un herido deja choque entre ambulancia y microbús https://t.co/D0DOwyTlAz vía @ElUniversalCtg",
+  "tokens": [
+    "AMBULACIAS",
+    "Y",
+    "BUSETAS...UN",
+    "PELIGRO",
+    "ANDANTE...Un",
+    "herido",
+    "deja",
+    "choque",
+    "entre",
+    "ambulancia",
+    "y",
+    "microbús",
+    "https://t.co/D0DOwyTlAz",
+    "vía",
+    "@ElUniversalCtg"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "AMBULACIAS",
+      "startCharOffset": 0,
+      "endCharOffset": 10
+    },
+    {
+      "form": "Y",
+      "startCharOffset": 11,
+      "endCharOffset": 12
+    },
+    {
+      "form": "BUSETAS...UN",
+      "startCharOffset": 13,
+      "endCharOffset": 25
+    },
+    {
+      "form": "PELIGRO",
+      "startCharOffset": 26,
+      "endCharOffset": 33
+    },
+    {
+      "form": "ANDANTE...Un",
+      "startCharOffset": 34,
+      "endCharOffset": 46
+    },
+    {
+      "form": "herido",
+      "startCharOffset": 47,
+      "endCharOffset": 53
+    },
+    {
+      "form": "deja",
+      "startCharOffset": 54,
+      "endCharOffset": 58
+    },
+    {
+      "form": "choque",
+      "startCharOffset": 59,
+      "endCharOffset": 65
+    },
+    {
+      "form": "entre",
+      "startCharOffset": 66,
+      "endCharOffset": 71
+    },
+    {
+      "form": "ambulancia",
+      "startCharOffset": 72,
+      "endCharOffset": 82
+    },
+    {
+      "form": "y",
+      "startCharOffset": 83,
+      "endCharOffset": 84
+    },
+    {
+      "form": "microbús",
+      "startCharOffset": 85,
+      "endCharOffset": 93
+    },
+    {
+      "form": "https://t.co/D0DOwyTlAz",
+      "startCharOffset": 94,
+      "endCharOffset": 117
+    },
+    {
+      "form": "vía",
+      "startCharOffset": 118,
+      "endCharOffset": 121
+    },
+    {
+      "form": "@ElUniversalCtg",
+      "startCharOffset": 122,
+      "endCharOffset": 137
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      15
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

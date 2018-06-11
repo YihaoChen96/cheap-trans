@@ -1,0 +1,110 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T1020ER",
+  "text": "HIJOS DE PUTA #Ciudagramos https://t.co/819BqP2T6o",
+  "tokens": [
+    "HIJOS",
+    "DE",
+    "PUTA",
+    "#Ciudagramos",
+    "https://t.co/819BqP2T6o"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "HIJOS",
+      "startCharOffset": 0,
+      "endCharOffset": 5
+    },
+    {
+      "form": "DE",
+      "startCharOffset": 6,
+      "endCharOffset": 8
+    },
+    {
+      "form": "PUTA",
+      "startCharOffset": 9,
+      "endCharOffset": 13
+    },
+    {
+      "form": "#Ciudagramos",
+      "startCharOffset": 14,
+      "endCharOffset": 26
+    },
+    {
+      "form": "https://t.co/819BqP2T6o",
+      "startCharOffset": 27,
+      "endCharOffset": 50
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      5
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

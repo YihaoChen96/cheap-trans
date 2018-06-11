@@ -1,0 +1,254 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160316_G0T1020RG",
+  "text": "RT @CuervaCasla_: ME CHUPA LA PIJA LO QUE PASE, TE AMO ETERNAMENTE CICLÓN DE MI VIDA",
+  "tokens": [
+    "RT",
+    "@CuervaCasla_:",
+    "ME",
+    "CHUPA",
+    "LA",
+    "PIJA",
+    "LO",
+    "QUE",
+    "PASE",
+    ",",
+    "TE",
+    "AMO",
+    "ETERNAMENTE",
+    "CICLÓN",
+    "DE",
+    "MI",
+    "VIDA"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@CuervaCasla_:",
+      "startCharOffset": 3,
+      "endCharOffset": 17
+    },
+    {
+      "form": "ME",
+      "startCharOffset": 18,
+      "endCharOffset": 20
+    },
+    {
+      "form": "CHUPA",
+      "startCharOffset": 21,
+      "endCharOffset": 26
+    },
+    {
+      "form": "LA",
+      "startCharOffset": 27,
+      "endCharOffset": 29
+    },
+    {
+      "form": "PIJA",
+      "startCharOffset": 30,
+      "endCharOffset": 34
+    },
+    {
+      "form": "LO",
+      "startCharOffset": 35,
+      "endCharOffset": 37
+    },
+    {
+      "form": "QUE",
+      "startCharOffset": 38,
+      "endCharOffset": 41
+    },
+    {
+      "form": "PASE",
+      "startCharOffset": 42,
+      "endCharOffset": 46
+    },
+    {
+      "form": ",",
+      "startCharOffset": 46,
+      "endCharOffset": 47
+    },
+    {
+      "form": "TE",
+      "startCharOffset": 48,
+      "endCharOffset": 50
+    },
+    {
+      "form": "AMO",
+      "startCharOffset": 51,
+      "endCharOffset": 54
+    },
+    {
+      "form": "ETERNAMENTE",
+      "startCharOffset": 55,
+      "endCharOffset": 66
+    },
+    {
+      "form": "CICLÓN",
+      "startCharOffset": 67,
+      "endCharOffset": 73
+    },
+    {
+      "form": "DE",
+      "startCharOffset": 74,
+      "endCharOffset": 76
+    },
+    {
+      "form": "MI",
+      "startCharOffset": 77,
+      "endCharOffset": 79
+    },
+    {
+      "form": "VIDA",
+      "startCharOffset": 80,
+      "endCharOffset": 84
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      17
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

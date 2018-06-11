@@ -1,0 +1,248 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T101ZW0",
+  "text": "RT @TaniaGRM: Ahi tienen el engendro \"politico\" de Juan Manuel Santos.... #terrorismo https://t.co/dalUhGIKBt",
+  "tokens": [
+    "RT",
+    "@TaniaGRM:",
+    "Ahi",
+    "tienen",
+    "el",
+    "engendro",
+    "\"",
+    "politico",
+    "\"",
+    "de",
+    "Juan",
+    "Manuel",
+    "Santos",
+    "....",
+    "#terrorismo",
+    "https://t.co/dalUhGIKBt"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@TaniaGRM:",
+      "startCharOffset": 3,
+      "endCharOffset": 13
+    },
+    {
+      "form": "Ahi",
+      "startCharOffset": 14,
+      "endCharOffset": 17
+    },
+    {
+      "form": "tienen",
+      "startCharOffset": 18,
+      "endCharOffset": 24
+    },
+    {
+      "form": "el",
+      "startCharOffset": 25,
+      "endCharOffset": 27
+    },
+    {
+      "form": "engendro",
+      "startCharOffset": 28,
+      "endCharOffset": 36
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 37,
+      "endCharOffset": 38
+    },
+    {
+      "form": "politico",
+      "startCharOffset": 38,
+      "endCharOffset": 46
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 46,
+      "endCharOffset": 47
+    },
+    {
+      "form": "de",
+      "startCharOffset": 48,
+      "endCharOffset": 50
+    },
+    {
+      "form": "Juan",
+      "startCharOffset": 51,
+      "endCharOffset": 55
+    },
+    {
+      "form": "Manuel",
+      "startCharOffset": 56,
+      "endCharOffset": 62
+    },
+    {
+      "form": "Santos",
+      "startCharOffset": 63,
+      "endCharOffset": 69
+    },
+    {
+      "form": "....",
+      "startCharOffset": 69,
+      "endCharOffset": 73
+    },
+    {
+      "form": "#terrorismo",
+      "startCharOffset": 74,
+      "endCharOffset": 85
+    },
+    {
+      "form": "https://t.co/dalUhGIKBt",
+      "startCharOffset": 86,
+      "endCharOffset": 109
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      16
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 10,
+              "end": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

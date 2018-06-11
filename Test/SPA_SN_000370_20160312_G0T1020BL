@@ -1,0 +1,194 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T1020BL",
+  "text": "Aumentan a más de 100 casos de influenza en SLP https://t.co/wZNsb8eO7V https://t.co/vI2rahFkBH",
+  "tokens": [
+    "Aumentan",
+    "a",
+    "más",
+    "de",
+    "100",
+    "casos",
+    "de",
+    "influenza",
+    "en",
+    "SLP",
+    "https://t.co/wZNsb8eO7V",
+    "https://t.co/vI2rahFkBH"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Aumentan",
+      "startCharOffset": 0,
+      "endCharOffset": 8
+    },
+    {
+      "form": "a",
+      "startCharOffset": 9,
+      "endCharOffset": 10
+    },
+    {
+      "form": "más",
+      "startCharOffset": 11,
+      "endCharOffset": 14
+    },
+    {
+      "form": "de",
+      "startCharOffset": 15,
+      "endCharOffset": 17
+    },
+    {
+      "form": "100",
+      "startCharOffset": 18,
+      "endCharOffset": 21
+    },
+    {
+      "form": "casos",
+      "startCharOffset": 22,
+      "endCharOffset": 27
+    },
+    {
+      "form": "de",
+      "startCharOffset": 28,
+      "endCharOffset": 30
+    },
+    {
+      "form": "influenza",
+      "startCharOffset": 31,
+      "endCharOffset": 40
+    },
+    {
+      "form": "en",
+      "startCharOffset": 41,
+      "endCharOffset": 43
+    },
+    {
+      "form": "SLP",
+      "startCharOffset": 44,
+      "endCharOffset": 47
+    },
+    {
+      "form": "https://t.co/wZNsb8eO7V",
+      "startCharOffset": 48,
+      "endCharOffset": 71
+    },
+    {
+      "form": "https://t.co/vI2rahFkBH",
+      "startCharOffset": 72,
+      "endCharOffset": 95
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      12
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

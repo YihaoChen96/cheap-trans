@@ -1,0 +1,122 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160316_G0T1020T8",
+  "text": "RT @_MAncebo_: Absolutamente cierto… https://t.co/ansVHH2ngl",
+  "tokens": [
+    "RT",
+    "@_MAncebo_:",
+    "Absolutamente",
+    "cierto",
+    "…",
+    "https://t.co/ansVHH2ngl"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@_MAncebo_:",
+      "startCharOffset": 3,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Absolutamente",
+      "startCharOffset": 15,
+      "endCharOffset": 28
+    },
+    {
+      "form": "cierto",
+      "startCharOffset": 29,
+      "endCharOffset": 35
+    },
+    {
+      "form": "…",
+      "startCharOffset": 35,
+      "endCharOffset": 36
+    },
+    {
+      "form": "https://t.co/ansVHH2ngl",
+      "startCharOffset": 37,
+      "endCharOffset": 60
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      6
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

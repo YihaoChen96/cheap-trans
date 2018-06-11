@@ -1,0 +1,350 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160316_G0T1020V6",
+  "text": "RT @Narconal: Sudamericana: La Guaira General Díaz Vallejo Libertadores: Huracán Cristal Peñarolsito Esto Es Demasiada Casualidad Para Ser…",
+  "tokens": [
+    "RT",
+    "@Narconal:",
+    "Sudamericana",
+    ":",
+    "La",
+    "Guaira",
+    "General",
+    "Díaz",
+    "Vallejo",
+    "Libertadores",
+    ":",
+    "Huracán",
+    "Cristal",
+    "Peñarolsito",
+    "Esto",
+    "Es",
+    "Demasiada",
+    "Casualidad",
+    "Para",
+    "Ser",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@Narconal:",
+      "startCharOffset": 3,
+      "endCharOffset": 13
+    },
+    {
+      "form": "Sudamericana",
+      "startCharOffset": 14,
+      "endCharOffset": 26
+    },
+    {
+      "form": ":",
+      "startCharOffset": 26,
+      "endCharOffset": 27
+    },
+    {
+      "form": "La",
+      "startCharOffset": 28,
+      "endCharOffset": 30
+    },
+    {
+      "form": "Guaira",
+      "startCharOffset": 31,
+      "endCharOffset": 37
+    },
+    {
+      "form": "General",
+      "startCharOffset": 38,
+      "endCharOffset": 45
+    },
+    {
+      "form": "Díaz",
+      "startCharOffset": 46,
+      "endCharOffset": 50
+    },
+    {
+      "form": "Vallejo",
+      "startCharOffset": 51,
+      "endCharOffset": 58
+    },
+    {
+      "form": "Libertadores",
+      "startCharOffset": 59,
+      "endCharOffset": 71
+    },
+    {
+      "form": ":",
+      "startCharOffset": 71,
+      "endCharOffset": 72
+    },
+    {
+      "form": "Huracán",
+      "startCharOffset": 73,
+      "endCharOffset": 80
+    },
+    {
+      "form": "Cristal",
+      "startCharOffset": 81,
+      "endCharOffset": 88
+    },
+    {
+      "form": "Peñarolsito",
+      "startCharOffset": 89,
+      "endCharOffset": 100
+    },
+    {
+      "form": "Esto",
+      "startCharOffset": 101,
+      "endCharOffset": 105
+    },
+    {
+      "form": "Es",
+      "startCharOffset": 106,
+      "endCharOffset": 108
+    },
+    {
+      "form": "Demasiada",
+      "startCharOffset": 109,
+      "endCharOffset": 118
+    },
+    {
+      "form": "Casualidad",
+      "startCharOffset": 119,
+      "endCharOffset": 129
+    },
+    {
+      "form": "Para",
+      "startCharOffset": 130,
+      "endCharOffset": 134
+    },
+    {
+      "form": "Ser",
+      "startCharOffset": 135,
+      "endCharOffset": 138
+    },
+    {
+      "form": "…",
+      "startCharOffset": 138,
+      "endCharOffset": 139
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      21
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 6,
+              "end": 8
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

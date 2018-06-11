@@ -1,0 +1,296 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T101ZD8",
+  "text": "RT @CAHuracan: Los #Concentrados de #Huracán para el partido ante #DefensaYJusticia por la fecha 7 del Torneo de #PrimeraDivisión https://t…",
+  "tokens": [
+    "RT",
+    "@CAHuracan:",
+    "Los",
+    "#Concentrados",
+    "de",
+    "#Huracán",
+    "para",
+    "el",
+    "partido",
+    "ante",
+    "#DefensaYJusticia",
+    "por",
+    "la",
+    "fecha",
+    "7",
+    "del",
+    "Torneo",
+    "de",
+    "#PrimeraDivisión",
+    "https://t…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@CAHuracan:",
+      "startCharOffset": 3,
+      "endCharOffset": 14
+    },
+    {
+      "form": "Los",
+      "startCharOffset": 15,
+      "endCharOffset": 18
+    },
+    {
+      "form": "#Concentrados",
+      "startCharOffset": 19,
+      "endCharOffset": 32
+    },
+    {
+      "form": "de",
+      "startCharOffset": 33,
+      "endCharOffset": 35
+    },
+    {
+      "form": "#Huracán",
+      "startCharOffset": 36,
+      "endCharOffset": 44
+    },
+    {
+      "form": "para",
+      "startCharOffset": 45,
+      "endCharOffset": 49
+    },
+    {
+      "form": "el",
+      "startCharOffset": 50,
+      "endCharOffset": 52
+    },
+    {
+      "form": "partido",
+      "startCharOffset": 53,
+      "endCharOffset": 60
+    },
+    {
+      "form": "ante",
+      "startCharOffset": 61,
+      "endCharOffset": 65
+    },
+    {
+      "form": "#DefensaYJusticia",
+      "startCharOffset": 66,
+      "endCharOffset": 83
+    },
+    {
+      "form": "por",
+      "startCharOffset": 84,
+      "endCharOffset": 87
+    },
+    {
+      "form": "la",
+      "startCharOffset": 88,
+      "endCharOffset": 90
+    },
+    {
+      "form": "fecha",
+      "startCharOffset": 91,
+      "endCharOffset": 96
+    },
+    {
+      "form": "7",
+      "startCharOffset": 97,
+      "endCharOffset": 98
+    },
+    {
+      "form": "del",
+      "startCharOffset": 99,
+      "endCharOffset": 102
+    },
+    {
+      "form": "Torneo",
+      "startCharOffset": 103,
+      "endCharOffset": 109
+    },
+    {
+      "form": "de",
+      "startCharOffset": 110,
+      "endCharOffset": 112
+    },
+    {
+      "form": "#PrimeraDivisión",
+      "startCharOffset": 113,
+      "endCharOffset": 129
+    },
+    {
+      "form": "https://t…",
+      "startCharOffset": 130,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      20
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

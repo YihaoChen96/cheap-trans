@@ -1,0 +1,356 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T101ZKH",
+  "text": "RT @MarthaChavezK36: Cómprenle un mataburros a Mininter Perez Guadalupe. No sabe que \"vitalicio\" significa que dura hasta la muerte. https…",
+  "tokens": [
+    "RT",
+    "@MarthaChavezK36:",
+    "Cómprenle",
+    "un",
+    "mataburros",
+    "a",
+    "Mininter",
+    "Perez",
+    "Guadalupe",
+    ".",
+    "No",
+    "sabe",
+    "que",
+    "\"",
+    "vitalicio",
+    "\"",
+    "significa",
+    "que",
+    "dura",
+    "hasta",
+    "la",
+    "muerte",
+    ".",
+    "https",
+    "…"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@MarthaChavezK36:",
+      "startCharOffset": 3,
+      "endCharOffset": 20
+    },
+    {
+      "form": "Cómprenle",
+      "startCharOffset": 21,
+      "endCharOffset": 30
+    },
+    {
+      "form": "un",
+      "startCharOffset": 31,
+      "endCharOffset": 33
+    },
+    {
+      "form": "mataburros",
+      "startCharOffset": 34,
+      "endCharOffset": 44
+    },
+    {
+      "form": "a",
+      "startCharOffset": 45,
+      "endCharOffset": 46
+    },
+    {
+      "form": "Mininter",
+      "startCharOffset": 47,
+      "endCharOffset": 55
+    },
+    {
+      "form": "Perez",
+      "startCharOffset": 56,
+      "endCharOffset": 61
+    },
+    {
+      "form": "Guadalupe",
+      "startCharOffset": 62,
+      "endCharOffset": 71
+    },
+    {
+      "form": ".",
+      "startCharOffset": 71,
+      "endCharOffset": 72
+    },
+    {
+      "form": "No",
+      "startCharOffset": 73,
+      "endCharOffset": 75
+    },
+    {
+      "form": "sabe",
+      "startCharOffset": 76,
+      "endCharOffset": 80
+    },
+    {
+      "form": "que",
+      "startCharOffset": 81,
+      "endCharOffset": 84
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 85,
+      "endCharOffset": 86
+    },
+    {
+      "form": "vitalicio",
+      "startCharOffset": 86,
+      "endCharOffset": 95
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 95,
+      "endCharOffset": 96
+    },
+    {
+      "form": "significa",
+      "startCharOffset": 97,
+      "endCharOffset": 106
+    },
+    {
+      "form": "que",
+      "startCharOffset": 107,
+      "endCharOffset": 110
+    },
+    {
+      "form": "dura",
+      "startCharOffset": 111,
+      "endCharOffset": 115
+    },
+    {
+      "form": "hasta",
+      "startCharOffset": 116,
+      "endCharOffset": 121
+    },
+    {
+      "form": "la",
+      "startCharOffset": 122,
+      "endCharOffset": 124
+    },
+    {
+      "form": "muerte",
+      "startCharOffset": 125,
+      "endCharOffset": 131
+    },
+    {
+      "form": ".",
+      "startCharOffset": 131,
+      "endCharOffset": 132
+    },
+    {
+      "form": "https",
+      "startCharOffset": 133,
+      "endCharOffset": 138
+    },
+    {
+      "form": "…",
+      "startCharOffset": 138,
+      "endCharOffset": 139
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      25
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 7,
+              "end": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

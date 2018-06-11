@@ -1,0 +1,218 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T102059",
+  "text": "RT @Ricardoo_Arjona: \"Estar destrozado por dentro y tener una sonrisa por fuera.\"",
+  "tokens": [
+    "RT",
+    "@Ricardoo_Arjona:",
+    "\"",
+    "Estar",
+    "destrozado",
+    "por",
+    "dentro",
+    "y",
+    "tener",
+    "una",
+    "sonrisa",
+    "por",
+    "fuera",
+    ".\""
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@Ricardoo_Arjona:",
+      "startCharOffset": 3,
+      "endCharOffset": 20
+    },
+    {
+      "form": "\"",
+      "startCharOffset": 21,
+      "endCharOffset": 22
+    },
+    {
+      "form": "Estar",
+      "startCharOffset": 22,
+      "endCharOffset": 27
+    },
+    {
+      "form": "destrozado",
+      "startCharOffset": 28,
+      "endCharOffset": 38
+    },
+    {
+      "form": "por",
+      "startCharOffset": 39,
+      "endCharOffset": 42
+    },
+    {
+      "form": "dentro",
+      "startCharOffset": 43,
+      "endCharOffset": 49
+    },
+    {
+      "form": "y",
+      "startCharOffset": 50,
+      "endCharOffset": 51
+    },
+    {
+      "form": "tener",
+      "startCharOffset": 52,
+      "endCharOffset": 57
+    },
+    {
+      "form": "una",
+      "startCharOffset": 58,
+      "endCharOffset": 61
+    },
+    {
+      "form": "sonrisa",
+      "startCharOffset": 62,
+      "endCharOffset": 69
+    },
+    {
+      "form": "por",
+      "startCharOffset": 70,
+      "endCharOffset": 73
+    },
+    {
+      "form": "fuera",
+      "startCharOffset": 74,
+      "endCharOffset": 79
+    },
+    {
+      "form": ".\"",
+      "startCharOffset": 79,
+      "endCharOffset": 81
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      14
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

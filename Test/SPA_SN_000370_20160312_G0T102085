@@ -1,0 +1,200 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T102085",
+  "text": "@aliciaml14 @juanjoas1 pues parece que si y ha habido un terremoto 😂",
+  "tokens": [
+    "@aliciaml14",
+    "@juanjoas1",
+    "pues",
+    "parece",
+    "que",
+    "si",
+    "y",
+    "ha",
+    "habido",
+    "un",
+    "terremoto",
+    "😂"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "@aliciaml14",
+      "startCharOffset": 0,
+      "endCharOffset": 11
+    },
+    {
+      "form": "@juanjoas1",
+      "startCharOffset": 12,
+      "endCharOffset": 22
+    },
+    {
+      "form": "pues",
+      "startCharOffset": 23,
+      "endCharOffset": 27
+    },
+    {
+      "form": "parece",
+      "startCharOffset": 28,
+      "endCharOffset": 34
+    },
+    {
+      "form": "que",
+      "startCharOffset": 35,
+      "endCharOffset": 38
+    },
+    {
+      "form": "si",
+      "startCharOffset": 39,
+      "endCharOffset": 41
+    },
+    {
+      "form": "y",
+      "startCharOffset": 42,
+      "endCharOffset": 43
+    },
+    {
+      "form": "ha",
+      "startCharOffset": 44,
+      "endCharOffset": 46
+    },
+    {
+      "form": "habido",
+      "startCharOffset": 47,
+      "endCharOffset": 53
+    },
+    {
+      "form": "un",
+      "startCharOffset": 54,
+      "endCharOffset": 56
+    },
+    {
+      "form": "terremoto",
+      "startCharOffset": 57,
+      "endCharOffset": 66
+    },
+    {
+      "form": "😂",
+      "startCharOffset": 67,
+      "endCharOffset": 69
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      12
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

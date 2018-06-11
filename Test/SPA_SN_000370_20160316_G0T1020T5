@@ -1,0 +1,272 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160316_G0T1020T5",
+  "text": "RT @myteks: ATENCION @TarekWilliansS Diputado @AmericoDeGrazia alertó, que ha recibido amenazas de muerte. #GUAYANA https://t.co/1jFsf8fHdC",
+  "tokens": [
+    "RT",
+    "@myteks:",
+    "ATENCION",
+    "@TarekWilliansS",
+    "Diputado",
+    "@AmericoDeGrazia",
+    "alertó",
+    ",",
+    "que",
+    "ha",
+    "recibido",
+    "amenazas",
+    "de",
+    "muerte",
+    ".",
+    "#GUAYANA",
+    "https://t.co/1jFsf8fHdC"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "RT",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "@myteks:",
+      "startCharOffset": 3,
+      "endCharOffset": 11
+    },
+    {
+      "form": "ATENCION",
+      "startCharOffset": 12,
+      "endCharOffset": 20
+    },
+    {
+      "form": "@TarekWilliansS",
+      "startCharOffset": 21,
+      "endCharOffset": 36
+    },
+    {
+      "form": "Diputado",
+      "startCharOffset": 37,
+      "endCharOffset": 45
+    },
+    {
+      "form": "@AmericoDeGrazia",
+      "startCharOffset": 46,
+      "endCharOffset": 62
+    },
+    {
+      "form": "alertó",
+      "startCharOffset": 63,
+      "endCharOffset": 69
+    },
+    {
+      "form": ",",
+      "startCharOffset": 69,
+      "endCharOffset": 70
+    },
+    {
+      "form": "que",
+      "startCharOffset": 71,
+      "endCharOffset": 74
+    },
+    {
+      "form": "ha",
+      "startCharOffset": 75,
+      "endCharOffset": 77
+    },
+    {
+      "form": "recibido",
+      "startCharOffset": 78,
+      "endCharOffset": 86
+    },
+    {
+      "form": "amenazas",
+      "startCharOffset": 87,
+      "endCharOffset": 95
+    },
+    {
+      "form": "de",
+      "startCharOffset": 96,
+      "endCharOffset": 98
+    },
+    {
+      "form": "muerte",
+      "startCharOffset": 99,
+      "endCharOffset": 105
+    },
+    {
+      "form": ".",
+      "startCharOffset": 105,
+      "endCharOffset": 106
+    },
+    {
+      "form": "#GUAYANA",
+      "startCharOffset": 107,
+      "endCharOffset": 115
+    },
+    {
+      "form": "https://t.co/1jFsf8fHdC",
+      "startCharOffset": 116,
+      "endCharOffset": 139
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      17
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

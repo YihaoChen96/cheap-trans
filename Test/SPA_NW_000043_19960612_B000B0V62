@@ -1,0 +1,5966 @@
+{
+  "corpusId": "",
+  "id": "SPA_NW_000043_19960612_B000B0V62",
+  "text": "Limitan aplicación de fianzas en justicia guatemalteca  Por Alfonso Anzueto López GUATEMALA, 12  La aplicación de medidas sustitutivas o fianzas que beneficiaban ilimitadamente a los responsables de hechos criminales en Guatemala quedó severamente restringida al entrar hoy en vigor las nuevas reformas al Código Procesal Penal (CPP).  La iniciativa de la Corte Suprema de Justicia (CSJ) fue respaldada por el Congreso como una respuesta al clamor popular para no dejar en libertad a los responsables de hechos criminales cuando aún no se ha concluido el proceso judicial.  Ahora, los jueces no podrán otorgar fianzas (llamadas medidas sustitutivas en Guatemala) a los procesados reincidentes y delincuentes habituales, o por delitos de homicidio doloso, asesinato, parricidio, violación agravada y de menores de doce años de edad, secuestro, sabotaje, robo y hurto agravados, así como narcotráfico.  Las reformas establecen que las fianzas deberán guardar relación con la gravedad del delito imputado.  El CPP permitía antes a los jueces aplicar a su criterio las fianzas y, por consiguiente, varios delincuentes quedaban sujetos a procedimiento pero fuera de los penales al cubrir en muchos casos una mínima fianza, que no estaba ajustada a la gravedad del delito.  En otros casos, los jueces aplicaron la medidas sustitutivas al ex vicepresidente Gustavo Espina Salguero, acusado de violar la Constitución al igual que el general retirado José Efraín Ríos Montt y otros tres diputados del Frente Republicano Guateamlteco (FRG).  También estan fuera de la cárcel, por haber depositado una fianza, el ex presidente de la CSJ Juan José Rodil Peralta, acusado de malversar varios millones de quetzales, y Rafael Escobar Donis, ex presidente del Banco Nacional de la Vivienda.  Anoche, horas antes de entrar en aplicación la reforma penal, tres militares, incluyendo un general en retiro, recibieron el beneficio de la fianza permitida por la legislación anterior en la apertura de un proceso en donde se les sindica como autores intelectuales del asesinato de la antropóloga guatemalteca Mirna Mack Chang, el 12 de septiembre de 1990.  También se modificó el procedimiento preparatorio de investigación, al establecerse que deberá ser revisado por el Ministerio Público dentro de un plazo de tres meses, y no seis como estaba establecido.  La reforma penal también restableció el arresto domiciliario en hechos de tránsito, el cual no será aplicado cuando el responsable este ebrio o bajo efectos de drogas, conducir sin licencia vigente, no prestar oportuno auxilio a la víctima o fugarse.  En el caso del transporte colectivo de pasajeros, de escolar o de carga en general, los conductores podrán recibir arresto domiciliario siempre y cuando se garantice ante un tribunal el pago de las responsabilidades civiles.",
+  "tokens": [
+    "Limitan",
+    "aplicación",
+    "de",
+    "fianzas",
+    "en",
+    "justicia",
+    "guatemalteca",
+    "Por",
+    "Alfonso",
+    "Anzueto",
+    "López",
+    "GUATEMALA",
+    ",",
+    "12",
+    "La",
+    "aplicación",
+    "de",
+    "medidas",
+    "sustitutivas",
+    "o",
+    "fianzas",
+    "que",
+    "beneficiaban",
+    "ilimitadamente",
+    "a",
+    "los",
+    "responsables",
+    "de",
+    "hechos",
+    "criminales",
+    "en",
+    "Guatemala",
+    "quedó",
+    "severamente",
+    "restringida",
+    "al",
+    "entrar",
+    "hoy",
+    "en",
+    "vigor",
+    "las",
+    "nuevas",
+    "reformas",
+    "al",
+    "Código",
+    "Procesal",
+    "Penal",
+    "(",
+    "CPP",
+    ").",
+    "La",
+    "iniciativa",
+    "de",
+    "la",
+    "Corte",
+    "Suprema",
+    "de",
+    "Justicia",
+    "(",
+    "CSJ",
+    ")",
+    "fue",
+    "respaldada",
+    "por",
+    "el",
+    "Congreso",
+    "como",
+    "una",
+    "respuesta",
+    "al",
+    "clamor",
+    "popular",
+    "para",
+    "no",
+    "dejar",
+    "en",
+    "libertad",
+    "a",
+    "los",
+    "responsables",
+    "de",
+    "hechos",
+    "criminales",
+    "cuando",
+    "aún",
+    "no",
+    "se",
+    "ha",
+    "concluido",
+    "el",
+    "proceso",
+    "judicial",
+    ".",
+    "Ahora",
+    ",",
+    "los",
+    "jueces",
+    "no",
+    "podrán",
+    "otorgar",
+    "fianzas",
+    "(",
+    "llamadas",
+    "medidas",
+    "sustitutivas",
+    "en",
+    "Guatemala",
+    ")",
+    "a",
+    "los",
+    "procesados",
+    "reincidentes",
+    "y",
+    "delincuentes",
+    "habituales",
+    ",",
+    "o",
+    "por",
+    "delitos",
+    "de",
+    "homicidio",
+    "doloso",
+    ",",
+    "asesinato",
+    ",",
+    "parricidio",
+    ",",
+    "violación",
+    "agravada",
+    "y",
+    "de",
+    "menores",
+    "de",
+    "doce",
+    "años",
+    "de",
+    "edad",
+    ",",
+    "secuestro",
+    ",",
+    "sabotaje",
+    ",",
+    "robo",
+    "y",
+    "hurto",
+    "agravados",
+    ",",
+    "así",
+    "como",
+    "narcotráfico",
+    ".",
+    "Las",
+    "reformas",
+    "establecen",
+    "que",
+    "las",
+    "fianzas",
+    "deberán",
+    "guardar",
+    "relación",
+    "con",
+    "la",
+    "gravedad",
+    "del",
+    "delito",
+    "imputado",
+    ".",
+    "El",
+    "CPP",
+    "permitía",
+    "antes",
+    "a",
+    "los",
+    "jueces",
+    "aplicar",
+    "a",
+    "su",
+    "criterio",
+    "las",
+    "fianzas",
+    "y",
+    ",",
+    "por",
+    "consiguiente",
+    ",",
+    "varios",
+    "delincuentes",
+    "quedaban",
+    "sujetos",
+    "a",
+    "procedimiento",
+    "pero",
+    "fuera",
+    "de",
+    "los",
+    "penales",
+    "al",
+    "cubrir",
+    "en",
+    "muchos",
+    "casos",
+    "una",
+    "mínima",
+    "fianza",
+    ",",
+    "que",
+    "no",
+    "estaba",
+    "ajustada",
+    "a",
+    "la",
+    "gravedad",
+    "del",
+    "delito",
+    ".",
+    "En",
+    "otros",
+    "casos",
+    ",",
+    "los",
+    "jueces",
+    "aplicaron",
+    "la",
+    "medidas",
+    "sustitutivas",
+    "al",
+    "ex",
+    "vicepresidente",
+    "Gustavo",
+    "Espina",
+    "Salguero",
+    ",",
+    "acusado",
+    "de",
+    "violar",
+    "la",
+    "Constitución",
+    "al",
+    "igual",
+    "que",
+    "el",
+    "general",
+    "retirado",
+    "José",
+    "Efraín",
+    "Ríos",
+    "Montt",
+    "y",
+    "otros",
+    "tres",
+    "diputados",
+    "del",
+    "Frente",
+    "Republicano",
+    "Guateamlteco",
+    "(",
+    "FRG",
+    ").",
+    "También",
+    "estan",
+    "fuera",
+    "de",
+    "la",
+    "cárcel",
+    ",",
+    "por",
+    "haber",
+    "depositado",
+    "una",
+    "fianza",
+    ",",
+    "el",
+    "ex",
+    "presidente",
+    "de",
+    "la",
+    "CSJ",
+    "Juan",
+    "José",
+    "Rodil",
+    "Peralta",
+    ",",
+    "acusado",
+    "de",
+    "malversar",
+    "varios",
+    "millones",
+    "de",
+    "quetzales",
+    ",",
+    "y",
+    "Rafael",
+    "Escobar",
+    "Donis",
+    ",",
+    "ex",
+    "presidente",
+    "del",
+    "Banco",
+    "Nacional",
+    "de",
+    "la",
+    "Vivienda",
+    ".",
+    "Anoche",
+    ",",
+    "horas",
+    "antes",
+    "de",
+    "entrar",
+    "en",
+    "aplicación",
+    "la",
+    "reforma",
+    "penal",
+    ",",
+    "tres",
+    "militares",
+    ",",
+    "incluyendo",
+    "un",
+    "general",
+    "en",
+    "retiro",
+    ",",
+    "recibieron",
+    "el",
+    "beneficio",
+    "de",
+    "la",
+    "fianza",
+    "permitida",
+    "por",
+    "la",
+    "legislación",
+    "anterior",
+    "en",
+    "la",
+    "apertura",
+    "de",
+    "un",
+    "proceso",
+    "en",
+    "donde",
+    "se",
+    "les",
+    "sindica",
+    "como",
+    "autores",
+    "intelectuales",
+    "del",
+    "asesinato",
+    "de",
+    "la",
+    "antropóloga",
+    "guatemalteca",
+    "Mirna",
+    "Mack",
+    "Chang",
+    ",",
+    "el",
+    "12",
+    "de",
+    "septiembre",
+    "de",
+    "1990",
+    ".",
+    "También",
+    "se",
+    "modificó",
+    "el",
+    "procedimiento",
+    "preparatorio",
+    "de",
+    "investigación",
+    ",",
+    "al",
+    "establecerse",
+    "que",
+    "deberá",
+    "ser",
+    "revisado",
+    "por",
+    "el",
+    "Ministerio",
+    "Público",
+    "dentro",
+    "de",
+    "un",
+    "plazo",
+    "de",
+    "tres",
+    "meses",
+    ",",
+    "y",
+    "no",
+    "seis",
+    "como",
+    "estaba",
+    "establecido",
+    ".",
+    "La",
+    "reforma",
+    "penal",
+    "también",
+    "restableció",
+    "el",
+    "arresto",
+    "domiciliario",
+    "en",
+    "hechos",
+    "de",
+    "tránsito",
+    ",",
+    "el",
+    "cual",
+    "no",
+    "será",
+    "aplicado",
+    "cuando",
+    "el",
+    "responsable",
+    "este",
+    "ebrio",
+    "o",
+    "bajo",
+    "efectos",
+    "de",
+    "drogas",
+    ",",
+    "conducir",
+    "sin",
+    "licencia",
+    "vigente",
+    ",",
+    "no",
+    "prestar",
+    "oportuno",
+    "auxilio",
+    "a",
+    "la",
+    "víctima",
+    "o",
+    "fugarse",
+    ".",
+    "En",
+    "el",
+    "caso",
+    "del",
+    "transporte",
+    "colectivo",
+    "de",
+    "pasajeros",
+    ",",
+    "de",
+    "escolar",
+    "o",
+    "de",
+    "carga",
+    "en",
+    "general",
+    ",",
+    "los",
+    "conductores",
+    "podrán",
+    "recibir",
+    "arresto",
+    "domiciliario",
+    "siempre",
+    "y",
+    "cuando",
+    "se",
+    "garantice",
+    "ante",
+    "un",
+    "tribunal",
+    "el",
+    "pago",
+    "de",
+    "las",
+    "responsabilidades",
+    "civiles",
+    "."
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Limitan",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": "aplicación",
+      "startCharOffset": 8,
+      "endCharOffset": 18
+    },
+    {
+      "form": "de",
+      "startCharOffset": 19,
+      "endCharOffset": 21
+    },
+    {
+      "form": "fianzas",
+      "startCharOffset": 22,
+      "endCharOffset": 29
+    },
+    {
+      "form": "en",
+      "startCharOffset": 30,
+      "endCharOffset": 32
+    },
+    {
+      "form": "justicia",
+      "startCharOffset": 33,
+      "endCharOffset": 41
+    },
+    {
+      "form": "guatemalteca",
+      "startCharOffset": 42,
+      "endCharOffset": 54
+    },
+    {
+      "form": "Por",
+      "startCharOffset": 56,
+      "endCharOffset": 59
+    },
+    {
+      "form": "Alfonso",
+      "startCharOffset": 60,
+      "endCharOffset": 67
+    },
+    {
+      "form": "Anzueto",
+      "startCharOffset": 68,
+      "endCharOffset": 75
+    },
+    {
+      "form": "López",
+      "startCharOffset": 76,
+      "endCharOffset": 81
+    },
+    {
+      "form": "GUATEMALA",
+      "startCharOffset": 82,
+      "endCharOffset": 91
+    },
+    {
+      "form": ",",
+      "startCharOffset": 91,
+      "endCharOffset": 92
+    },
+    {
+      "form": "12",
+      "startCharOffset": 93,
+      "endCharOffset": 95
+    },
+    {
+      "form": "La",
+      "startCharOffset": 97,
+      "endCharOffset": 99
+    },
+    {
+      "form": "aplicación",
+      "startCharOffset": 100,
+      "endCharOffset": 110
+    },
+    {
+      "form": "de",
+      "startCharOffset": 111,
+      "endCharOffset": 113
+    },
+    {
+      "form": "medidas",
+      "startCharOffset": 114,
+      "endCharOffset": 121
+    },
+    {
+      "form": "sustitutivas",
+      "startCharOffset": 122,
+      "endCharOffset": 134
+    },
+    {
+      "form": "o",
+      "startCharOffset": 135,
+      "endCharOffset": 136
+    },
+    {
+      "form": "fianzas",
+      "startCharOffset": 137,
+      "endCharOffset": 144
+    },
+    {
+      "form": "que",
+      "startCharOffset": 145,
+      "endCharOffset": 148
+    },
+    {
+      "form": "beneficiaban",
+      "startCharOffset": 149,
+      "endCharOffset": 161
+    },
+    {
+      "form": "ilimitadamente",
+      "startCharOffset": 162,
+      "endCharOffset": 176
+    },
+    {
+      "form": "a",
+      "startCharOffset": 177,
+      "endCharOffset": 178
+    },
+    {
+      "form": "los",
+      "startCharOffset": 179,
+      "endCharOffset": 182
+    },
+    {
+      "form": "responsables",
+      "startCharOffset": 183,
+      "endCharOffset": 195
+    },
+    {
+      "form": "de",
+      "startCharOffset": 196,
+      "endCharOffset": 198
+    },
+    {
+      "form": "hechos",
+      "startCharOffset": 199,
+      "endCharOffset": 205
+    },
+    {
+      "form": "criminales",
+      "startCharOffset": 206,
+      "endCharOffset": 216
+    },
+    {
+      "form": "en",
+      "startCharOffset": 217,
+      "endCharOffset": 219
+    },
+    {
+      "form": "Guatemala",
+      "startCharOffset": 220,
+      "endCharOffset": 229
+    },
+    {
+      "form": "quedó",
+      "startCharOffset": 230,
+      "endCharOffset": 235
+    },
+    {
+      "form": "severamente",
+      "startCharOffset": 236,
+      "endCharOffset": 247
+    },
+    {
+      "form": "restringida",
+      "startCharOffset": 248,
+      "endCharOffset": 259
+    },
+    {
+      "form": "al",
+      "startCharOffset": 260,
+      "endCharOffset": 262
+    },
+    {
+      "form": "entrar",
+      "startCharOffset": 263,
+      "endCharOffset": 269
+    },
+    {
+      "form": "hoy",
+      "startCharOffset": 270,
+      "endCharOffset": 273
+    },
+    {
+      "form": "en",
+      "startCharOffset": 274,
+      "endCharOffset": 276
+    },
+    {
+      "form": "vigor",
+      "startCharOffset": 277,
+      "endCharOffset": 282
+    },
+    {
+      "form": "las",
+      "startCharOffset": 283,
+      "endCharOffset": 286
+    },
+    {
+      "form": "nuevas",
+      "startCharOffset": 287,
+      "endCharOffset": 293
+    },
+    {
+      "form": "reformas",
+      "startCharOffset": 294,
+      "endCharOffset": 302
+    },
+    {
+      "form": "al",
+      "startCharOffset": 303,
+      "endCharOffset": 305
+    },
+    {
+      "form": "Código",
+      "startCharOffset": 306,
+      "endCharOffset": 312
+    },
+    {
+      "form": "Procesal",
+      "startCharOffset": 313,
+      "endCharOffset": 321
+    },
+    {
+      "form": "Penal",
+      "startCharOffset": 322,
+      "endCharOffset": 327
+    },
+    {
+      "form": "(",
+      "startCharOffset": 328,
+      "endCharOffset": 329
+    },
+    {
+      "form": "CPP",
+      "startCharOffset": 329,
+      "endCharOffset": 332
+    },
+    {
+      "form": ").",
+      "startCharOffset": 332,
+      "endCharOffset": 334
+    },
+    {
+      "form": "La",
+      "startCharOffset": 336,
+      "endCharOffset": 338
+    },
+    {
+      "form": "iniciativa",
+      "startCharOffset": 339,
+      "endCharOffset": 349
+    },
+    {
+      "form": "de",
+      "startCharOffset": 350,
+      "endCharOffset": 352
+    },
+    {
+      "form": "la",
+      "startCharOffset": 353,
+      "endCharOffset": 355
+    },
+    {
+      "form": "Corte",
+      "startCharOffset": 356,
+      "endCharOffset": 361
+    },
+    {
+      "form": "Suprema",
+      "startCharOffset": 362,
+      "endCharOffset": 369
+    },
+    {
+      "form": "de",
+      "startCharOffset": 370,
+      "endCharOffset": 372
+    },
+    {
+      "form": "Justicia",
+      "startCharOffset": 373,
+      "endCharOffset": 381
+    },
+    {
+      "form": "(",
+      "startCharOffset": 382,
+      "endCharOffset": 383
+    },
+    {
+      "form": "CSJ",
+      "startCharOffset": 383,
+      "endCharOffset": 386
+    },
+    {
+      "form": ")",
+      "startCharOffset": 386,
+      "endCharOffset": 387
+    },
+    {
+      "form": "fue",
+      "startCharOffset": 388,
+      "endCharOffset": 391
+    },
+    {
+      "form": "respaldada",
+      "startCharOffset": 392,
+      "endCharOffset": 402
+    },
+    {
+      "form": "por",
+      "startCharOffset": 403,
+      "endCharOffset": 406
+    },
+    {
+      "form": "el",
+      "startCharOffset": 407,
+      "endCharOffset": 409
+    },
+    {
+      "form": "Congreso",
+      "startCharOffset": 410,
+      "endCharOffset": 418
+    },
+    {
+      "form": "como",
+      "startCharOffset": 419,
+      "endCharOffset": 423
+    },
+    {
+      "form": "una",
+      "startCharOffset": 424,
+      "endCharOffset": 427
+    },
+    {
+      "form": "respuesta",
+      "startCharOffset": 428,
+      "endCharOffset": 437
+    },
+    {
+      "form": "al",
+      "startCharOffset": 438,
+      "endCharOffset": 440
+    },
+    {
+      "form": "clamor",
+      "startCharOffset": 441,
+      "endCharOffset": 447
+    },
+    {
+      "form": "popular",
+      "startCharOffset": 448,
+      "endCharOffset": 455
+    },
+    {
+      "form": "para",
+      "startCharOffset": 456,
+      "endCharOffset": 460
+    },
+    {
+      "form": "no",
+      "startCharOffset": 461,
+      "endCharOffset": 463
+    },
+    {
+      "form": "dejar",
+      "startCharOffset": 464,
+      "endCharOffset": 469
+    },
+    {
+      "form": "en",
+      "startCharOffset": 470,
+      "endCharOffset": 472
+    },
+    {
+      "form": "libertad",
+      "startCharOffset": 473,
+      "endCharOffset": 481
+    },
+    {
+      "form": "a",
+      "startCharOffset": 482,
+      "endCharOffset": 483
+    },
+    {
+      "form": "los",
+      "startCharOffset": 484,
+      "endCharOffset": 487
+    },
+    {
+      "form": "responsables",
+      "startCharOffset": 488,
+      "endCharOffset": 500
+    },
+    {
+      "form": "de",
+      "startCharOffset": 501,
+      "endCharOffset": 503
+    },
+    {
+      "form": "hechos",
+      "startCharOffset": 504,
+      "endCharOffset": 510
+    },
+    {
+      "form": "criminales",
+      "startCharOffset": 511,
+      "endCharOffset": 521
+    },
+    {
+      "form": "cuando",
+      "startCharOffset": 522,
+      "endCharOffset": 528
+    },
+    {
+      "form": "aún",
+      "startCharOffset": 529,
+      "endCharOffset": 532
+    },
+    {
+      "form": "no",
+      "startCharOffset": 533,
+      "endCharOffset": 535
+    },
+    {
+      "form": "se",
+      "startCharOffset": 536,
+      "endCharOffset": 538
+    },
+    {
+      "form": "ha",
+      "startCharOffset": 539,
+      "endCharOffset": 541
+    },
+    {
+      "form": "concluido",
+      "startCharOffset": 542,
+      "endCharOffset": 551
+    },
+    {
+      "form": "el",
+      "startCharOffset": 552,
+      "endCharOffset": 554
+    },
+    {
+      "form": "proceso",
+      "startCharOffset": 555,
+      "endCharOffset": 562
+    },
+    {
+      "form": "judicial",
+      "startCharOffset": 563,
+      "endCharOffset": 571
+    },
+    {
+      "form": ".",
+      "startCharOffset": 571,
+      "endCharOffset": 572
+    },
+    {
+      "form": "Ahora",
+      "startCharOffset": 574,
+      "endCharOffset": 579
+    },
+    {
+      "form": ",",
+      "startCharOffset": 579,
+      "endCharOffset": 580
+    },
+    {
+      "form": "los",
+      "startCharOffset": 581,
+      "endCharOffset": 584
+    },
+    {
+      "form": "jueces",
+      "startCharOffset": 585,
+      "endCharOffset": 591
+    },
+    {
+      "form": "no",
+      "startCharOffset": 592,
+      "endCharOffset": 594
+    },
+    {
+      "form": "podrán",
+      "startCharOffset": 595,
+      "endCharOffset": 601
+    },
+    {
+      "form": "otorgar",
+      "startCharOffset": 602,
+      "endCharOffset": 609
+    },
+    {
+      "form": "fianzas",
+      "startCharOffset": 610,
+      "endCharOffset": 617
+    },
+    {
+      "form": "(",
+      "startCharOffset": 618,
+      "endCharOffset": 619
+    },
+    {
+      "form": "llamadas",
+      "startCharOffset": 619,
+      "endCharOffset": 627
+    },
+    {
+      "form": "medidas",
+      "startCharOffset": 628,
+      "endCharOffset": 635
+    },
+    {
+      "form": "sustitutivas",
+      "startCharOffset": 636,
+      "endCharOffset": 648
+    },
+    {
+      "form": "en",
+      "startCharOffset": 649,
+      "endCharOffset": 651
+    },
+    {
+      "form": "Guatemala",
+      "startCharOffset": 652,
+      "endCharOffset": 661
+    },
+    {
+      "form": ")",
+      "startCharOffset": 661,
+      "endCharOffset": 662
+    },
+    {
+      "form": "a",
+      "startCharOffset": 663,
+      "endCharOffset": 664
+    },
+    {
+      "form": "los",
+      "startCharOffset": 665,
+      "endCharOffset": 668
+    },
+    {
+      "form": "procesados",
+      "startCharOffset": 669,
+      "endCharOffset": 679
+    },
+    {
+      "form": "reincidentes",
+      "startCharOffset": 680,
+      "endCharOffset": 692
+    },
+    {
+      "form": "y",
+      "startCharOffset": 693,
+      "endCharOffset": 694
+    },
+    {
+      "form": "delincuentes",
+      "startCharOffset": 695,
+      "endCharOffset": 707
+    },
+    {
+      "form": "habituales",
+      "startCharOffset": 708,
+      "endCharOffset": 718
+    },
+    {
+      "form": ",",
+      "startCharOffset": 718,
+      "endCharOffset": 719
+    },
+    {
+      "form": "o",
+      "startCharOffset": 720,
+      "endCharOffset": 721
+    },
+    {
+      "form": "por",
+      "startCharOffset": 722,
+      "endCharOffset": 725
+    },
+    {
+      "form": "delitos",
+      "startCharOffset": 726,
+      "endCharOffset": 733
+    },
+    {
+      "form": "de",
+      "startCharOffset": 734,
+      "endCharOffset": 736
+    },
+    {
+      "form": "homicidio",
+      "startCharOffset": 737,
+      "endCharOffset": 746
+    },
+    {
+      "form": "doloso",
+      "startCharOffset": 747,
+      "endCharOffset": 753
+    },
+    {
+      "form": ",",
+      "startCharOffset": 753,
+      "endCharOffset": 754
+    },
+    {
+      "form": "asesinato",
+      "startCharOffset": 755,
+      "endCharOffset": 764
+    },
+    {
+      "form": ",",
+      "startCharOffset": 764,
+      "endCharOffset": 765
+    },
+    {
+      "form": "parricidio",
+      "startCharOffset": 766,
+      "endCharOffset": 776
+    },
+    {
+      "form": ",",
+      "startCharOffset": 776,
+      "endCharOffset": 777
+    },
+    {
+      "form": "violación",
+      "startCharOffset": 778,
+      "endCharOffset": 787
+    },
+    {
+      "form": "agravada",
+      "startCharOffset": 788,
+      "endCharOffset": 796
+    },
+    {
+      "form": "y",
+      "startCharOffset": 797,
+      "endCharOffset": 798
+    },
+    {
+      "form": "de",
+      "startCharOffset": 799,
+      "endCharOffset": 801
+    },
+    {
+      "form": "menores",
+      "startCharOffset": 802,
+      "endCharOffset": 809
+    },
+    {
+      "form": "de",
+      "startCharOffset": 810,
+      "endCharOffset": 812
+    },
+    {
+      "form": "doce",
+      "startCharOffset": 813,
+      "endCharOffset": 817
+    },
+    {
+      "form": "años",
+      "startCharOffset": 818,
+      "endCharOffset": 822
+    },
+    {
+      "form": "de",
+      "startCharOffset": 823,
+      "endCharOffset": 825
+    },
+    {
+      "form": "edad",
+      "startCharOffset": 826,
+      "endCharOffset": 830
+    },
+    {
+      "form": ",",
+      "startCharOffset": 830,
+      "endCharOffset": 831
+    },
+    {
+      "form": "secuestro",
+      "startCharOffset": 832,
+      "endCharOffset": 841
+    },
+    {
+      "form": ",",
+      "startCharOffset": 841,
+      "endCharOffset": 842
+    },
+    {
+      "form": "sabotaje",
+      "startCharOffset": 843,
+      "endCharOffset": 851
+    },
+    {
+      "form": ",",
+      "startCharOffset": 851,
+      "endCharOffset": 852
+    },
+    {
+      "form": "robo",
+      "startCharOffset": 853,
+      "endCharOffset": 857
+    },
+    {
+      "form": "y",
+      "startCharOffset": 858,
+      "endCharOffset": 859
+    },
+    {
+      "form": "hurto",
+      "startCharOffset": 860,
+      "endCharOffset": 865
+    },
+    {
+      "form": "agravados",
+      "startCharOffset": 866,
+      "endCharOffset": 875
+    },
+    {
+      "form": ",",
+      "startCharOffset": 875,
+      "endCharOffset": 876
+    },
+    {
+      "form": "así",
+      "startCharOffset": 877,
+      "endCharOffset": 880
+    },
+    {
+      "form": "como",
+      "startCharOffset": 881,
+      "endCharOffset": 885
+    },
+    {
+      "form": "narcotráfico",
+      "startCharOffset": 886,
+      "endCharOffset": 898
+    },
+    {
+      "form": ".",
+      "startCharOffset": 898,
+      "endCharOffset": 899
+    },
+    {
+      "form": "Las",
+      "startCharOffset": 901,
+      "endCharOffset": 904
+    },
+    {
+      "form": "reformas",
+      "startCharOffset": 905,
+      "endCharOffset": 913
+    },
+    {
+      "form": "establecen",
+      "startCharOffset": 914,
+      "endCharOffset": 924
+    },
+    {
+      "form": "que",
+      "startCharOffset": 925,
+      "endCharOffset": 928
+    },
+    {
+      "form": "las",
+      "startCharOffset": 929,
+      "endCharOffset": 932
+    },
+    {
+      "form": "fianzas",
+      "startCharOffset": 933,
+      "endCharOffset": 940
+    },
+    {
+      "form": "deberán",
+      "startCharOffset": 941,
+      "endCharOffset": 948
+    },
+    {
+      "form": "guardar",
+      "startCharOffset": 949,
+      "endCharOffset": 956
+    },
+    {
+      "form": "relación",
+      "startCharOffset": 957,
+      "endCharOffset": 965
+    },
+    {
+      "form": "con",
+      "startCharOffset": 966,
+      "endCharOffset": 969
+    },
+    {
+      "form": "la",
+      "startCharOffset": 970,
+      "endCharOffset": 972
+    },
+    {
+      "form": "gravedad",
+      "startCharOffset": 973,
+      "endCharOffset": 981
+    },
+    {
+      "form": "del",
+      "startCharOffset": 982,
+      "endCharOffset": 985
+    },
+    {
+      "form": "delito",
+      "startCharOffset": 986,
+      "endCharOffset": 992
+    },
+    {
+      "form": "imputado",
+      "startCharOffset": 993,
+      "endCharOffset": 1001
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1001,
+      "endCharOffset": 1002
+    },
+    {
+      "form": "El",
+      "startCharOffset": 1004,
+      "endCharOffset": 1006
+    },
+    {
+      "form": "CPP",
+      "startCharOffset": 1007,
+      "endCharOffset": 1010
+    },
+    {
+      "form": "permitía",
+      "startCharOffset": 1011,
+      "endCharOffset": 1019
+    },
+    {
+      "form": "antes",
+      "startCharOffset": 1020,
+      "endCharOffset": 1025
+    },
+    {
+      "form": "a",
+      "startCharOffset": 1026,
+      "endCharOffset": 1027
+    },
+    {
+      "form": "los",
+      "startCharOffset": 1028,
+      "endCharOffset": 1031
+    },
+    {
+      "form": "jueces",
+      "startCharOffset": 1032,
+      "endCharOffset": 1038
+    },
+    {
+      "form": "aplicar",
+      "startCharOffset": 1039,
+      "endCharOffset": 1046
+    },
+    {
+      "form": "a",
+      "startCharOffset": 1047,
+      "endCharOffset": 1048
+    },
+    {
+      "form": "su",
+      "startCharOffset": 1049,
+      "endCharOffset": 1051
+    },
+    {
+      "form": "criterio",
+      "startCharOffset": 1052,
+      "endCharOffset": 1060
+    },
+    {
+      "form": "las",
+      "startCharOffset": 1061,
+      "endCharOffset": 1064
+    },
+    {
+      "form": "fianzas",
+      "startCharOffset": 1065,
+      "endCharOffset": 1072
+    },
+    {
+      "form": "y",
+      "startCharOffset": 1073,
+      "endCharOffset": 1074
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1074,
+      "endCharOffset": 1075
+    },
+    {
+      "form": "por",
+      "startCharOffset": 1076,
+      "endCharOffset": 1079
+    },
+    {
+      "form": "consiguiente",
+      "startCharOffset": 1080,
+      "endCharOffset": 1092
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1092,
+      "endCharOffset": 1093
+    },
+    {
+      "form": "varios",
+      "startCharOffset": 1094,
+      "endCharOffset": 1100
+    },
+    {
+      "form": "delincuentes",
+      "startCharOffset": 1101,
+      "endCharOffset": 1113
+    },
+    {
+      "form": "quedaban",
+      "startCharOffset": 1114,
+      "endCharOffset": 1122
+    },
+    {
+      "form": "sujetos",
+      "startCharOffset": 1123,
+      "endCharOffset": 1130
+    },
+    {
+      "form": "a",
+      "startCharOffset": 1131,
+      "endCharOffset": 1132
+    },
+    {
+      "form": "procedimiento",
+      "startCharOffset": 1133,
+      "endCharOffset": 1146
+    },
+    {
+      "form": "pero",
+      "startCharOffset": 1147,
+      "endCharOffset": 1151
+    },
+    {
+      "form": "fuera",
+      "startCharOffset": 1152,
+      "endCharOffset": 1157
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1158,
+      "endCharOffset": 1160
+    },
+    {
+      "form": "los",
+      "startCharOffset": 1161,
+      "endCharOffset": 1164
+    },
+    {
+      "form": "penales",
+      "startCharOffset": 1165,
+      "endCharOffset": 1172
+    },
+    {
+      "form": "al",
+      "startCharOffset": 1173,
+      "endCharOffset": 1175
+    },
+    {
+      "form": "cubrir",
+      "startCharOffset": 1176,
+      "endCharOffset": 1182
+    },
+    {
+      "form": "en",
+      "startCharOffset": 1183,
+      "endCharOffset": 1185
+    },
+    {
+      "form": "muchos",
+      "startCharOffset": 1186,
+      "endCharOffset": 1192
+    },
+    {
+      "form": "casos",
+      "startCharOffset": 1193,
+      "endCharOffset": 1198
+    },
+    {
+      "form": "una",
+      "startCharOffset": 1199,
+      "endCharOffset": 1202
+    },
+    {
+      "form": "mínima",
+      "startCharOffset": 1203,
+      "endCharOffset": 1209
+    },
+    {
+      "form": "fianza",
+      "startCharOffset": 1210,
+      "endCharOffset": 1216
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1216,
+      "endCharOffset": 1217
+    },
+    {
+      "form": "que",
+      "startCharOffset": 1218,
+      "endCharOffset": 1221
+    },
+    {
+      "form": "no",
+      "startCharOffset": 1222,
+      "endCharOffset": 1224
+    },
+    {
+      "form": "estaba",
+      "startCharOffset": 1225,
+      "endCharOffset": 1231
+    },
+    {
+      "form": "ajustada",
+      "startCharOffset": 1232,
+      "endCharOffset": 1240
+    },
+    {
+      "form": "a",
+      "startCharOffset": 1241,
+      "endCharOffset": 1242
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1243,
+      "endCharOffset": 1245
+    },
+    {
+      "form": "gravedad",
+      "startCharOffset": 1246,
+      "endCharOffset": 1254
+    },
+    {
+      "form": "del",
+      "startCharOffset": 1255,
+      "endCharOffset": 1258
+    },
+    {
+      "form": "delito",
+      "startCharOffset": 1259,
+      "endCharOffset": 1265
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1265,
+      "endCharOffset": 1266
+    },
+    {
+      "form": "En",
+      "startCharOffset": 1268,
+      "endCharOffset": 1270
+    },
+    {
+      "form": "otros",
+      "startCharOffset": 1271,
+      "endCharOffset": 1276
+    },
+    {
+      "form": "casos",
+      "startCharOffset": 1277,
+      "endCharOffset": 1282
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1282,
+      "endCharOffset": 1283
+    },
+    {
+      "form": "los",
+      "startCharOffset": 1284,
+      "endCharOffset": 1287
+    },
+    {
+      "form": "jueces",
+      "startCharOffset": 1288,
+      "endCharOffset": 1294
+    },
+    {
+      "form": "aplicaron",
+      "startCharOffset": 1295,
+      "endCharOffset": 1304
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1305,
+      "endCharOffset": 1307
+    },
+    {
+      "form": "medidas",
+      "startCharOffset": 1308,
+      "endCharOffset": 1315
+    },
+    {
+      "form": "sustitutivas",
+      "startCharOffset": 1316,
+      "endCharOffset": 1328
+    },
+    {
+      "form": "al",
+      "startCharOffset": 1329,
+      "endCharOffset": 1331
+    },
+    {
+      "form": "ex",
+      "startCharOffset": 1332,
+      "endCharOffset": 1334
+    },
+    {
+      "form": "vicepresidente",
+      "startCharOffset": 1335,
+      "endCharOffset": 1349
+    },
+    {
+      "form": "Gustavo",
+      "startCharOffset": 1350,
+      "endCharOffset": 1357
+    },
+    {
+      "form": "Espina",
+      "startCharOffset": 1358,
+      "endCharOffset": 1364
+    },
+    {
+      "form": "Salguero",
+      "startCharOffset": 1365,
+      "endCharOffset": 1373
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1373,
+      "endCharOffset": 1374
+    },
+    {
+      "form": "acusado",
+      "startCharOffset": 1375,
+      "endCharOffset": 1382
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1383,
+      "endCharOffset": 1385
+    },
+    {
+      "form": "violar",
+      "startCharOffset": 1386,
+      "endCharOffset": 1392
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1393,
+      "endCharOffset": 1395
+    },
+    {
+      "form": "Constitución",
+      "startCharOffset": 1396,
+      "endCharOffset": 1408
+    },
+    {
+      "form": "al",
+      "startCharOffset": 1409,
+      "endCharOffset": 1411
+    },
+    {
+      "form": "igual",
+      "startCharOffset": 1412,
+      "endCharOffset": 1417
+    },
+    {
+      "form": "que",
+      "startCharOffset": 1418,
+      "endCharOffset": 1421
+    },
+    {
+      "form": "el",
+      "startCharOffset": 1422,
+      "endCharOffset": 1424
+    },
+    {
+      "form": "general",
+      "startCharOffset": 1425,
+      "endCharOffset": 1432
+    },
+    {
+      "form": "retirado",
+      "startCharOffset": 1433,
+      "endCharOffset": 1441
+    },
+    {
+      "form": "José",
+      "startCharOffset": 1442,
+      "endCharOffset": 1446
+    },
+    {
+      "form": "Efraín",
+      "startCharOffset": 1447,
+      "endCharOffset": 1453
+    },
+    {
+      "form": "Ríos",
+      "startCharOffset": 1454,
+      "endCharOffset": 1458
+    },
+    {
+      "form": "Montt",
+      "startCharOffset": 1459,
+      "endCharOffset": 1464
+    },
+    {
+      "form": "y",
+      "startCharOffset": 1465,
+      "endCharOffset": 1466
+    },
+    {
+      "form": "otros",
+      "startCharOffset": 1467,
+      "endCharOffset": 1472
+    },
+    {
+      "form": "tres",
+      "startCharOffset": 1473,
+      "endCharOffset": 1477
+    },
+    {
+      "form": "diputados",
+      "startCharOffset": 1478,
+      "endCharOffset": 1487
+    },
+    {
+      "form": "del",
+      "startCharOffset": 1488,
+      "endCharOffset": 1491
+    },
+    {
+      "form": "Frente",
+      "startCharOffset": 1492,
+      "endCharOffset": 1498
+    },
+    {
+      "form": "Republicano",
+      "startCharOffset": 1499,
+      "endCharOffset": 1510
+    },
+    {
+      "form": "Guateamlteco",
+      "startCharOffset": 1511,
+      "endCharOffset": 1523
+    },
+    {
+      "form": "(",
+      "startCharOffset": 1524,
+      "endCharOffset": 1525
+    },
+    {
+      "form": "FRG",
+      "startCharOffset": 1525,
+      "endCharOffset": 1528
+    },
+    {
+      "form": ").",
+      "startCharOffset": 1528,
+      "endCharOffset": 1530
+    },
+    {
+      "form": "También",
+      "startCharOffset": 1532,
+      "endCharOffset": 1539
+    },
+    {
+      "form": "estan",
+      "startCharOffset": 1540,
+      "endCharOffset": 1545
+    },
+    {
+      "form": "fuera",
+      "startCharOffset": 1546,
+      "endCharOffset": 1551
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1552,
+      "endCharOffset": 1554
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1555,
+      "endCharOffset": 1557
+    },
+    {
+      "form": "cárcel",
+      "startCharOffset": 1558,
+      "endCharOffset": 1564
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1564,
+      "endCharOffset": 1565
+    },
+    {
+      "form": "por",
+      "startCharOffset": 1566,
+      "endCharOffset": 1569
+    },
+    {
+      "form": "haber",
+      "startCharOffset": 1570,
+      "endCharOffset": 1575
+    },
+    {
+      "form": "depositado",
+      "startCharOffset": 1576,
+      "endCharOffset": 1586
+    },
+    {
+      "form": "una",
+      "startCharOffset": 1587,
+      "endCharOffset": 1590
+    },
+    {
+      "form": "fianza",
+      "startCharOffset": 1591,
+      "endCharOffset": 1597
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1597,
+      "endCharOffset": 1598
+    },
+    {
+      "form": "el",
+      "startCharOffset": 1599,
+      "endCharOffset": 1601
+    },
+    {
+      "form": "ex",
+      "startCharOffset": 1602,
+      "endCharOffset": 1604
+    },
+    {
+      "form": "presidente",
+      "startCharOffset": 1605,
+      "endCharOffset": 1615
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1616,
+      "endCharOffset": 1618
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1619,
+      "endCharOffset": 1621
+    },
+    {
+      "form": "CSJ",
+      "startCharOffset": 1622,
+      "endCharOffset": 1625
+    },
+    {
+      "form": "Juan",
+      "startCharOffset": 1626,
+      "endCharOffset": 1630
+    },
+    {
+      "form": "José",
+      "startCharOffset": 1631,
+      "endCharOffset": 1635
+    },
+    {
+      "form": "Rodil",
+      "startCharOffset": 1636,
+      "endCharOffset": 1641
+    },
+    {
+      "form": "Peralta",
+      "startCharOffset": 1642,
+      "endCharOffset": 1649
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1649,
+      "endCharOffset": 1650
+    },
+    {
+      "form": "acusado",
+      "startCharOffset": 1651,
+      "endCharOffset": 1658
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1659,
+      "endCharOffset": 1661
+    },
+    {
+      "form": "malversar",
+      "startCharOffset": 1662,
+      "endCharOffset": 1671
+    },
+    {
+      "form": "varios",
+      "startCharOffset": 1672,
+      "endCharOffset": 1678
+    },
+    {
+      "form": "millones",
+      "startCharOffset": 1679,
+      "endCharOffset": 1687
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1688,
+      "endCharOffset": 1690
+    },
+    {
+      "form": "quetzales",
+      "startCharOffset": 1691,
+      "endCharOffset": 1700
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1700,
+      "endCharOffset": 1701
+    },
+    {
+      "form": "y",
+      "startCharOffset": 1702,
+      "endCharOffset": 1703
+    },
+    {
+      "form": "Rafael",
+      "startCharOffset": 1704,
+      "endCharOffset": 1710
+    },
+    {
+      "form": "Escobar",
+      "startCharOffset": 1711,
+      "endCharOffset": 1718
+    },
+    {
+      "form": "Donis",
+      "startCharOffset": 1719,
+      "endCharOffset": 1724
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1724,
+      "endCharOffset": 1725
+    },
+    {
+      "form": "ex",
+      "startCharOffset": 1726,
+      "endCharOffset": 1728
+    },
+    {
+      "form": "presidente",
+      "startCharOffset": 1729,
+      "endCharOffset": 1739
+    },
+    {
+      "form": "del",
+      "startCharOffset": 1740,
+      "endCharOffset": 1743
+    },
+    {
+      "form": "Banco",
+      "startCharOffset": 1744,
+      "endCharOffset": 1749
+    },
+    {
+      "form": "Nacional",
+      "startCharOffset": 1750,
+      "endCharOffset": 1758
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1759,
+      "endCharOffset": 1761
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1762,
+      "endCharOffset": 1764
+    },
+    {
+      "form": "Vivienda",
+      "startCharOffset": 1765,
+      "endCharOffset": 1773
+    },
+    {
+      "form": ".",
+      "startCharOffset": 1773,
+      "endCharOffset": 1774
+    },
+    {
+      "form": "Anoche",
+      "startCharOffset": 1776,
+      "endCharOffset": 1782
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1782,
+      "endCharOffset": 1783
+    },
+    {
+      "form": "horas",
+      "startCharOffset": 1784,
+      "endCharOffset": 1789
+    },
+    {
+      "form": "antes",
+      "startCharOffset": 1790,
+      "endCharOffset": 1795
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1796,
+      "endCharOffset": 1798
+    },
+    {
+      "form": "entrar",
+      "startCharOffset": 1799,
+      "endCharOffset": 1805
+    },
+    {
+      "form": "en",
+      "startCharOffset": 1806,
+      "endCharOffset": 1808
+    },
+    {
+      "form": "aplicación",
+      "startCharOffset": 1809,
+      "endCharOffset": 1819
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1820,
+      "endCharOffset": 1822
+    },
+    {
+      "form": "reforma",
+      "startCharOffset": 1823,
+      "endCharOffset": 1830
+    },
+    {
+      "form": "penal",
+      "startCharOffset": 1831,
+      "endCharOffset": 1836
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1836,
+      "endCharOffset": 1837
+    },
+    {
+      "form": "tres",
+      "startCharOffset": 1838,
+      "endCharOffset": 1842
+    },
+    {
+      "form": "militares",
+      "startCharOffset": 1843,
+      "endCharOffset": 1852
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1852,
+      "endCharOffset": 1853
+    },
+    {
+      "form": "incluyendo",
+      "startCharOffset": 1854,
+      "endCharOffset": 1864
+    },
+    {
+      "form": "un",
+      "startCharOffset": 1865,
+      "endCharOffset": 1867
+    },
+    {
+      "form": "general",
+      "startCharOffset": 1868,
+      "endCharOffset": 1875
+    },
+    {
+      "form": "en",
+      "startCharOffset": 1876,
+      "endCharOffset": 1878
+    },
+    {
+      "form": "retiro",
+      "startCharOffset": 1879,
+      "endCharOffset": 1885
+    },
+    {
+      "form": ",",
+      "startCharOffset": 1885,
+      "endCharOffset": 1886
+    },
+    {
+      "form": "recibieron",
+      "startCharOffset": 1887,
+      "endCharOffset": 1897
+    },
+    {
+      "form": "el",
+      "startCharOffset": 1898,
+      "endCharOffset": 1900
+    },
+    {
+      "form": "beneficio",
+      "startCharOffset": 1901,
+      "endCharOffset": 1910
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1911,
+      "endCharOffset": 1913
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1914,
+      "endCharOffset": 1916
+    },
+    {
+      "form": "fianza",
+      "startCharOffset": 1917,
+      "endCharOffset": 1923
+    },
+    {
+      "form": "permitida",
+      "startCharOffset": 1924,
+      "endCharOffset": 1933
+    },
+    {
+      "form": "por",
+      "startCharOffset": 1934,
+      "endCharOffset": 1937
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1938,
+      "endCharOffset": 1940
+    },
+    {
+      "form": "legislación",
+      "startCharOffset": 1941,
+      "endCharOffset": 1952
+    },
+    {
+      "form": "anterior",
+      "startCharOffset": 1953,
+      "endCharOffset": 1961
+    },
+    {
+      "form": "en",
+      "startCharOffset": 1962,
+      "endCharOffset": 1964
+    },
+    {
+      "form": "la",
+      "startCharOffset": 1965,
+      "endCharOffset": 1967
+    },
+    {
+      "form": "apertura",
+      "startCharOffset": 1968,
+      "endCharOffset": 1976
+    },
+    {
+      "form": "de",
+      "startCharOffset": 1977,
+      "endCharOffset": 1979
+    },
+    {
+      "form": "un",
+      "startCharOffset": 1980,
+      "endCharOffset": 1982
+    },
+    {
+      "form": "proceso",
+      "startCharOffset": 1983,
+      "endCharOffset": 1990
+    },
+    {
+      "form": "en",
+      "startCharOffset": 1991,
+      "endCharOffset": 1993
+    },
+    {
+      "form": "donde",
+      "startCharOffset": 1994,
+      "endCharOffset": 1999
+    },
+    {
+      "form": "se",
+      "startCharOffset": 2000,
+      "endCharOffset": 2002
+    },
+    {
+      "form": "les",
+      "startCharOffset": 2003,
+      "endCharOffset": 2006
+    },
+    {
+      "form": "sindica",
+      "startCharOffset": 2007,
+      "endCharOffset": 2014
+    },
+    {
+      "form": "como",
+      "startCharOffset": 2015,
+      "endCharOffset": 2019
+    },
+    {
+      "form": "autores",
+      "startCharOffset": 2020,
+      "endCharOffset": 2027
+    },
+    {
+      "form": "intelectuales",
+      "startCharOffset": 2028,
+      "endCharOffset": 2041
+    },
+    {
+      "form": "del",
+      "startCharOffset": 2042,
+      "endCharOffset": 2045
+    },
+    {
+      "form": "asesinato",
+      "startCharOffset": 2046,
+      "endCharOffset": 2055
+    },
+    {
+      "form": "de",
+      "startCharOffset": 2056,
+      "endCharOffset": 2058
+    },
+    {
+      "form": "la",
+      "startCharOffset": 2059,
+      "endCharOffset": 2061
+    },
+    {
+      "form": "antropóloga",
+      "startCharOffset": 2062,
+      "endCharOffset": 2073
+    },
+    {
+      "form": "guatemalteca",
+      "startCharOffset": 2074,
+      "endCharOffset": 2086
+    },
+    {
+      "form": "Mirna",
+      "startCharOffset": 2087,
+      "endCharOffset": 2092
+    },
+    {
+      "form": "Mack",
+      "startCharOffset": 2093,
+      "endCharOffset": 2097
+    },
+    {
+      "form": "Chang",
+      "startCharOffset": 2098,
+      "endCharOffset": 2103
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2103,
+      "endCharOffset": 2104
+    },
+    {
+      "form": "el",
+      "startCharOffset": 2105,
+      "endCharOffset": 2107
+    },
+    {
+      "form": "12",
+      "startCharOffset": 2108,
+      "endCharOffset": 2110
+    },
+    {
+      "form": "de",
+      "startCharOffset": 2111,
+      "endCharOffset": 2113
+    },
+    {
+      "form": "septiembre",
+      "startCharOffset": 2114,
+      "endCharOffset": 2124
+    },
+    {
+      "form": "de",
+      "startCharOffset": 2125,
+      "endCharOffset": 2127
+    },
+    {
+      "form": "1990",
+      "startCharOffset": 2128,
+      "endCharOffset": 2132
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2132,
+      "endCharOffset": 2133
+    },
+    {
+      "form": "También",
+      "startCharOffset": 2135,
+      "endCharOffset": 2142
+    },
+    {
+      "form": "se",
+      "startCharOffset": 2143,
+      "endCharOffset": 2145
+    },
+    {
+      "form": "modificó",
+      "startCharOffset": 2146,
+      "endCharOffset": 2154
+    },
+    {
+      "form": "el",
+      "startCharOffset": 2155,
+      "endCharOffset": 2157
+    },
+    {
+      "form": "procedimiento",
+      "startCharOffset": 2158,
+      "endCharOffset": 2171
+    },
+    {
+      "form": "preparatorio",
+      "startCharOffset": 2172,
+      "endCharOffset": 2184
+    },
+    {
+      "form": "de",
+      "startCharOffset": 2185,
+      "endCharOffset": 2187
+    },
+    {
+      "form": "investigación",
+      "startCharOffset": 2188,
+      "endCharOffset": 2201
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2201,
+      "endCharOffset": 2202
+    },
+    {
+      "form": "al",
+      "startCharOffset": 2203,
+      "endCharOffset": 2205
+    },
+    {
+      "form": "establecerse",
+      "startCharOffset": 2206,
+      "endCharOffset": 2218
+    },
+    {
+      "form": "que",
+      "startCharOffset": 2219,
+      "endCharOffset": 2222
+    },
+    {
+      "form": "deberá",
+      "startCharOffset": 2223,
+      "endCharOffset": 2229
+    },
+    {
+      "form": "ser",
+      "startCharOffset": 2230,
+      "endCharOffset": 2233
+    },
+    {
+      "form": "revisado",
+      "startCharOffset": 2234,
+      "endCharOffset": 2242
+    },
+    {
+      "form": "por",
+      "startCharOffset": 2243,
+      "endCharOffset": 2246
+    },
+    {
+      "form": "el",
+      "startCharOffset": 2247,
+      "endCharOffset": 2249
+    },
+    {
+      "form": "Ministerio",
+      "startCharOffset": 2250,
+      "endCharOffset": 2260
+    },
+    {
+      "form": "Público",
+      "startCharOffset": 2261,
+      "endCharOffset": 2268
+    },
+    {
+      "form": "dentro",
+      "startCharOffset": 2269,
+      "endCharOffset": 2275
+    },
+    {
+      "form": "de",
+      "startCharOffset": 2276,
+      "endCharOffset": 2278
+    },
+    {
+      "form": "un",
+      "startCharOffset": 2279,
+      "endCharOffset": 2281
+    },
+    {
+      "form": "plazo",
+      "startCharOffset": 2282,
+      "endCharOffset": 2287
+    },
+    {
+      "form": "de",
+      "startCharOffset": 2288,
+      "endCharOffset": 2290
+    },
+    {
+      "form": "tres",
+      "startCharOffset": 2291,
+      "endCharOffset": 2295
+    },
+    {
+      "form": "meses",
+      "startCharOffset": 2296,
+      "endCharOffset": 2301
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2301,
+      "endCharOffset": 2302
+    },
+    {
+      "form": "y",
+      "startCharOffset": 2303,
+      "endCharOffset": 2304
+    },
+    {
+      "form": "no",
+      "startCharOffset": 2305,
+      "endCharOffset": 2307
+    },
+    {
+      "form": "seis",
+      "startCharOffset": 2308,
+      "endCharOffset": 2312
+    },
+    {
+      "form": "como",
+      "startCharOffset": 2313,
+      "endCharOffset": 2317
+    },
+    {
+      "form": "estaba",
+      "startCharOffset": 2318,
+      "endCharOffset": 2324
+    },
+    {
+      "form": "establecido",
+      "startCharOffset": 2325,
+      "endCharOffset": 2336
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2336,
+      "endCharOffset": 2337
+    },
+    {
+      "form": "La",
+      "startCharOffset": 2339,
+      "endCharOffset": 2341
+    },
+    {
+      "form": "reforma",
+      "startCharOffset": 2342,
+      "endCharOffset": 2349
+    },
+    {
+      "form": "penal",
+      "startCharOffset": 2350,
+      "endCharOffset": 2355
+    },
+    {
+      "form": "también",
+      "startCharOffset": 2356,
+      "endCharOffset": 2363
+    },
+    {
+      "form": "restableció",
+      "startCharOffset": 2364,
+      "endCharOffset": 2375
+    },
+    {
+      "form": "el",
+      "startCharOffset": 2376,
+      "endCharOffset": 2378
+    },
+    {
+      "form": "arresto",
+      "startCharOffset": 2379,
+      "endCharOffset": 2386
+    },
+    {
+      "form": "domiciliario",
+      "startCharOffset": 2387,
+      "endCharOffset": 2399
+    },
+    {
+      "form": "en",
+      "startCharOffset": 2400,
+      "endCharOffset": 2402
+    },
+    {
+      "form": "hechos",
+      "startCharOffset": 2403,
+      "endCharOffset": 2409
+    },
+    {
+      "form": "de",
+      "startCharOffset": 2410,
+      "endCharOffset": 2412
+    },
+    {
+      "form": "tránsito",
+      "startCharOffset": 2413,
+      "endCharOffset": 2421
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2421,
+      "endCharOffset": 2422
+    },
+    {
+      "form": "el",
+      "startCharOffset": 2423,
+      "endCharOffset": 2425
+    },
+    {
+      "form": "cual",
+      "startCharOffset": 2426,
+      "endCharOffset": 2430
+    },
+    {
+      "form": "no",
+      "startCharOffset": 2431,
+      "endCharOffset": 2433
+    },
+    {
+      "form": "será",
+      "startCharOffset": 2434,
+      "endCharOffset": 2438
+    },
+    {
+      "form": "aplicado",
+      "startCharOffset": 2439,
+      "endCharOffset": 2447
+    },
+    {
+      "form": "cuando",
+      "startCharOffset": 2448,
+      "endCharOffset": 2454
+    },
+    {
+      "form": "el",
+      "startCharOffset": 2455,
+      "endCharOffset": 2457
+    },
+    {
+      "form": "responsable",
+      "startCharOffset": 2458,
+      "endCharOffset": 2469
+    },
+    {
+      "form": "este",
+      "startCharOffset": 2470,
+      "endCharOffset": 2474
+    },
+    {
+      "form": "ebrio",
+      "startCharOffset": 2475,
+      "endCharOffset": 2480
+    },
+    {
+      "form": "o",
+      "startCharOffset": 2481,
+      "endCharOffset": 2482
+    },
+    {
+      "form": "bajo",
+      "startCharOffset": 2483,
+      "endCharOffset": 2487
+    },
+    {
+      "form": "efectos",
+      "startCharOffset": 2488,
+      "endCharOffset": 2495
+    },
+    {
+      "form": "de",
+      "startCharOffset": 2496,
+      "endCharOffset": 2498
+    },
+    {
+      "form": "drogas",
+      "startCharOffset": 2499,
+      "endCharOffset": 2505
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2505,
+      "endCharOffset": 2506
+    },
+    {
+      "form": "conducir",
+      "startCharOffset": 2507,
+      "endCharOffset": 2515
+    },
+    {
+      "form": "sin",
+      "startCharOffset": 2516,
+      "endCharOffset": 2519
+    },
+    {
+      "form": "licencia",
+      "startCharOffset": 2520,
+      "endCharOffset": 2528
+    },
+    {
+      "form": "vigente",
+      "startCharOffset": 2529,
+      "endCharOffset": 2536
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2536,
+      "endCharOffset": 2537
+    },
+    {
+      "form": "no",
+      "startCharOffset": 2538,
+      "endCharOffset": 2540
+    },
+    {
+      "form": "prestar",
+      "startCharOffset": 2541,
+      "endCharOffset": 2548
+    },
+    {
+      "form": "oportuno",
+      "startCharOffset": 2549,
+      "endCharOffset": 2557
+    },
+    {
+      "form": "auxilio",
+      "startCharOffset": 2558,
+      "endCharOffset": 2565
+    },
+    {
+      "form": "a",
+      "startCharOffset": 2566,
+      "endCharOffset": 2567
+    },
+    {
+      "form": "la",
+      "startCharOffset": 2568,
+      "endCharOffset": 2570
+    },
+    {
+      "form": "víctima",
+      "startCharOffset": 2571,
+      "endCharOffset": 2578
+    },
+    {
+      "form": "o",
+      "startCharOffset": 2579,
+      "endCharOffset": 2580
+    },
+    {
+      "form": "fugarse",
+      "startCharOffset": 2581,
+      "endCharOffset": 2588
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2588,
+      "endCharOffset": 2589
+    },
+    {
+      "form": "En",
+      "startCharOffset": 2591,
+      "endCharOffset": 2593
+    },
+    {
+      "form": "el",
+      "startCharOffset": 2594,
+      "endCharOffset": 2596
+    },
+    {
+      "form": "caso",
+      "startCharOffset": 2597,
+      "endCharOffset": 2601
+    },
+    {
+      "form": "del",
+      "startCharOffset": 2602,
+      "endCharOffset": 2605
+    },
+    {
+      "form": "transporte",
+      "startCharOffset": 2606,
+      "endCharOffset": 2616
+    },
+    {
+      "form": "colectivo",
+      "startCharOffset": 2617,
+      "endCharOffset": 2626
+    },
+    {
+      "form": "de",
+      "startCharOffset": 2627,
+      "endCharOffset": 2629
+    },
+    {
+      "form": "pasajeros",
+      "startCharOffset": 2630,
+      "endCharOffset": 2639
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2639,
+      "endCharOffset": 2640
+    },
+    {
+      "form": "de",
+      "startCharOffset": 2641,
+      "endCharOffset": 2643
+    },
+    {
+      "form": "escolar",
+      "startCharOffset": 2644,
+      "endCharOffset": 2651
+    },
+    {
+      "form": "o",
+      "startCharOffset": 2652,
+      "endCharOffset": 2653
+    },
+    {
+      "form": "de",
+      "startCharOffset": 2654,
+      "endCharOffset": 2656
+    },
+    {
+      "form": "carga",
+      "startCharOffset": 2657,
+      "endCharOffset": 2662
+    },
+    {
+      "form": "en",
+      "startCharOffset": 2663,
+      "endCharOffset": 2665
+    },
+    {
+      "form": "general",
+      "startCharOffset": 2666,
+      "endCharOffset": 2673
+    },
+    {
+      "form": ",",
+      "startCharOffset": 2673,
+      "endCharOffset": 2674
+    },
+    {
+      "form": "los",
+      "startCharOffset": 2675,
+      "endCharOffset": 2678
+    },
+    {
+      "form": "conductores",
+      "startCharOffset": 2679,
+      "endCharOffset": 2690
+    },
+    {
+      "form": "podrán",
+      "startCharOffset": 2691,
+      "endCharOffset": 2697
+    },
+    {
+      "form": "recibir",
+      "startCharOffset": 2698,
+      "endCharOffset": 2705
+    },
+    {
+      "form": "arresto",
+      "startCharOffset": 2706,
+      "endCharOffset": 2713
+    },
+    {
+      "form": "domiciliario",
+      "startCharOffset": 2714,
+      "endCharOffset": 2726
+    },
+    {
+      "form": "siempre",
+      "startCharOffset": 2727,
+      "endCharOffset": 2734
+    },
+    {
+      "form": "y",
+      "startCharOffset": 2735,
+      "endCharOffset": 2736
+    },
+    {
+      "form": "cuando",
+      "startCharOffset": 2737,
+      "endCharOffset": 2743
+    },
+    {
+      "form": "se",
+      "startCharOffset": 2744,
+      "endCharOffset": 2746
+    },
+    {
+      "form": "garantice",
+      "startCharOffset": 2747,
+      "endCharOffset": 2756
+    },
+    {
+      "form": "ante",
+      "startCharOffset": 2757,
+      "endCharOffset": 2761
+    },
+    {
+      "form": "un",
+      "startCharOffset": 2762,
+      "endCharOffset": 2764
+    },
+    {
+      "form": "tribunal",
+      "startCharOffset": 2765,
+      "endCharOffset": 2773
+    },
+    {
+      "form": "el",
+      "startCharOffset": 2774,
+      "endCharOffset": 2776
+    },
+    {
+      "form": "pago",
+      "startCharOffset": 2777,
+      "endCharOffset": 2781
+    },
+    {
+      "form": "de",
+      "startCharOffset": 2782,
+      "endCharOffset": 2784
+    },
+    {
+      "form": "las",
+      "startCharOffset": 2785,
+      "endCharOffset": 2788
+    },
+    {
+      "form": "responsabilidades",
+      "startCharOffset": 2789,
+      "endCharOffset": 2806
+    },
+    {
+      "form": "civiles",
+      "startCharOffset": 2807,
+      "endCharOffset": 2814
+    },
+    {
+      "form": ".",
+      "startCharOffset": 2814,
+      "endCharOffset": 2815
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      7,
+      14,
+      50,
+      93,
+      151,
+      167,
+      215,
+      258,
+      304,
+      367,
+      401,
+      445,
+      483
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 8,
+              "end": 11
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 31,
+              "end": 32
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 54,
+              "end": 58
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 59,
+              "end": 60
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 106,
+              "end": 107
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 228,
+              "end": 231
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 243,
+              "end": 247
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 252,
+              "end": 255
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 256,
+              "end": 257
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 276,
+              "end": 277
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 277,
+              "end": 281
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 291,
+              "end": 294
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 298,
+              "end": 303
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 355,
+              "end": 356
+            },
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 356,
+              "end": 359
+            },
+            {
+              "label": "ORG",
+              "score": 1.0,
+              "start": 384,
+              "end": 386
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 21,
+              "end": 22
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 22,
+              "end": 23
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 23,
+              "end": 24
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 24,
+              "end": 25
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 25,
+              "end": 26
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 26,
+              "end": 27
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 27,
+              "end": 28
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 28,
+              "end": 29
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 29,
+              "end": 30
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 30,
+              "end": 31
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 31,
+              "end": 32
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 32,
+              "end": 33
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 33,
+              "end": 34
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 34,
+              "end": 35
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 35,
+              "end": 36
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 36,
+              "end": 37
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 37,
+              "end": 38
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 38,
+              "end": 39
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 39,
+              "end": 40
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 40,
+              "end": 41
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 41,
+              "end": 42
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 42,
+              "end": 43
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 43,
+              "end": 44
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 44,
+              "end": 45
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 45,
+              "end": 46
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 46,
+              "end": 47
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 47,
+              "end": 48
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 48,
+              "end": 49
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 49,
+              "end": 50
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 50,
+              "end": 51
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 51,
+              "end": 52
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 52,
+              "end": 53
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 53,
+              "end": 54
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 54,
+              "end": 55
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 55,
+              "end": 56
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 56,
+              "end": 57
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 57,
+              "end": 58
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 58,
+              "end": 59
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 59,
+              "end": 60
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 60,
+              "end": 61
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 61,
+              "end": 62
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 62,
+              "end": 63
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 63,
+              "end": 64
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 64,
+              "end": 65
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 65,
+              "end": 66
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 66,
+              "end": 67
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 67,
+              "end": 68
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 68,
+              "end": 69
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 69,
+              "end": 70
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 70,
+              "end": 71
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 71,
+              "end": 72
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 72,
+              "end": 73
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 73,
+              "end": 74
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 74,
+              "end": 75
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 75,
+              "end": 76
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 76,
+              "end": 77
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 77,
+              "end": 78
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 78,
+              "end": 79
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 79,
+              "end": 80
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 80,
+              "end": 81
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 81,
+              "end": 82
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 82,
+              "end": 83
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 83,
+              "end": 84
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 84,
+              "end": 85
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 85,
+              "end": 86
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 86,
+              "end": 87
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 87,
+              "end": 88
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 88,
+              "end": 89
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 89,
+              "end": 90
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 90,
+              "end": 91
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 91,
+              "end": 92
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 92,
+              "end": 93
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 93,
+              "end": 94
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 94,
+              "end": 95
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 95,
+              "end": 96
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 96,
+              "end": 97
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 97,
+              "end": 98
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 98,
+              "end": 99
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 99,
+              "end": 100
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 100,
+              "end": 101
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 101,
+              "end": 102
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 102,
+              "end": 103
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 103,
+              "end": 104
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 104,
+              "end": 105
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 105,
+              "end": 106
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 106,
+              "end": 107
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 107,
+              "end": 108
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 108,
+              "end": 109
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 109,
+              "end": 110
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 110,
+              "end": 111
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 111,
+              "end": 112
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 112,
+              "end": 113
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 113,
+              "end": 114
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 114,
+              "end": 115
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 115,
+              "end": 116
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 116,
+              "end": 117
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 117,
+              "end": 118
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 118,
+              "end": 119
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 119,
+              "end": 120
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 120,
+              "end": 121
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 121,
+              "end": 122
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 122,
+              "end": 123
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 123,
+              "end": 124
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 124,
+              "end": 125
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 125,
+              "end": 126
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 126,
+              "end": 127
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 127,
+              "end": 128
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 128,
+              "end": 129
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 129,
+              "end": 130
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 130,
+              "end": 131
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 131,
+              "end": 132
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 132,
+              "end": 133
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 133,
+              "end": 134
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 134,
+              "end": 135
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 135,
+              "end": 136
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 136,
+              "end": 137
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 137,
+              "end": 138
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 138,
+              "end": 139
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 139,
+              "end": 140
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 140,
+              "end": 141
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 141,
+              "end": 142
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 142,
+              "end": 143
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 143,
+              "end": 144
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 144,
+              "end": 145
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 145,
+              "end": 146
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 146,
+              "end": 147
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 147,
+              "end": 148
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 148,
+              "end": 149
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 149,
+              "end": 150
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 150,
+              "end": 151
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 151,
+              "end": 152
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 152,
+              "end": 153
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 153,
+              "end": 154
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 154,
+              "end": 155
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 155,
+              "end": 156
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 156,
+              "end": 157
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 157,
+              "end": 158
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 158,
+              "end": 159
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 159,
+              "end": 160
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 160,
+              "end": 161
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 161,
+              "end": 162
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 162,
+              "end": 163
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 163,
+              "end": 164
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 164,
+              "end": 165
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 165,
+              "end": 166
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 166,
+              "end": 167
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 167,
+              "end": 168
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 168,
+              "end": 169
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 169,
+              "end": 170
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 170,
+              "end": 171
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 171,
+              "end": 172
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 172,
+              "end": 173
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 173,
+              "end": 174
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 174,
+              "end": 175
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 175,
+              "end": 176
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 176,
+              "end": 177
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 177,
+              "end": 178
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 178,
+              "end": 179
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 179,
+              "end": 180
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 180,
+              "end": 181
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 181,
+              "end": 182
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 182,
+              "end": 183
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 183,
+              "end": 184
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 184,
+              "end": 185
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 185,
+              "end": 186
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 186,
+              "end": 187
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 187,
+              "end": 188
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 188,
+              "end": 189
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 189,
+              "end": 190
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 190,
+              "end": 191
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 191,
+              "end": 192
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 192,
+              "end": 193
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 193,
+              "end": 194
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 194,
+              "end": 195
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 195,
+              "end": 196
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 196,
+              "end": 197
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 197,
+              "end": 198
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 198,
+              "end": 199
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 199,
+              "end": 200
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 200,
+              "end": 201
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 201,
+              "end": 202
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 202,
+              "end": 203
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 203,
+              "end": 204
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 204,
+              "end": 205
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 205,
+              "end": 206
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 206,
+              "end": 207
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 207,
+              "end": 208
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 208,
+              "end": 209
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 209,
+              "end": 210
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 210,
+              "end": 211
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 211,
+              "end": 212
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 212,
+              "end": 213
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 213,
+              "end": 214
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 214,
+              "end": 215
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 215,
+              "end": 216
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 216,
+              "end": 217
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 217,
+              "end": 218
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 218,
+              "end": 219
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 219,
+              "end": 220
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 220,
+              "end": 221
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 221,
+              "end": 222
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 222,
+              "end": 223
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 223,
+              "end": 224
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 224,
+              "end": 225
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 225,
+              "end": 226
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 226,
+              "end": 227
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 227,
+              "end": 228
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 228,
+              "end": 229
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 229,
+              "end": 230
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 230,
+              "end": 231
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 231,
+              "end": 232
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 232,
+              "end": 233
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 233,
+              "end": 234
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 234,
+              "end": 235
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 235,
+              "end": 236
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 236,
+              "end": 237
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 237,
+              "end": 238
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 238,
+              "end": 239
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 239,
+              "end": 240
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 240,
+              "end": 241
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 241,
+              "end": 242
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 242,
+              "end": 243
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 243,
+              "end": 244
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 244,
+              "end": 245
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 245,
+              "end": 246
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 246,
+              "end": 247
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 247,
+              "end": 248
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 248,
+              "end": 249
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 249,
+              "end": 250
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 250,
+              "end": 251
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 251,
+              "end": 252
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 252,
+              "end": 253
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 253,
+              "end": 254
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 254,
+              "end": 255
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 255,
+              "end": 256
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 256,
+              "end": 257
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 257,
+              "end": 258
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 258,
+              "end": 259
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 259,
+              "end": 260
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 260,
+              "end": 261
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 261,
+              "end": 262
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 262,
+              "end": 263
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 263,
+              "end": 264
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 264,
+              "end": 265
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 265,
+              "end": 266
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 266,
+              "end": 267
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 267,
+              "end": 268
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 268,
+              "end": 269
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 269,
+              "end": 270
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 270,
+              "end": 271
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 271,
+              "end": 272
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 272,
+              "end": 273
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 273,
+              "end": 274
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 274,
+              "end": 275
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 275,
+              "end": 276
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 276,
+              "end": 277
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 277,
+              "end": 278
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 278,
+              "end": 279
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 279,
+              "end": 280
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 280,
+              "end": 281
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 281,
+              "end": 282
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 282,
+              "end": 283
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 283,
+              "end": 284
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 284,
+              "end": 285
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 285,
+              "end": 286
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 286,
+              "end": 287
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 287,
+              "end": 288
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 288,
+              "end": 289
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 289,
+              "end": 290
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 290,
+              "end": 291
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 291,
+              "end": 292
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 292,
+              "end": 293
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 293,
+              "end": 294
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 294,
+              "end": 295
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 295,
+              "end": 296
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 296,
+              "end": 297
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 297,
+              "end": 298
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 298,
+              "end": 299
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 299,
+              "end": 300
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 300,
+              "end": 301
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 301,
+              "end": 302
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 302,
+              "end": 303
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 303,
+              "end": 304
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 304,
+              "end": 305
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 305,
+              "end": 306
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 306,
+              "end": 307
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 307,
+              "end": 308
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 308,
+              "end": 309
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 309,
+              "end": 310
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 310,
+              "end": 311
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 311,
+              "end": 312
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 312,
+              "end": 313
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 313,
+              "end": 314
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 314,
+              "end": 315
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 315,
+              "end": 316
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 316,
+              "end": 317
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 317,
+              "end": 318
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 318,
+              "end": 319
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 319,
+              "end": 320
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 320,
+              "end": 321
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 321,
+              "end": 322
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 322,
+              "end": 323
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 323,
+              "end": 324
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 324,
+              "end": 325
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 325,
+              "end": 326
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 326,
+              "end": 327
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 327,
+              "end": 328
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 328,
+              "end": 329
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 329,
+              "end": 330
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 330,
+              "end": 331
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 331,
+              "end": 332
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 332,
+              "end": 333
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 333,
+              "end": 334
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 334,
+              "end": 335
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 335,
+              "end": 336
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 336,
+              "end": 337
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 337,
+              "end": 338
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 338,
+              "end": 339
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 339,
+              "end": 340
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 340,
+              "end": 341
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 341,
+              "end": 342
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 342,
+              "end": 343
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 343,
+              "end": 344
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 344,
+              "end": 345
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 345,
+              "end": 346
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 346,
+              "end": 347
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 347,
+              "end": 348
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 348,
+              "end": 349
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 349,
+              "end": 350
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 350,
+              "end": 351
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 351,
+              "end": 352
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 352,
+              "end": 353
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 353,
+              "end": 354
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 354,
+              "end": 355
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 355,
+              "end": 356
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 356,
+              "end": 357
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 357,
+              "end": 358
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 358,
+              "end": 359
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 359,
+              "end": 360
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 360,
+              "end": 361
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 361,
+              "end": 362
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 362,
+              "end": 363
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 363,
+              "end": 364
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 364,
+              "end": 365
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 365,
+              "end": 366
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 366,
+              "end": 367
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 367,
+              "end": 368
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 368,
+              "end": 369
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 369,
+              "end": 370
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 370,
+              "end": 371
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 371,
+              "end": 372
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 372,
+              "end": 373
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 373,
+              "end": 374
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 374,
+              "end": 375
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 375,
+              "end": 376
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 376,
+              "end": 377
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 377,
+              "end": 378
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 378,
+              "end": 379
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 379,
+              "end": 380
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 380,
+              "end": 381
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 381,
+              "end": 382
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 382,
+              "end": 383
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 383,
+              "end": 384
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 384,
+              "end": 385
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 385,
+              "end": 386
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 386,
+              "end": 387
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 387,
+              "end": 388
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 388,
+              "end": 389
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 389,
+              "end": 390
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 390,
+              "end": 391
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 391,
+              "end": 392
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 392,
+              "end": 393
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 393,
+              "end": 394
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 394,
+              "end": 395
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 395,
+              "end": 396
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 396,
+              "end": 397
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 397,
+              "end": 398
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 398,
+              "end": 399
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 399,
+              "end": 400
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 400,
+              "end": 401
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 401,
+              "end": 402
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 402,
+              "end": 403
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 403,
+              "end": 404
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 404,
+              "end": 405
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 405,
+              "end": 406
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 406,
+              "end": 407
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 407,
+              "end": 408
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 408,
+              "end": 409
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 409,
+              "end": 410
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 410,
+              "end": 411
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 411,
+              "end": 412
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 412,
+              "end": 413
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 413,
+              "end": 414
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 414,
+              "end": 415
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 415,
+              "end": 416
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 416,
+              "end": 417
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 417,
+              "end": 418
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 418,
+              "end": 419
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 419,
+              "end": 420
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 420,
+              "end": 421
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 421,
+              "end": 422
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 422,
+              "end": 423
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 423,
+              "end": 424
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 424,
+              "end": 425
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 425,
+              "end": 426
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 426,
+              "end": 427
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 427,
+              "end": 428
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 428,
+              "end": 429
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 429,
+              "end": 430
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 430,
+              "end": 431
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 431,
+              "end": 432
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 432,
+              "end": 433
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 433,
+              "end": 434
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 434,
+              "end": 435
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 435,
+              "end": 436
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 436,
+              "end": 437
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 437,
+              "end": 438
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 438,
+              "end": 439
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 439,
+              "end": 440
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 440,
+              "end": 441
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 441,
+              "end": 442
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 442,
+              "end": 443
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 443,
+              "end": 444
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 444,
+              "end": 445
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 445,
+              "end": 446
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 446,
+              "end": 447
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 447,
+              "end": 448
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 448,
+              "end": 449
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 449,
+              "end": 450
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 450,
+              "end": 451
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 451,
+              "end": 452
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 452,
+              "end": 453
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 453,
+              "end": 454
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 454,
+              "end": 455
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 455,
+              "end": 456
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 456,
+              "end": 457
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 457,
+              "end": 458
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 458,
+              "end": 459
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 459,
+              "end": 460
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 460,
+              "end": 461
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 461,
+              "end": 462
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 462,
+              "end": 463
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 463,
+              "end": 464
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 464,
+              "end": 465
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 465,
+              "end": 466
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 466,
+              "end": 467
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 467,
+              "end": 468
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 468,
+              "end": 469
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 469,
+              "end": 470
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 470,
+              "end": 471
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 471,
+              "end": 472
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 472,
+              "end": 473
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 473,
+              "end": 474
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 474,
+              "end": 475
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 475,
+              "end": 476
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 476,
+              "end": 477
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 477,
+              "end": 478
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 478,
+              "end": 479
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 479,
+              "end": 480
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 480,
+              "end": 481
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 481,
+              "end": 482
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 482,
+              "end": 483
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

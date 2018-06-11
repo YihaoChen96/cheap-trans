@@ -1,0 +1,278 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T1020BE",
+  "text": "#Terremoto Siguen las réplicas en la zona de Alborán Esta vez ampliamente sentido en Melilla(intensidad VI)y #Málaga https://t.co/OcYAy1UN4n",
+  "tokens": [
+    "#Terremoto",
+    "Siguen",
+    "las",
+    "réplicas",
+    "en",
+    "la",
+    "zona",
+    "de",
+    "Alborán",
+    "Esta",
+    "vez",
+    "ampliamente",
+    "sentido",
+    "en",
+    "Melilla(intensidad",
+    "VI)y",
+    "#Málaga",
+    "https://t.co/OcYAy1UN4n"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "#Terremoto",
+      "startCharOffset": 0,
+      "endCharOffset": 10
+    },
+    {
+      "form": "Siguen",
+      "startCharOffset": 11,
+      "endCharOffset": 17
+    },
+    {
+      "form": "las",
+      "startCharOffset": 18,
+      "endCharOffset": 21
+    },
+    {
+      "form": "réplicas",
+      "startCharOffset": 22,
+      "endCharOffset": 30
+    },
+    {
+      "form": "en",
+      "startCharOffset": 31,
+      "endCharOffset": 33
+    },
+    {
+      "form": "la",
+      "startCharOffset": 34,
+      "endCharOffset": 36
+    },
+    {
+      "form": "zona",
+      "startCharOffset": 37,
+      "endCharOffset": 41
+    },
+    {
+      "form": "de",
+      "startCharOffset": 42,
+      "endCharOffset": 44
+    },
+    {
+      "form": "Alborán",
+      "startCharOffset": 45,
+      "endCharOffset": 52
+    },
+    {
+      "form": "Esta",
+      "startCharOffset": 53,
+      "endCharOffset": 57
+    },
+    {
+      "form": "vez",
+      "startCharOffset": 58,
+      "endCharOffset": 61
+    },
+    {
+      "form": "ampliamente",
+      "startCharOffset": 62,
+      "endCharOffset": 73
+    },
+    {
+      "form": "sentido",
+      "startCharOffset": 74,
+      "endCharOffset": 81
+    },
+    {
+      "form": "en",
+      "startCharOffset": 82,
+      "endCharOffset": 84
+    },
+    {
+      "form": "Melilla(intensidad",
+      "startCharOffset": 85,
+      "endCharOffset": 103
+    },
+    {
+      "form": "VI)y",
+      "startCharOffset": 104,
+      "endCharOffset": 108
+    },
+    {
+      "form": "#Málaga",
+      "startCharOffset": 109,
+      "endCharOffset": 116
+    },
+    {
+      "form": "https://t.co/OcYAy1UN4n",
+      "startCharOffset": 117,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      18
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "LOC",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "GPE",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

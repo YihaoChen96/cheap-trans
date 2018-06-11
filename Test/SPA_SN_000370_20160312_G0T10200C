@@ -1,0 +1,302 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T10200C",
+  "text": "Ja... GENTE q no le importaba VARARSE, ATERRIZAR de EMERGENCIA o MORIR x sus PRECIOS BAJOS. #PorLaRenunciaDeMaduro https://t.co/kCTHQPyZN5",
+  "tokens": [
+    "Ja",
+    "...",
+    "GENTE",
+    "q",
+    "no",
+    "le",
+    "importaba",
+    "VARARSE",
+    ",",
+    "ATERRIZAR",
+    "de",
+    "EMERGENCIA",
+    "o",
+    "MORIR",
+    "x",
+    "sus",
+    "PRECIOS",
+    "BAJOS",
+    ".",
+    "#PorLaRenunciaDeMaduro",
+    "https://t.co/kCTHQPyZN5"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Ja",
+      "startCharOffset": 0,
+      "endCharOffset": 2
+    },
+    {
+      "form": "...",
+      "startCharOffset": 2,
+      "endCharOffset": 5
+    },
+    {
+      "form": "GENTE",
+      "startCharOffset": 6,
+      "endCharOffset": 11
+    },
+    {
+      "form": "q",
+      "startCharOffset": 12,
+      "endCharOffset": 13
+    },
+    {
+      "form": "no",
+      "startCharOffset": 14,
+      "endCharOffset": 16
+    },
+    {
+      "form": "le",
+      "startCharOffset": 17,
+      "endCharOffset": 19
+    },
+    {
+      "form": "importaba",
+      "startCharOffset": 20,
+      "endCharOffset": 29
+    },
+    {
+      "form": "VARARSE",
+      "startCharOffset": 30,
+      "endCharOffset": 37
+    },
+    {
+      "form": ",",
+      "startCharOffset": 37,
+      "endCharOffset": 38
+    },
+    {
+      "form": "ATERRIZAR",
+      "startCharOffset": 39,
+      "endCharOffset": 48
+    },
+    {
+      "form": "de",
+      "startCharOffset": 49,
+      "endCharOffset": 51
+    },
+    {
+      "form": "EMERGENCIA",
+      "startCharOffset": 52,
+      "endCharOffset": 62
+    },
+    {
+      "form": "o",
+      "startCharOffset": 63,
+      "endCharOffset": 64
+    },
+    {
+      "form": "MORIR",
+      "startCharOffset": 65,
+      "endCharOffset": 70
+    },
+    {
+      "form": "x",
+      "startCharOffset": 71,
+      "endCharOffset": 72
+    },
+    {
+      "form": "sus",
+      "startCharOffset": 73,
+      "endCharOffset": 76
+    },
+    {
+      "form": "PRECIOS",
+      "startCharOffset": 77,
+      "endCharOffset": 84
+    },
+    {
+      "form": "BAJOS",
+      "startCharOffset": 85,
+      "endCharOffset": 90
+    },
+    {
+      "form": ".",
+      "startCharOffset": 90,
+      "endCharOffset": 91
+    },
+    {
+      "form": "#PorLaRenunciaDeMaduro",
+      "startCharOffset": 92,
+      "endCharOffset": 114
+    },
+    {
+      "form": "https://t.co/kCTHQPyZN5",
+      "startCharOffset": 115,
+      "endCharOffset": 138
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      21
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 20,
+              "end": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

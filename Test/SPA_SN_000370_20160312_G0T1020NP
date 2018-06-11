@@ -1,0 +1,290 @@
+{
+  "corpusId": "",
+  "id": "SPA_SN_000370_20160312_G0T1020NP",
+  "text": "Peligro: ésta fiera se escapó de su hábitat,si te topas con ella reportala a protección civil o bomberos.@ManceraMig https://t.co/jigVovtU1b",
+  "tokens": [
+    "Peligro",
+    ":",
+    "ésta",
+    "fiera",
+    "se",
+    "escapó",
+    "de",
+    "su",
+    "hábitat,si",
+    "te",
+    "topas",
+    "con",
+    "ella",
+    "reportala",
+    "a",
+    "protección",
+    "civil",
+    "o",
+    "bomberos.@ManceraMig",
+    "https://t.co/jigVovtU1b"
+  ],
+  "tokenOffsets": [
+    {
+      "form": "Peligro",
+      "startCharOffset": 0,
+      "endCharOffset": 7
+    },
+    {
+      "form": ":",
+      "startCharOffset": 7,
+      "endCharOffset": 8
+    },
+    {
+      "form": "ésta",
+      "startCharOffset": 9,
+      "endCharOffset": 13
+    },
+    {
+      "form": "fiera",
+      "startCharOffset": 14,
+      "endCharOffset": 19
+    },
+    {
+      "form": "se",
+      "startCharOffset": 20,
+      "endCharOffset": 22
+    },
+    {
+      "form": "escapó",
+      "startCharOffset": 23,
+      "endCharOffset": 29
+    },
+    {
+      "form": "de",
+      "startCharOffset": 30,
+      "endCharOffset": 32
+    },
+    {
+      "form": "su",
+      "startCharOffset": 33,
+      "endCharOffset": 35
+    },
+    {
+      "form": "hábitat,si",
+      "startCharOffset": 36,
+      "endCharOffset": 46
+    },
+    {
+      "form": "te",
+      "startCharOffset": 47,
+      "endCharOffset": 49
+    },
+    {
+      "form": "topas",
+      "startCharOffset": 50,
+      "endCharOffset": 55
+    },
+    {
+      "form": "con",
+      "startCharOffset": 56,
+      "endCharOffset": 59
+    },
+    {
+      "form": "ella",
+      "startCharOffset": 60,
+      "endCharOffset": 64
+    },
+    {
+      "form": "reportala",
+      "startCharOffset": 65,
+      "endCharOffset": 74
+    },
+    {
+      "form": "a",
+      "startCharOffset": 75,
+      "endCharOffset": 76
+    },
+    {
+      "form": "protección",
+      "startCharOffset": 77,
+      "endCharOffset": 87
+    },
+    {
+      "form": "civil",
+      "startCharOffset": 88,
+      "endCharOffset": 93
+    },
+    {
+      "form": "o",
+      "startCharOffset": 94,
+      "endCharOffset": 95
+    },
+    {
+      "form": "bomberos.@ManceraMig",
+      "startCharOffset": 96,
+      "endCharOffset": 116
+    },
+    {
+      "form": "https://t.co/jigVovtU1b",
+      "startCharOffset": 117,
+      "endCharOffset": 140
+    }
+  ],
+  "sentences": {
+    "generator": "UserSpecified",
+    "score": 1.0,
+    "sentenceEndPositions": [
+      20
+    ]
+  },
+  "views": [
+    {
+      "viewName": "NER_CONLL",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.View",
+          "viewName": "NER_CONLL",
+          "generator": "Ltf2TextAnnotation",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "PER",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "viewName": "TOKENS",
+      "viewData": [
+        {
+          "viewType": "edu.illinois.cs.cogcomp.core.datastructures.textannotation.TokenLabelView",
+          "viewName": "TOKENS",
+          "generator": "UserSpecified",
+          "score": 1.0,
+          "constituents": [
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 0,
+              "end": 1
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 1,
+              "end": 2
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 2,
+              "end": 3
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 3,
+              "end": 4
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 4,
+              "end": 5
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 5,
+              "end": 6
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 6,
+              "end": 7
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 7,
+              "end": 8
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 8,
+              "end": 9
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 9,
+              "end": 10
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 10,
+              "end": 11
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 11,
+              "end": 12
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 12,
+              "end": 13
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 13,
+              "end": 14
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 14,
+              "end": 15
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 15,
+              "end": 16
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 16,
+              "end": 17
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 17,
+              "end": 18
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 18,
+              "end": 19
+            },
+            {
+              "label": "",
+              "score": 1.0,
+              "start": 19,
+              "end": 20
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
