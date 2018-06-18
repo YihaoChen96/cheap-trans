@@ -1,3 +1,5 @@
+package edu.illinois.cs.cogcomp.lorelei.cheaptrans;
+
 import java.util.*;
 import java.io.*;
 
@@ -20,14 +22,14 @@ public class Util {
 		this.lang_mp.put("yor","yo");
 		this.lang_mp.put("deu","de");
 		this.lang_mp.put("fra","fr");
-		
+
 		this.charset = "UTF-8";
 	}
-	
+
 	public String langMapping(String key_lang) {
 		return this.lang_mp.get(key_lang);
 	}
-	
+
 	public ArrayList<String> readFile(String fname) throws IOException {
 		ArrayList<String> str_lst=new ArrayList<String>();
 		String str;
@@ -37,22 +39,22 @@ public class Util {
 		while ((str = br.readLine())!= null) {
 			str_lst.add(str);
 		}
-		System.out.println(str_lst.size());
+
 		br.close();
 		reader.close();
 		return str_lst;
 	}
-	
+
 	public void writeFile(String outfname, ArrayList<String> outlines) throws IOException {
 		FileOutputStream output_stream = new FileOutputStream(outfname);
 		OutputStreamWriter writer = new OutputStreamWriter(output_stream, this.charset);
 		BufferedWriter bw = new BufferedWriter(writer);
 		outlines.trimToSize();
-		
+
 		for (int i=0; i<outlines.size();i++) {
 			bw.write(outlines.get(i));
 		}
-		
+
 		bw.close();
 		writer.close();
 	}
@@ -61,7 +63,7 @@ public class Util {
 		if (line_arr.length>5) return line_arr[5];
 		else return null;
 	}
-	
+
 	public String setWord(String line,String word) {
 		String[] line_arr = line.split("\t");
 		if (line_arr.length>5) {
@@ -70,29 +72,29 @@ public class Util {
 		}
 		else return line;
 	}
-	
+
 	public String getTag(String line) {
 		String[] line_arr = line.split("\t");
 		if (line_arr.length>5) return line_arr[0];
 		else return null;
 	}
-	
+
 	public void setCharset(String charset) {
 		this.charset = charset;
 	}
-	
+
 	public String getCharset() {
 		return this.charset;
 	}
-	
-	public String toCapitalize(String str) {  
-	    char[] charArray = str.toCharArray();  
-	    charArray[0] -= 32;  
-	    return String.valueOf(charArray);  
-	}  
-	
+
+	public String toCapitalize(String str) {
+	    char[] charArray = str.toCharArray();
+	    charArray[0] -= 32;
+	    return String.valueOf(charArray);
+	}
+
 	public ArrayList<String> engExpansion(String str) {
-		ArrayList<String> exp = new ArrayList<String>(); 
+		ArrayList<String> exp = new ArrayList<String>();
 		if(str.endsWith("s")) {
 			exp.add(str.substring(0,str.length()-1));
 		}
@@ -106,7 +108,7 @@ public class Util {
 		ArrayList<String> lst = u.readFile(args[0]);
 		System.out.println(lst);
 	}
-	
-	
-	
+
+
+
 }

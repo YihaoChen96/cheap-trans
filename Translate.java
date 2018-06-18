@@ -1,5 +1,23 @@
+package edu.illinois.cs.cogcomp.lorelei.cheaptrans;
+
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.OutputStreamWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
+import java.util.List;
+
+import edu.illinois.cs.cogcomp.annotation.BasicTextAnnotationBuilder;
+import edu.illinois.cs.cogcomp.core.datastructures.ViewNames;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Constituent;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.Sentence;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.TextAnnotation;
+import edu.illinois.cs.cogcomp.core.datastructures.textannotation.View;
+import edu.illinois.cs.cogcomp.core.io.IOUtils;
+import edu.illinois.cs.cogcomp.core.utilities.SerializationHelper;
 
 public class Translate {
 	public Lexicon lex;
@@ -11,15 +29,15 @@ public class Translate {
 	public Translate() {
 		throw new IllegalArgumentException("Invalid Initiation");
 	}
-		
+
 		//lex unspecified//
 	public Translate(String dictionary,String method,String source,String target) {
 		this.lex = new Lexicon(dictionary,source,target);
 		this.method = method;
 		this.dict_path = null;
 	}
-		
-		
+
+
 		//lex specified//
 	public Translate(String dictionary,String method,String source,String target,String dict_path) {
 		this.dict_path = dict_path;
@@ -27,7 +45,7 @@ public class Translate {
 		this.lex = new Lexicon(dictionary,dict_path,source,target);
 	}
 
-	
+
 	public void loadDictionary () throws IOException {
 		if (this.dict_path!=null) {
 			System.out.println("dict_path Read Unimplemented");
@@ -43,71 +61,116 @@ public class Translate {
 		}
 	}
 	
-	public ArrayList<String> translate(ArrayList<String> lines) {
+	public String translateWord (String srcword) {
+		String oword = srcword;
+		Dict hit = this.lex.lookUp(srcword);
+		//System.out.println(hit);
+		if (hit == null) {
+			hit = this.lex.lookUp(srcword.toLowerCase());
+			if (hit!=null) srcword = srcword.toLowerCase();
+		}
+
+		if (hit == null&&this.lex.source.equals("eng")) {
+			ArrayList<String> src_expand = this.util.engExpansion(srcword);
+			//TODO: use vec, improve this algo
+			for(String str : src_expand) {
+				if((hit=this.lex.lookUp(str))!=null) {
+					break;
+				}
+				else if((hit=this.lex.lookUp(str.toLowerCase()))!=null) {
+					break;
+				}
+			}
+
+		}
+
+//		if (this.use_tag_list&& hit==null&&srctags.substring(0, 1).equals("B")) {
+//			//System.out.println("Unimplemented");
+//		}
+
+		if(hit !=null) {
+
+			ArrayList<Scores> opts = hit.scores;
+			Scores best = opts.get(0);
+			double best_score = best.score;
+			String best_word = best.str;
+			for (Scores s : opts) {
+				if(s.score==best_score&&s.str.equals(hit.k)==false) {
+					best_word=s.str;
+					break;
+				}
+				if(s.score<best_score) break;
+			}
+
+			return best_word;
+		}
+		else return oword;
+		
+	}
+	
+	
+	public ArrayList<String> translateCONLL(ArrayList<String> lines) {
 		ArrayList<String> outlines = new ArrayList<String>();
 		int missing = 0;
 		int total = 0;
 		ArrayList<String> missed_words = new ArrayList<String>();
-		//for (String line :lines) System.out.println(lines.size());
-		ArrayList<Integer> empty_lines = new ArrayList<Integer>();
+
 		int i = 0;
 		double progress = 0;
 		int window = 4;
-		int line_counter = 0;
+
 		while(true) {
+
 			double current_prog = i/(double)lines.size();
 			if (current_prog > progress + 0.1){
 				//System.out.println(current_prog);
 				progress = current_prog;
 			}
-			
+
 			if (i>=lines.size()) break;
-			
+
 			ArrayList<String> words = new ArrayList<String>();
 			ArrayList<String> tags = new ArrayList<String>();
-			
+
 			for(String line: lines) {
-				
 				String word = this.util.getWord(line);
 				String tag = this.util.getTag(line);
-				
-				if(word == null) {
-					empty_lines.add(line_counter);
-					line_counter++;
-				}
-				else{
+				if(word == null) break;
+
 				words.add(word);
 				tags.add(tag);
-				line_counter++;
-				}
 			}
-			
-			
-			
+
+			if (words.size()==0) {
+				outlines.add("\n");
+				i+=1;
+				continue;
+			}
+
 			//TODO: check split//
 			String[] sline = lines.get(i).split("\t");
-			
+
 			if (sline.length>5 && sline[5].equals("")) {
 				sline[5] = "x";
 			}
-			
+
 			ArrayList <String> trans_words= new ArrayList<String>();
-			
-			
+
+
 			for(int jj = 0;jj<words.size();jj++) {
 				//TODO: What does that mean?
-				String srcwords = words.get(jj);
-				//System.out.println(srcwords);
+				String srcword = words.get(jj);
+				//System.out.println(srcword);
 				String srctags = tags.get(jj);
-				Dict hit = this.lex.lookUp(srcwords);
+				Dict hit = this.lex.lookUp(srcword);
 				//System.out.println(hit);
 				if (hit == null) {
-					hit = this.lex.lookUp(srcwords.toLowerCase());
-					if (hit!=null) srcwords = srcwords.toLowerCase();
+					hit = this.lex.lookUp(srcword.toLowerCase());
+					if (hit!=null) srcword = srcword.toLowerCase();
 				}
-				
+
 				if (hit == null&&this.lex.source.equals("eng")) {
-					ArrayList<String> src_expand = this.util.engExpansion(srcwords);
+					ArrayList<String> src_expand = this.util.engExpansion(srcword);
 					//TODO: use vec, improve this algo
 					for(String str : src_expand) {
 						if((hit=this.lex.lookUp(str))!=null) {
@@ -117,17 +180,17 @@ public class Translate {
 							break;
 						}
 					}
-					
+
 				}
-				
+
 				if (this.use_tag_list&& hit==null&&srctags.substring(0, 1).equals("B")) {
 					//System.out.println("Unimplemented");
 				}
-				
+
 				if(hit !=null) {
-					
+
 					ArrayList<Scores> opts = hit.scores;
-					
+
 					int ngram = Math.min(3,outlines.size());
 					ArrayList<String> context = new ArrayList<String>();
 					for (int rev=outlines.size()-1;rev>0;rev--) {
@@ -139,15 +202,15 @@ public class Translate {
 							context.add(c);
 						}
 					}
-					
-					//TODO: LM 
+
+					//TODO: LM
 					//TODO: if we want to translate "two" to french word deux, our program
-					//      will choose "two" instead of deux. However, deux should be the best 
+					//      will choose "two" instead of deux. However, deux should be the best
 					//      translation. Hence, I decided to modify the algo to choose the word
 					//      among those words with the highest score and the word must be different
-					//      from the original word. If there is no words among highest score words 
-					//      that is different from the original word, we choose the hightest score word instead. 
-					
+					//      from the original word. If there is no words among highest score words
+					//      that is different from the original word, we choose the hightest score word instead.
+
 					Scores best = opts.get(0);
 					double best_score = best.score;
 					String best_word = best.str;
@@ -158,51 +221,171 @@ public class Translate {
 						}
 						if(s.score<best_score) break;
 					}
-					
+
 					if (outlines.size()>0 && this.util.getWord(outlines.get(outlines.size()-1))==null) {
 						best_word = this.util.toCapitalize(best_word);
-					} 
-					
+					}
+
 					trans_words.add(best_word);
-					
-					
+
+
 				}
 				if(hit==null) {
-					trans_words.add(srcwords);
+					trans_words.add(srcword);
 					missing+=1;
-					missed_words.add(srcwords);
+					missed_words.add(srcword);
 				}
 			}
-			int word_counter=0;
-			for(int x= 0 ;x<lines.size();x++) {
-				if(empty_lines.contains(x)){
-					outlines.add("\n");
-				}
-				else {
-				outlines.add(this.util.setWord(lines.get(x), trans_words.get(word_counter)));
-				word_counter++;
-				//System.out.println(outlines.get(x));}
-			
-				}
+			for(int x= 0 ;x<trans_words.size();x++) {
+				outlines.add(this.util.setWord(lines.get(x), trans_words.get(x)));
+				//System.out.println(outlines.get(x));
 			}
 			total=words.size();
-			
-			break;		
+			break;
 		}
-		System.out.println(outlines.size());
 		return outlines;
 	}
-	
+
 	public void translateFile (String fname, String outname,String format) throws IOException {
 		ArrayList<String> lines = this.lex.ut.readFile(fname);
-		ArrayList<String> results = this.translate(lines);
+		ArrayList<String> results = this.translateCONLL(lines);
 		this.lex.ut.writeFile(outname, results);
+
+	}
+	
+	public void translateText (String text) {
 		
 	}
-	public static void main (String[] args) throws IOException {
-		Translate tl = new Translate("USEPAVLICK","lexicon",args[1],args[3]);
-		
+	
+	
+	public List<TextAnnotation> processTAs(List<TextAnnotation> tas) throws FileNotFoundException, Exception {
+		List<TextAnnotation> new_tas = new ArrayList<TextAnnotation>();
+		for(TextAnnotation ta: tas) {
+			//System.out.println(ta.getId());
+		    String[] tokens= ta.getTokens();
+		    View tk_view = ta.getView("TOKENS");
+		       
+		    List<TransMapping> mapping = new ArrayList<TransMapping>();
+		    List<Constituent>cons = tk_view.getConstituents();
+		    String result_word = "";
+		    int offset = 0;
+		       
+		    for(Constituent con : cons ) {
+		    	int start = con.getStartSpan();
+		    	int end = con.getEndSpan();
+		    	String[] sub = new String[end-start];
+		    	
+		    	//String[] sub = ta.getTokensInSpan(start, end);
+		    	
+		    	for (int i = start; i<end; i++) {
+		    		sub[i-start] = tokens[i];
+		    	  	}
+		    	//String srcword = con.getTokenizedSurfaceForm();
+		    	String srcword = String.join(" ", sub);
+		    	String origin_word = srcword;
+		    	
+		    	result_word = this.translateWord(srcword);
+				int os = con.getStartSpan();
+				int oe = con.getEndSpan();
+				String [] sword = result_word.split("\\s+");
+				int ts = os + offset;
+				int te = ts + sword.length;
+				offset += sword.length-(oe-os);
+				TransMapping tm = new TransMapping(origin_word,result_word,os,oe,ts,te,offset);
+				mapping.add(tm);
+					
+		    }     
+		    	List<String[]> tokenizedSentences = new ArrayList<String[]>();
+		    	for(int i=0; i<ta.getNumberOfSentences();i++) {
+		    		Sentence sen = ta.getSentence(i);
+		    		int start = sen.getStartSpan();
+		    		int end = sen.getEndSpan();
+		    		List <String> tok_of_sen = new ArrayList<String>();
+		    		for(TransMapping tm : mapping) {
+		    			if (tm.original_start>=start && tm.original_end<=end) {
+		    				tok_of_sen.add(tm.translate_word);
+		    			}
+		    			
+		    			if(tm.original_end>end)break;
+		    		}
+		    		String[] temp = new String[tok_of_sen.size()];
+		    		for(int j = 0; j <tok_of_sen.size(); j++) {
+		    			temp[j] = tok_of_sen.get(j);
+		    		}
+		    		tokenizedSentences.add(temp);
+		    	}
+		    	
+		    	
+//		        for (TextAnnotation ta :tas) {
+//		        	TextAnnotation translated_ta = processTA(ta);
+		        //}
+//		       	FileOutputStream output_stream = new FileOutputStream("mappings.txt");
+//				OutputStreamWriter writer = new OutputStreamWriter(output_stream,"UTF-8");
+//				BufferedWriter bw = new BufferedWriter(writer);
+//		       	for(TransMapping tm :mapping) {
+//					bw.write(tm.toString());
+//					bw.newLine();
+//				}
+//		       	bw.close();
+		    	BasicTextAnnotationBuilder btab = new BasicTextAnnotationBuilder();
+		    	TextAnnotation new_ta = BasicTextAnnotationBuilder.createTextAnnotationFromTokens(ta.getCorpusId(), ta.getId(), tokenizedSentences);
+		    	
+		    	//System.out.println(new_ta.getTokenizedText());
+		    	View cheap_trans = new View(ViewNames.NER_CONLL,"CheapTrans",new_ta,1.0);
+		    	View ner_view = ta.getView("NER_CONLL");
+		    	List<Constituent>ner_cons = ner_view.getConstituents();
+		    	//List<Constituent>new_ner_cons = new ArrayList<Constituent>();
+		    	for (Constituent con: ner_cons) {
+		    		int start = con.getStartSpan();
+		    		int end = con.getEndSpan();
+		    		String[] sub = new String[end-start];
+		    		
+		    		for (int i = start; i<end; i++) {
+		    			sub[i-start] = tokens[i];
+		         	}
+		    		String srcword = String.join(" ", sub);
+		       		for (TransMapping tm :mapping) {
+		       			if (con.getStartSpan()== tm.original_start && con.getEndSpan()==tm.original_end && srcword.equals(tm.original_word) ) {
+		       				Constituent new_con = new Constituent(con.getLabel(),con.getConstituentScore(),con.getViewName(),new_ta,tm.translate_start,tm.translate_end);
+		       				cheap_trans.addConstituent(new_con);
+		       			}
+		       		}
+		       	}
+		       	new_ta.addView(ViewNames.NER_CONLL, cheap_trans);
+		       	new_tas.add(new_ta);
+	}
+		return new_tas;
+	}
+	public void translateTAs(String inpath, String outpath) throws Exception {
+		File tapath = new File(inpath);
+        File[] filelist = tapath.listFiles();
+        List<TextAnnotation> tas = new ArrayList<>();
+        for (File f : filelist) {
+            TextAnnotation ta = SerializationHelper.deserializeTextAnnotationFromFile(f.getAbsolutePath(), true);
+            tas.add(ta);
+            
+        }
+
+        List<TextAnnotation>new_tas = processTAs(tas);
+        if(!(new File(outpath)).exists()) {
+            IOUtils.mkdir(outpath);
+        }
+
+
+        for (TextAnnotation ta : new_tas) {
+            SerializationHelper.serializeTextAnnotationToFile(ta, outpath + "/" + ta.getId(), true, true);
+        }
+        System.out.println(String.format("Wrote %d textannotations to %s", filelist.length, outpath));
+    
+	}
+	public static void main (String[] args) throws Exception {
+		Translate tl = new Translate("USEPAVLICK","lexicon","spa","eng");
+		File f = new File ("");
+		String inpath = f.getAbsolutePath()+"\\src\\main\\java\\edu\\illinois\\cs\\cogcomp\\lorelei\\cheaptrans\\Test";
+		String outpath = f.getAbsolutePath()+"\\src\\main\\java\\edu\\illinois\\cs\\cogcomp\\lorelei\\cheaptrans\\Result";
 		tl.loadDictionary();
-		tl.translateFile(args[0],args[2],"utf-8");
+		System.out.println(inpath+"\n"+outpath);
+		tl.translateTAs(inpath,outpath);
 	}
+
 }

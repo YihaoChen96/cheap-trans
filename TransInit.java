@@ -1,3 +1,4 @@
+package edu.illinois.cs.cogcomp.lorelei.cheaptrans;
 import java.util.*;
 import java.util.Map.Entry;
 import java.io.*;
@@ -10,22 +11,22 @@ public class TransInit {
 	String dict_path= "default";
 	String in_file = null;
 	String out_file = "out.conll";
-	
+
 	TransInit(){
-		
+
 	}
-	
+
 	//TODO: USE VEC && USE SIMILARITY
 	public Map<String,String> readConfig (String fname) throws IOException {
 		FileInputStream in_stream = new FileInputStream(fname);
 		InputStreamReader reader = new InputStreamReader(in_stream,"utf-8");
 		BufferedReader br = new BufferedReader(reader);
-		
+
 		String line = null;
 		Map<String,String> configs = new HashMap<String,String>();
 		while((line=br.readLine())!=null) {
 			String[] strs = line.split("=");
-			if (strs.length!=2) throw new IllegalArgumentException(); 
+			if (strs.length!=2) throw new IllegalArgumentException();
 			else {
 				configs.put(strs[0].trim(),strs[1].trim());
 			}
@@ -81,10 +82,10 @@ public class TransInit {
 			else throw new FileNotFoundException();
 		}
 	}
-	
+
 	public static void main(String[] args) throws IOException {
 		TransInit trans =new TransInit();
 		trans._init_(args[0]);
 	}
-	
+
 }

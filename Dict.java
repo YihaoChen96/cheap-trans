@@ -1,3 +1,4 @@
+package edu.illinois.cs.cogcomp.lorelei.cheaptrans;
 import java.util.*;
 
 public class Dict {
@@ -8,16 +9,16 @@ public class Dict {
 		for(Scores s : scores) {
 			str+=s+";";
 		}
-		str+="}\n";	
+		str+="}\n";
 		return str;
 	}
-	
+
 	public Dict() {
-		
+
 	}
 	public Dict( String k,ArrayList<Scores> scores) {
 		this.scores = scores;
 		this.k = k;
 	}
-	
+
 }
