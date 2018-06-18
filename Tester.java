@@ -4,12 +4,13 @@ import java.io.IOException;
 import java.util.*;
 
 public class Tester {
+	public static String deleteTo(String str) {
+		String[] temp = str.split("\\s+");
+		if(temp[0].equals("to"))temp[0]="";
+		return String.join(" ", temp);
+	}
 	public static void main (String[] args) throws IOException {
-		Translate tl = new Translate("USEPAVLICK","lexicon","eng","fra");
-		tl.loadDictionary();
-		ArrayList<String> lines = new ArrayList<String>();
-		lines.add("O	0	2	x	PRP	poster	x	x	0");
-		tl.translateCONLL(lines);
+		System.out.println(Tester.deleteTo("to do"));
 		
 		}
 	}

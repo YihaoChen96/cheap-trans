@@ -17,6 +17,8 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
+
+
 public class XmlLexiconReader {
 	private String inpath;
 	private String outpath;
@@ -47,7 +49,13 @@ public class XmlLexiconReader {
 			for (int j=0;j<gloss_lst.getLength();j++) {
 				String[] temp = gloss_lst.item(j).getFirstChild().getNodeValue().split(";|,");
 				for (String s: temp) {
-					glosses.add(s.trim());
+					String str = Util.deleteParenthesis(s);
+					str = str.trim();
+					str = Util.deleteTo(str);
+					str = str.trim();
+					str = Util.deleteBe(str);
+					glosses.add(str.trim());
+					System.out.println(str.trim());
 				}
 			}
 			XmlLexicon xml_entry = new XmlLexicon(id, lemma, pos, glosses);
@@ -75,7 +83,7 @@ public class XmlLexiconReader {
 	
 	
 	public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException {
-		XmlLexiconReader xlr = new XmlLexiconReader(args[0],args[1]);
+		XmlLexiconReader xlr = new XmlLexiconReader("D:\\CodingProject\\lorelei2017\\rus_lexicon.v1.0.llf.xml","D:\\CodingProject\\lorelei2017\\out.ru");
 		xlr.xmlToPavlick();
 	}
 }

@@ -19,18 +19,18 @@ public class Lexicon {
 	public Lexicon() {
 		this.dictionary = "USEPAVLICK";
 		this.source = "eng";
-		this.target = "spa";
-
+		this.target = "rus";
+		System.out.println("Default init");
 		File f = new File ("");
 		String path = f.getAbsolutePath();
-		this.lex_path =  path + "/src/main/java/edu/illinois/cs/cogcomp/lorelei/cheaptrans/dictionaries/dict." + "es";
+		this.lex_path =  path + "/src/main/java/edu/illinois/cs/cogcomp/lorelei/cheaptrans/dictionaries/dict." + "rus";
 	}
 
 	public Lexicon(String source,String target) {
 		this.dictionary = "USEPAVLICK";
 		this.source = source;
 		this.target = target;
-
+		System.out.println("ST init");
 		File f = new File ("");
 		String path = f.getAbsolutePath();
 		if (target.equals("eng"))
@@ -42,7 +42,7 @@ public class Lexicon {
 		this.source = source;
 		this.target = target;
 		this.dictionary = dictionary;
-
+		System.out.println("DST init");
 		File f = new File ("");
 		String path = f.getAbsolutePath();
 		if (dictionary.equals ("USEMASTERLEX"))
@@ -59,13 +59,15 @@ public class Lexicon {
 	public Lexicon(String dictionary, String path,String source,String target) {
 		this.source = source;
 		this.target = target;
+		this.dictionary = dictionary;
+		System.out.println("DPST init");
 		if (dictionary.equals ("USEMASTERLEX"))
 			this.lex_path = path + "{0}-eng.masterlex.txt.gz";
 		else if (dictionary.equals("USEPAVLICK")) {
 			if (target.equals("eng"))
-				this.lex_path = path + "/src/main/java/edu/illinois/cs/cogcomp/lorelei/cheaptrans/dictionaries/dict." + ut.langMapping(source);
+				this.lex_path = path + "/dict." + ut.langMapping(source);
 			else 
-				this.lex_path = path + "/src/main/java/edu/illinois/cs/cogcomp/lorelei/cheaptrans/dictionaries/dict." + ut.langMapping(target);
+				this.lex_path = path + "/dict." + ut.langMapping(target);
 		}
 	}
 
@@ -108,6 +110,7 @@ public class Lexicon {
 
 		for (String line: new_lines) {
 			String[] split_line = line.split("\t");
+			//System.out.println(split_line[0]+": "+split_line[1]);
 			String eng = "";
 			String foreign = "";
 
@@ -138,8 +141,8 @@ public class Lexicon {
 				this.pairs.put(temp_lowercase, this.pairs.get(temp_lowercase)+1);
 			else this.pairs.put(temp_lowercase, 1);
 
-			String[] ewords = eng.split("\\s+");
-			String[] fwords = foreign.split("\\s+");
+			String[] ewords = eng.split("\t");
+			String[] fwords = foreign.split("\t");
 			ArrayList<String[]> product_lst = this.product(ewords, fwords);
 
 			for(String[] pair: product_lst) {
@@ -181,7 +184,7 @@ public class Lexicon {
 			}
 			else {
 				ArrayList<String> temp = new ArrayList<String>();
-				temp.add(eng);
+				temp.add(foreign);
 				this.e2f.put(eng, temp);
 			}
 			if(this.e2f.containsKey(eng.toLowerCase())) {
@@ -189,7 +192,7 @@ public class Lexicon {
 			}
 			else {
 				ArrayList<String> temp = new ArrayList<String>();
-				temp.add(eng);
+				temp.add(foreign);
 				this.e2f.put(eng.toLowerCase(), temp);
 			}
 		}
@@ -198,23 +201,28 @@ public class Lexicon {
 
 	public void getLexiconMapping(String source, String target) throws IOException {
 		//eng to lang translation//
-
+		FileOutputStream output_stream = new FileOutputStream("checker.txt");
+		OutputStreamWriter writer = new OutputStreamWriter(output_stream,"UTF-8");
+		BufferedWriter bw = new BufferedWriter(writer);
 		if (source.equals( "eng")) {
 			this.readLexicon();
 
 			for (String k : this.e2f.keySet()) {
 				Map<String, Integer> scores = new LinkedHashMap<String, Integer>();
-
+				
 				ArrayList<String>e2f_k = this.e2f.get(k);
+				
 				for (String w : e2f_k) {
+					
 					Map<String,String> temp = new LinkedHashMap<String,String>();
 					temp.put(k, w);
-					//System.out.println(temp.toString()+this.pairs.containsKey(temp));
+					bw.write(temp.toString()+this.pairs.containsKey(temp));
+					bw.newLine();
 					if(this.pairs.containsKey(temp)) {
 						scores.put(w,this.pairs.get(temp));
 					}
 				}
-
+				if (scores.size()==0)continue;
 				int sum = 0;
 				for(Entry<String,Integer>entry: scores.entrySet()) {
 					sum+=entry.getValue();
@@ -236,7 +244,7 @@ public class Lexicon {
 				this.dct.add(new Dict(k,nscore));
 			}
 			//String out = this.dct.toString();
-			
+			bw.close();
 
 		}
 
@@ -397,22 +405,22 @@ public class Lexicon {
 	}
 
 	public void readWriteTest () throws IOException {
-		Lexicon lex = new Lexicon();
-		lex.readLexicon();
+		
+		
 		FileOutputStream output_stream = new FileOutputStream("e2f.txt");
 		OutputStreamWriter writer = new OutputStreamWriter(output_stream,"UTF-8");
 		BufferedWriter bw = new BufferedWriter(writer);
 
-		for (Entry<String, ArrayList<String>> entry:lex.e2f.entrySet()) {
+		for (Entry<String, ArrayList<String>> entry:this.e2f.entrySet()) {
 			bw.write(entry.getKey()+"\t"+entry.getValue());
 			bw.newLine();
 		}
 
-		output_stream = new FileOutputStream("f2e.fr");
+		output_stream = new FileOutputStream("f2e.txt");
 		writer = new OutputStreamWriter(output_stream,"utf-8");
 		bw = new BufferedWriter(writer);
 
-		for (Entry<String, ArrayList<String>> entry:lex.f2e.entrySet()) {
+		for (Entry<String, ArrayList<String>> entry:this.f2e.entrySet()) {
 			bw.write(entry.getKey()+"\t"+entry.getValue());
 			bw.newLine();
 			//System.out.println(entry.getKey()+"\t"+entry.getValue());
@@ -422,7 +430,7 @@ public class Lexicon {
 		writer = new OutputStreamWriter(output_stream,"UTF-8");
 		bw = new BufferedWriter(writer);
 
-		for (Entry<Map<String,String>, Integer> entry:lex.pairs.entrySet()) {
+		for (Entry<Map<String,String>, Integer> entry:this.pairs.entrySet()) {
 			bw.write(entry.getKey()+"\t"+entry.getValue());
 			bw.newLine();
 		}
@@ -440,9 +448,10 @@ public class Lexicon {
 	}
 
 	public static void main(String[] args) throws FileNotFoundException, IOException {
-		Lexicon lex = new Lexicon();
+		Lexicon lex = new Lexicon("USEPAVLICK","D:\\CodingProject\\lorelei2017","eng","rus");
+		System.out.println(lex.lex_path);
 		//lex.readWriteTest();
-		lex.getLexiconMapping("spa", "eng");
+		lex.getLexiconMapping("eng", "rus");
 		lex.readWriteTest();
 	}
 }

@@ -103,6 +103,47 @@ public class Util {
 		}
 		return exp;
 	}
+	public static String deleteParenthesis(String str) {
+		while(str.contains(")")||str.contains("(")) {
+			if(str.contains("(")) {
+				int head = str.indexOf("(");
+				int tail = str.length()-1;
+				if(str.contains(")")){
+					tail=str.indexOf(")", head);
+					if (tail==-1)tail=str.length()-1;
+				}
+				//System.out.println("head: "+head+"tail: "+tail);
+				String temp = str.substring(head,tail+1);
+				str= str.replace(temp, "");
+			}
+			else if(str.contains(")")){
+				int head = 0;
+				int tail = str.indexOf(")");
+				//System.out.println("head: "+head+"tail: "+tail);
+				String temp = str.substring(head,tail+1);
+				str= str.replace(temp, "");
+			}
+			else return str;
+		}
+		return str;
+	}
+	public static String deleteTo(String str) {
+		String[] temp = str.split("\\s+");
+		if(temp.length>0) {
+			if(temp[0].equals("to")||temp[0].equals("To"))temp[0]="";
+			return String.join(" ", temp);
+		}
+		else return str;
+	}
+	public static String deleteBe(String str) {
+		String[] temp = str.split("\\s+");
+		if(temp.length>0) {
+			if(temp[0].equals("be")||temp[0].equals("be"))temp[0]="";
+			return String.join(" ", temp);
+		}
+		else return str;
+	}
+	
 	public static void main (String[] args) throws IOException {
 		Util u = new Util();
 		ArrayList<String> lst = u.readFile(args[0]);

@@ -24,8 +24,10 @@ public class Translate {
 	public String dict_path=null;
 	public String method;
 	public boolean use_tag_list = false;
-	public boolean use_vecs = false;
+	public boolean use_embeddings = false;
 	public Util util = new Util();
+	//TODO:Implementing Embedding Initialization
+	public Embedding embedding = null;
 	public Translate() {
 		throw new IllegalArgumentException("Invalid Initiation");
 	}
@@ -48,7 +50,7 @@ public class Translate {
 
 	public void loadDictionary () throws IOException {
 		if (this.dict_path!=null) {
-			System.out.println("dict_path Read Unimplemented");
+			this.lex.getLexiconMapping(this.lex.source, this.lex.target);
 		}
 		else if (this.method.equals("google")) {
 			System.out.println("google Unimplemented");
@@ -61,10 +63,27 @@ public class Translate {
 		}
 	}
 	
+	
+	public String embeddingTranslate(String srcword) {
+		String oword = this.translateWord(srcword);
+		if (!oword.equals(srcword)) return oword;
+		else {
+			String[] candidates = this.embedding.getCandidates(srcword);
+			for (String candidate: candidates) {
+				if ((oword=this.translateWord(candidate)).equals(srcword))continue;
+				else return oword;
+			}
+		}
+		return oword;
+	}
+	
+	
+	
 	public String translateWord (String srcword) {
 		String oword = srcword;
 		Dict hit = this.lex.lookUp(srcword);
-		//System.out.println(hit);
+		
+		//Lower Case Lookup//
 		if (hit == null) {
 			hit = this.lex.lookUp(srcword.toLowerCase());
 			if (hit!=null) srcword = srcword.toLowerCase();
@@ -84,12 +103,7 @@ public class Translate {
 
 		}
 
-//		if (this.use_tag_list&& hit==null&&srctags.substring(0, 1).equals("B")) {
-//			//System.out.println("Unimplemented");
-//		}
-
 		if(hit !=null) {
-
 			ArrayList<Scores> opts = hit.scores;
 			Scores best = opts.get(0);
 			double best_score = best.score;
@@ -261,7 +275,7 @@ public class Translate {
 	public List<TextAnnotation> processTAs(List<TextAnnotation> tas) throws FileNotFoundException, Exception {
 		List<TextAnnotation> new_tas = new ArrayList<TextAnnotation>();
 		for(TextAnnotation ta: tas) {
-			//System.out.println(ta.getId());
+		    System.out.println("Reading: "+ta.getId());
 		    String[] tokens= ta.getTokens();
 		    View tk_view = ta.getView("TOKENS");
 		       
@@ -284,8 +298,11 @@ public class Translate {
 		    	String srcword = String.join(" ", sub);
 		    	String origin_word = srcword;
 		    	
-		    	result_word = this.translateWord(srcword);
-				int os = con.getStartSpan();
+		    	//TODO: embedding translate & normal translate
+		    	if(this.use_embeddings) result_word = this.embeddingTranslate(srcword);
+		    	else result_word = this.translateWord(srcword);
+				
+		    	int os = con.getStartSpan();
 				int oe = con.getEndSpan();
 				String [] sword = result_word.split("\\s+");
 				int ts = os + offset;
@@ -301,9 +318,13 @@ public class Translate {
 		    		int start = sen.getStartSpan();
 		    		int end = sen.getEndSpan();
 		    		List <String> tok_of_sen = new ArrayList<String>();
+				int counter = 0;
 		    		for(TransMapping tm : mapping) {
 		    			if (tm.original_start>=start && tm.original_end<=end) {
-		    				tok_of_sen.add(tm.translate_word);
+		    				String[] tp = tm.translate_word.split("\\s+");
+						for(String s:tp){
+							tok_of_sen.add(s);
+						}
 		    			}
 		    			
 		    			if(tm.original_end>end)break;
@@ -319,18 +340,18 @@ public class Translate {
 //		        for (TextAnnotation ta :tas) {
 //		        	TextAnnotation translated_ta = processTA(ta);
 		        //}
-//		       	FileOutputStream output_stream = new FileOutputStream("mappings.txt");
-//				OutputStreamWriter writer = new OutputStreamWriter(output_stream,"UTF-8");
-//				BufferedWriter bw = new BufferedWriter(writer);
-//		       	for(TransMapping tm :mapping) {
-//					bw.write(tm.toString());
-//					bw.newLine();
-//				}
-//		       	bw.close();
+		       	FileOutputStream output_stream = new FileOutputStream("/home/yihaoc/data/mappings.txt");
+				OutputStreamWriter writer = new OutputStreamWriter(output_stream,"UTF-8");
+				BufferedWriter bw = new BufferedWriter(writer);
+		       	for(TransMapping tm :mapping) {
+					bw.write(tm.toString());
+					bw.newLine();
+				}
+		       	bw.close();
 		    	BasicTextAnnotationBuilder btab = new BasicTextAnnotationBuilder();
 		    	TextAnnotation new_ta = BasicTextAnnotationBuilder.createTextAnnotationFromTokens(ta.getCorpusId(), ta.getId(), tokenizedSentences);
 		    	
-		    	//System.out.println(new_ta.getTokenizedText());
+		    	System.out.println(new_ta.getTokens().length);
 		    	View cheap_trans = new View(ViewNames.NER_CONLL,"CheapTrans",new_ta,1.0);
 		    	View ner_view = ta.getView("NER_CONLL");
 		    	List<Constituent>ner_cons = ner_view.getConstituents();
@@ -346,7 +367,8 @@ public class Translate {
 		    		String srcword = String.join(" ", sub);
 		       		for (TransMapping tm :mapping) {
 		       			if (con.getStartSpan()== tm.original_start && con.getEndSpan()==tm.original_end && srcword.equals(tm.original_word) ) {
-		       				Constituent new_con = new Constituent(con.getLabel(),con.getConstituentScore(),con.getViewName(),new_ta,tm.translate_start,tm.translate_end);
+		       				System.out.println("SRCWORD: "+srcword+" TMWORD: "+tm.translate_word+" SPAN: "+tm.translate_start +"-"+tm.translate_end);
+						Constituent new_con = new Constituent(con.getLabel(),con.getConstituentScore(),con.getViewName(),new_ta,tm.translate_start,tm.translate_end);
 		       				cheap_trans.addConstituent(new_con);
 		       			}
 		       		}
@@ -379,13 +401,38 @@ public class Translate {
     
 	}
 	public static void main (String[] args) throws Exception {
-		Translate tl = new Translate("USEPAVLICK","lexicon","spa","eng");
-		File f = new File ("");
-		String inpath = f.getAbsolutePath()+"\\src\\main\\java\\edu\\illinois\\cs\\cogcomp\\lorelei\\cheaptrans\\Test";
-		String outpath = f.getAbsolutePath()+"\\src\\main\\java\\edu\\illinois\\cs\\cogcomp\\lorelei\\cheaptrans\\Result";
-		tl.loadDictionary();
-		System.out.println(inpath+"\n"+outpath);
-		tl.translateTAs(inpath,outpath);
+		
+		
+		String inpath = args[0];
+		String inlang = args[1];
+		String outpath = args[2];
+		String outlang = args[3];
+		String format = args[4];
+		String dictpath = args[5];
+		String translate_method = args[6];
+		String embedding_path = args[7];
+		//TODO: method specification
+		switch (format) {
+		case "-c": 
+			Translate tl_conll = new Translate ("USEPAVLICK","lexicon",inlang,outlang,dictpath);
+			if (translate_method.contains("e")) {
+				tl_conll.use_embeddings=true;
+				tl_conll.embedding=new Embedding(embedding_path);
+			}
+			tl_conll.loadDictionary();
+			tl_conll.translateFile(inpath,outpath,"UTF-8");
+			break;
+		case "-t":
+			Translate tl_TA = new Translate ("USEPAVLICK","lexicon",inlang,outlang,dictpath);
+			if (translate_method.contains("e")) {
+				tl_TA.use_embeddings=true;
+				tl_TA.embedding=new Embedding(embedding_path);
+			}
+			tl_TA.loadDictionary();
+			tl_TA.translateTAs(inpath,outpath);
+			break;
+		default: System.out.println("Format Unsupported");
+		}
 	}
 
 }
