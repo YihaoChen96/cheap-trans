@@ -8,6 +8,7 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 import edu.illinois.cs.cogcomp.annotation.BasicTextAnnotationBuilder;
@@ -23,11 +24,13 @@ public class Translate {
 	public Lexicon lex;
 	public String dict_path=null;
 	public String method;
-	public boolean use_tag_list = false;
+	public boolean use_wiki = false;
 	public boolean use_embeddings = false;
 	public Util util = new Util();
 	//TODO:Implementing Embedding Initialization
 	public Embedding embedding = null;
+	public WikiMapping wiki = null;
+	public NameListExtractor name_list=null;
 	public Translate() {
 		throw new IllegalArgumentException("Invalid Initiation");
 	}
@@ -65,19 +68,31 @@ public class Translate {
 	
 	
 	public String embeddingTranslate(String srcword) {
+		if(srcword.matches("\\?|,|;|\\)|\\(|!|\\]|\\]|.|\"|\'|--|-|\\\\"))return srcword;	
 		String oword = this.translateWord(srcword);
 		if (!oword.equals(srcword)) return oword;
 		else {
 			String[] candidates = this.embedding.getCandidates(srcword);
+			
+			if(candidates==null){
+				candidates = this.embedding.getCandidates(srcword.toLowerCase());
+				if (candidates == null)return srcword;
+			}
+			
 			for (String candidate: candidates) {
-				if ((oword=this.translateWord(candidate)).equals(srcword))continue;
-				else return oword;
+				if ((oword=this.translateWord(candidate)).equals(candidate))continue;
+				else {return oword;}
 			}
 		}
-		return oword;
+		return srcword;
 	}
 	
-	
+	public String wikiTranslate(String srcword) {
+		if(srcword.matches("\\?|,|;|\\)|\\(|!|\\]|\\]|.|\"|\'|--|-|\\\\"))return srcword;
+		String oword = this.wiki.getWikiTitle(srcword);
+		if (oword!=null)return oword;
+		else return srcword;
+	}
 	
 	public String translateWord (String srcword) {
 		String oword = srcword;
@@ -197,7 +212,7 @@ public class Translate {
 
 				}
 
-				if (this.use_tag_list&& hit==null&&srctags.substring(0, 1).equals("B")) {
+				if (this.use_wiki&& hit==null&&srctags.substring(0, 1).equals("B")) {
 					//System.out.println("Unimplemented");
 				}
 
@@ -267,68 +282,159 @@ public class Translate {
 
 	}
 	
-	public void translateText (String text) {
-		
-	}
-	
 	
 	public List<TextAnnotation> processTAs(List<TextAnnotation> tas) throws FileNotFoundException, Exception {
 		List<TextAnnotation> new_tas = new ArrayList<TextAnnotation>();
+		int total_missed = 0;
+		int total_translated = 0;
+		int total_all = 0;
 		for(TextAnnotation ta: tas) {
+			
+	    	View ner_view = ta.getView("NER_CONLL");
+	    	List<Constituent>ner_cons = ner_view.getConstituents();
+		    
+	    	int missed = 0;
+		    int translated = 0;
+		    int total = 0;
 		    System.out.println("Reading: "+ta.getId());
 		    String[] tokens= ta.getTokens();
+		    
 		    View tk_view = ta.getView("TOKENS");
 		       
 		    List<TransMapping> mapping = new ArrayList<TransMapping>();
 		    List<Constituent>cons = tk_view.getConstituents();
 		    String result_word = "";
 		    int offset = 0;
-		       
-		    for(Constituent con : cons ) {
-		    	int start = con.getStartSpan();
-		    	int end = con.getEndSpan();
-		    	String[] sub = new String[end-start];
+		    
+		    //windowed translation
+		    
+		    for(int head = 0;head<tokens.length;) {
+			//System.out.println(head);
+			boolean trans_flag=false;
+		    	for(int window=4;window>0;window--) {
+		    		//tail not included,head included
+		    		int tail = head+window;
+		    		if (tail>tokens.length)continue;
+		    		else {
+		    			String [] sub = ta.getTokensInSpan(head, tail);
+		    			String srcword = String.join(" ", sub);
+		    			String origin_word = srcword;
+		    			result_word = srcword;
+					//System.out.println(srcword);
+				    	//Translate the word according to method specification//
+				    	if(this.use_wiki) result_word = this.wikiTranslate(srcword);
+				    	if(this.use_embeddings && result_word.equals(srcword)) result_word = this.embeddingTranslate(srcword);
+				    	if(!this.use_embeddings&&!this.use_wiki)result_word = this.translateWord(srcword);
+				    	
+				    	
+				    	//If translated
+				    	if (!result_word.equals(srcword)) {
+				    		translated+=window;
+				    		trans_flag=true;	
+				    		int os = head;
+							int oe = tail;
+							String [] sword = result_word.split("\\s+");
+							int ts = os + offset;
+							int te = ts + sword.length;
+							offset += sword.length-(oe-os);
+							for(String s : srcword.split(" ")) {
+								TransMapping tm = new TransMapping(s,result_word,os,os+1,ts,te,offset);
+								mapping.add(tm);
+								os++;
+							}
+							head+=window;
+				    		break;
+				    	}		
+		    		}
 		    	
-		    	//String[] sub = ta.getTokensInSpan(start, end);
-		    	
-		    	for (int i = start; i<end; i++) {
-		    		sub[i-start] = tokens[i];
-		    	  	}
-		    	//String srcword = con.getTokenizedSurfaceForm();
-		    	String srcword = String.join(" ", sub);
-		    	String origin_word = srcword;
-		    	
-		    	//TODO: embedding translate & normal translate
-		    	if(this.use_embeddings) result_word = this.embeddingTranslate(srcword);
-		    	else result_word = this.translateWord(srcword);
+		    	}
+			if(trans_flag==false){
+				//TODO:
 				
-		    	int os = con.getStartSpan();
-				int oe = con.getEndSpan();
-				String [] sword = result_word.split("\\s+");
+				int os = head;
+				int oe = head+1;
+				String origin_word = ta.getToken(head);
 				int ts = os + offset;
-				int te = ts + sword.length;
-				offset += sword.length-(oe-os);
-				TransMapping tm = new TransMapping(origin_word,result_word,os,oe,ts,te,offset);
+				int te = ts + 1;
+				String trans_word = origin_word;
+				for(Constituent con: ner_cons) {
+					if (head>=con.getStartSpan()&&(head+1)<con.getEndSpan()&&con.getAttribute("label")=="PER") {
+						trans_word = name_list.getRandomName();
+						break;
+					}
+				}
+				if(!origin_word.matches("\\?|,|;|\\)|\\(|!|\\]|\\]|.|\"|\'|--|-|\\\\"))missed+=1; 
+				TransMapping tm = new TransMapping(origin_word,trans_word,os,oe,ts,te,offset);
 				mapping.add(tm);
-					
-		    }     
+				head+=1;
+			}	
+		    }
+		    
+		    
+		    
+//		    for(Constituent con : cons ) {
+//		    	int start = con.getStartSpan();
+//		    	int end = con.getEndSpan();
+//		    	String[] sub = new String[end-start];
+//		    	
+//		    	//String[] sub = ta.getTokensInSpan(start, end);
+//		    	
+//		    	for (int i = start; i<end; i++) {
+//		    		sub[i-start] = tokens[i];
+//		    	  	}
+//		    	//String srcword = con.getTokenizedSurfaceForm();
+//		    	String srcword = String.join(" ", sub);
+//		    	String origin_word = srcword;
+//		    	result_word = srcword;
+//		    	//TODO: think carefully
+//		    	if(this.use_wiki) result_word = this.wikiTranslate(srcword);
+//		    	if(this.use_embeddings && result_word.equals(srcword)) result_word = this.embeddingTranslate(srcword);
+//		    	if(!this.use_embeddings&&!this.use_wiki)result_word = this.translateWord(srcword);
+//		    		
+//			if(!srcword.matches("\\?|,|;|\\)|\\(|!|\\]|\\]|.|\"|\'|--|-|\\\\")){
+//				total+=1;
+//				if (!result_word.equals(srcword))translated+=1;
+//				else missed+=1;
+//			}	
+//		    	int os = con.getStartSpan();
+//				int oe = con.getEndSpan();
+//				String [] sword = result_word.split("\\s+");
+//				int ts = os + offset;
+//				int te = ts + sword.length;
+//				offset += sword.length-(oe-os);
+//				TransMapping tm = new TransMapping(origin_word,result_word,os,oe,ts,te,offset);
+//				mapping.add(tm);
+//					
+//		    }     
 		    	List<String[]> tokenizedSentences = new ArrayList<String[]>();
 		    	for(int i=0; i<ta.getNumberOfSentences();i++) {
 		    		Sentence sen = ta.getSentence(i);
 		    		int start = sen.getStartSpan();
 		    		int end = sen.getEndSpan();
-		    		List <String> tok_of_sen = new ArrayList<String>();
+				int new_start = 0;
+				int new_end = 0;
+		    		for (TransMapping tm:mapping){
+					if(tm.original_start==start)new_start = tm.translate_start;
+					if(tm.original_end == end) new_end = tm.translate_end;
+					if (tm.original_end>end)break;
+				}
+				//System.out.println("Origin: "+start+ " "+end + " New: "+new_start+ " "+new_end);
+				List <String> tok_of_sen = new ArrayList<String>();
 				int counter = 0;
+				while(new_start<new_end){
+					
 		    		for(TransMapping tm : mapping) {
-		    			if (tm.original_start>=start && tm.original_end<=end) {
+		    			if (tm.translate_start==new_start) {
 		    				String[] tp = tm.translate_word.split("\\s+");
 						for(String s:tp){
 							tok_of_sen.add(s);
 						}
+						new_start = tm.translate_end;
 		    			}
 		    			
-		    			if(tm.original_end>end)break;
+		    			if(tm.translate_end>new_end)break;
 		    		}
+				}
 		    		String[] temp = new String[tok_of_sen.size()];
 		    		for(int j = 0; j <tok_of_sen.size(); j++) {
 		    			temp[j] = tok_of_sen.get(j);
@@ -344,17 +450,15 @@ public class Translate {
 				OutputStreamWriter writer = new OutputStreamWriter(output_stream,"UTF-8");
 				BufferedWriter bw = new BufferedWriter(writer);
 		       	for(TransMapping tm :mapping) {
-					bw.write(tm.toString());
+				bw.write(tm.toString());
 					bw.newLine();
 				}
 		       	bw.close();
 		    	BasicTextAnnotationBuilder btab = new BasicTextAnnotationBuilder();
 		    	TextAnnotation new_ta = BasicTextAnnotationBuilder.createTextAnnotationFromTokens(ta.getCorpusId(), ta.getId(), tokenizedSentences);
 		    	
-		    	System.out.println(new_ta.getTokens().length);
+		    	//System.out.println(new_ta.getTokens().length);
 		    	View cheap_trans = new View(ViewNames.NER_CONLL,"CheapTrans",new_ta,1.0);
-		    	View ner_view = ta.getView("NER_CONLL");
-		    	List<Constituent>ner_cons = ner_view.getConstituents();
 		    	//List<Constituent>new_ner_cons = new ArrayList<Constituent>();
 		    	for (Constituent con: ner_cons) {
 		    		int start = con.getStartSpan();
@@ -365,17 +469,32 @@ public class Translate {
 		    			sub[i-start] = tokens[i];
 		         	}
 		    		String srcword = String.join(" ", sub);
+		       		int new_start = 0;
+		    		int new_end = 0;
 		       		for (TransMapping tm :mapping) {
-		       			if (con.getStartSpan()== tm.original_start && con.getEndSpan()==tm.original_end && srcword.equals(tm.original_word) ) {
-		       				System.out.println("SRCWORD: "+srcword+" TMWORD: "+tm.translate_word+" SPAN: "+tm.translate_start +"-"+tm.translate_end);
-						Constituent new_con = new Constituent(con.getLabel(),con.getConstituentScore(),con.getViewName(),new_ta,tm.translate_start,tm.translate_end);
-		       				cheap_trans.addConstituent(new_con);
+		       			if (start==tm.original_start ) {
+		       				new_start = tm.translate_start;
+		       			}
+		       			if (end == tm.original_end ) {
+		       				new_end = tm.translate_end;
+		       				break;
 		       			}
 		       		}
+			//	System.out.println(new_start+" "+new_end);
+		       		Constituent new_con = new Constituent(con.getLabel(),con.getConstituentScore(),con.getViewName(),new_ta,new_start,new_end);
+		       		cheap_trans.addConstituent(new_con);
 		       	}
 		       	new_ta.addView(ViewNames.NER_CONLL, cheap_trans);
 		       	new_tas.add(new_ta);
+			System.out.println("Total: "+total+" Translated: "+translated+" Missed: "+missed );
+			total_all+=total;
+			total_translated+=translated;
+			total_missed+=missed;
 	}
+		System.out.println("-----------------------------------------------------");
+		System.out.println("Translation Statistics");
+		System.out.println("-----------------------------------------------------");
+		System.out.println("Total: "+total_all+" Translated: "+total_translated+" Missed: "+total_missed );
 		return new_tas;
 	}
 	public void translateTAs(String inpath, String outpath) throws Exception {
@@ -395,6 +514,7 @@ public class Translate {
 
 
         for (TextAnnotation ta : new_tas) {
+	    System.out.println("Writing:" +ta.getId());
             SerializationHelper.serializeTextAnnotationToFile(ta, outpath + "/" + ta.getId(), true, true);
         }
         System.out.println(String.format("Wrote %d textannotations to %s", filelist.length, outpath));
@@ -410,23 +530,64 @@ public class Translate {
 		String format = args[4];
 		String dictpath = args[5];
 		String translate_method = args[6];
-		String embedding_path = args[7];
+		String path1 = args[7];
+		String path2 = args[8];
+		String path3 = args[9];
 		//TODO: method specification
 		switch (format) {
 		case "-c": 
 			Translate tl_conll = new Translate ("USEPAVLICK","lexicon",inlang,outlang,dictpath);
-			if (translate_method.contains("e")) {
+			if (translate_method.contains("e")&&!translate_method.contains("w")) {
 				tl_conll.use_embeddings=true;
-				tl_conll.embedding=new Embedding(embedding_path);
+				tl_conll.embedding=new Embedding(path1);
+				//System.out.println(path1);
+			}
+			else if (!translate_method.contains("e")&&translate_method.contains("w")) {
+				tl_conll.use_wiki=true;
+				tl_conll.wiki=new WikiMapping(inlang,outlang,path1);
+				//System.out.println(path1);
+			}
+			else if (translate_method.contains("e")&&translate_method.contains("w")) {
+				tl_conll.use_wiki=true;
+				tl_conll.use_embeddings=true;
+				if(translate_method.indexOf('e')<translate_method.indexOf('w')) {
+					tl_conll.embedding=new Embedding(path1);
+					tl_conll.wiki=new WikiMapping(inlang,outlang,path2);
+				}
+				else {
+					tl_conll.embedding=new Embedding(path2);
+					tl_conll.wiki=new WikiMapping(inlang,outlang,path1);
+				}
 			}
 			tl_conll.loadDictionary();
 			tl_conll.translateFile(inpath,outpath,"UTF-8");
 			break;
 		case "-t":
 			Translate tl_TA = new Translate ("USEPAVLICK","lexicon",inlang,outlang,dictpath);
-			if (translate_method.contains("e")) {
+			tl_TA.name_list=new NameListExtractor(args[9]);
+			if (translate_method.contains("e")&&!translate_method.contains("w")) {
 				tl_TA.use_embeddings=true;
-				tl_TA.embedding=new Embedding(embedding_path);
+				tl_TA.embedding=new Embedding(path1);
+				//System.out.println(path1);
+			}
+			else if (!translate_method.contains("e")&&translate_method.contains("w")) {
+				tl_TA.use_wiki=true;
+				tl_TA.wiki=new WikiMapping(inlang,outlang,path1);
+				//System.out.println(path1);
+			}
+			else if (translate_method.contains("e")&&translate_method.contains("w")) {
+				tl_TA.use_wiki=true;
+				tl_TA.use_embeddings=true;
+				if(translate_method.indexOf('e')<translate_method.indexOf('w')) {
+					tl_TA.embedding=new Embedding(path1);
+					tl_TA.wiki=new WikiMapping(inlang,outlang,path2);
+				}
+				else {
+					tl_TA.embedding=new Embedding(path2);
+					tl_TA.wiki=new WikiMapping(inlang,outlang,path1);
+				}
+				
+				//System.out.println(path1);
 			}
 			tl_TA.loadDictionary();
 			tl_TA.translateTAs(inpath,outpath);
