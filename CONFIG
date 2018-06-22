@@ -1,6 +1,6 @@
 Encoding = utf-8
 Source = eng
-Target = spa
+Target = rus
 Method = lexicon
 DictPath = default
 DictType = USEPAVLICK
