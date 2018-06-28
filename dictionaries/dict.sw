@@ -4814,9 +4814,7 @@ rafiki	friend
 ragbi	ragbi	rugby
 raha	fun	pleasure
 rahisi	easy
-raia	president
-rais	president
-raisi	president
+Rais	president
 raiswaziri	prime minister
 rajab	rajab
 ram	framework
