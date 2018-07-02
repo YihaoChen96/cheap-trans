@@ -1,12 +1,12 @@
 253	ኢትዮጵያ|ኢትዮጵያ	Ethiopia	337996
-152	#Ethiopia|#Ethiopia	#Ethiopia|#Ethiopia	NIL
-143	#Eritrea|#Eritrea	#Eritrea | #Eritrea	NIL
+152	#Ethiopia|#Ethiopia	#Ethiopia|#Ethiopia	337996
+143	#Eritrea|#Eritrea	#Eritrea | #Eritrea	338010
 137	ኤርትራ|ኤርትራ	Eritrea | Eritrea	338010
-93	ኦሮምያ|ኦሮምያ	Oromia | Oromia	NIL
-83	#VOATigrigna|#VOATigrigna	#VOATigrigna | #VOATigrigna	NIL
-79	#VOA|#VOA	#VOA | #VOA	NIL
+93	ኦሮምያ|ኦሮምያ	Oromia | Oromia	444185
+83	#VOATigrigna|#VOATigrigna	#VOATigrigna | #VOATigrigna	2332459
+79	#VOA|#VOA	#VOA | #VOA	4496743
 64	ሊብያ|ሊብያ	Libya | Libya	2215636
-55	ኦሮሚያ|ኦሮሚያ	Oromia, Oromia	NIL
+55	ኦሮሚያ|ኦሮሚያ	Oromia, Oromia	53707
 51	ሱዳን|ሱዳን	Sudan | Sudan	366755
 49	ኣዲስ ኣበባ|ኣዲስ ኣበባ	New pants | New pants	344979
 47	ኢህወዴግ|ኢህወዴግ	EPLDF | EPLDF	1814991
@@ -35,9 +35,7 @@
 16	ሕቡራት ሃገራት|ሕቡራት ሃገራት	The nations of the world | the rights of the nations	NIL
 16	ሕ/ሃ|ሕ/ሃ	Law / legal	5141947
 15	ኣመሪካ|ኣመሪካ	America	6252001
-15	ጀርመን|ጀርመን	German | German	2921044
 15	ኣዲስ ኣበባን|ኣዲስ ኣበባን	New Awesome | New Awesome |	NIL
-15	#Somalia|#Somalia	#Somalia|#Somalia	NIL
 15	ዳዕሽ|ዳዕሽ	Your post |	NIL
 14	እስራኤል|እስራኤል	Israel | Israel	294640
 14	ፌደራል ፖሊስ|ፌደራል ፖሊስ	Federal Police | Federal Police	7533330
@@ -48,8 +46,6 @@
 12	ሱዳንን|ሱዳንን	Sudan | Sudan	366755
 11	የመን|የመን	W	69543
 11	ውድብ ሕቡራት ሃገራት|ውድብ ሕቡራት ሃገራት	Dear Presidents of the Four Noble Truths	5141947
-10	ኣምነስቲ ኢንተርናሽናል|ኣምነስቲ ኢንተርናሽናል	Amnesty International | Amnesty International	NIL
-10	ኦሮምያን|ኦሮምያን	Oromian Oromian	NIL
 10	ውድብ ጥዕና ዓለም|ውድብ ጥዕና ዓለም	Precious Wonders |	NIL
 10	ኢሳይያስ|ኢሳይያስ	Isaiah | Isaiah	NIL
 9	ባራክ ኦባማ|ባራክ ኦባማ	Barack Obama | Barack Obama	NIL
