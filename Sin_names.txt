@@ -1,0 +1,254 @@
+බණ්ඩාරණායක	PER
+බන්දුල වර්ණපුර	PER
+දුලිප් මෙන්ඩිස්	PER
+සෝමචන්ද්‍ර ද සිල්වා	PER
+රන්ජන් මඩුගල්ල	PER
+අර්ජුන රණතුංග	PER
+අරවින්ද ද සිල්වා	PER
+හෂාන් තිලකරත්න	PER
+සනත් ජයසූරිය	PER
+මාවන් අතපත්තු	PER
+මහේල ජයවර්ධන	PER
+කුමාර් සංගක්කාර	PER
+තිලකරත්න ඩිල්ෂාන්	PER
+ඇන්ජෙලෝ මැතිව්ස්	PER
+රංගන හේරත්	PER
+විලියම් ගොපල්ලව	PER
+ජුනියස් රිචඩ් ජයවර්ධන	PER
+රණසිංහ ප්‍රේමදාස	PER
+ඩිංගිරි බණ්ඩා විජේතුංග	PER
+චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග	PER
+මහින්ද රාජපක්ෂ		PER
+මෛත්‍රිපාල සිරිසේන	PER
+දොන් ස්ටීවන් සේනානායක	PER
+ඩඩ්ලි සේනානායක	PER
+ජෝන් කොතලාවල	PER
+සොලමන් බන්ඩාරනායක	PER
+විජයානන්ද දහනායක	PER
+සිරිමාවො රත්වත්තේ ඩයස් බණ්ඩාරනායක	PER
+ජුනියස් රිචඩ් ජයවර්ධන	PER
+රණසිංහ ප්‍රේමදාස	PER
+ඩිංගිරි බණ්ඩා විජේතුංග	PER
+රනිල් වික්‍රමසිංහ	PER
+අනර්කලී ආකර්ෂා	PER
+දමිතා අබේරත්න	PER
+ජෝ අබේවික්‍රම	PER
+කමල් අද්දරආරච්චි	PER
+ශ්‍රියානි අමරසේන	PER
+ජැක්සන් ඇන්තනී	PER
+රමණී බර්තෝලමියුස්	PER
+ජගත් චමිල	PER
+වසන්ති චතුරානි	PER
+පුබුදු චතුරංග	PER
+ටෙනිසන් කුරේ	PER
+ලකී ඩයස්	PER
+රුක්මණී දේවී	PER
+අනූෂා දමයන්ති	PER
+විමල් කුමාර ද කොස්තා	PER
+දිල්හානි ඒකනායක	PER
+සෙම්බුගේ ගාමිනි ශෙල්ටන් ෆොන්සේකා	PER
+ගාමිනි ෆොන්සේකා	PER
+මාලිනී ෆොන්සේකා	PER
+සෝමසිරි සනත් ජුලියන් ගුණතිලක	PER
+දයානන්ද ගුනවර්ධන	PER
+නිම්මි හරස්ගම	PER
+ගාමිණී හත්තොටුවේගම	PER
+ගාමිණී කල්‍යාණදර්ශ හත්තොටුවේගම	PER
+ටී.බී. ඉලංගරත්න	PER
+බී.ඒ.ඩබ්ලිව්. ජයමාන්න	PER
+එඩී ජයමාන්න	PER
+හෙන්රි ජයසේන	PER
+ශ්‍රියන්ත මෙන්ඩිස්	PER
+ස්වර්ණා මල්ලවආරච්චි	PER
+මිෂෙල් දිල්හාරා	PER
+දුලීකා මාරපන	PER
+ඩී. ආර්. නානායක්කාර	PER
+ඇන්.ඇම්.පෙරේරා	PER
+ශනුද්‍රි ප්‍රියසාද්	PER
+උද්ධික ප්‍රේමරත්න	PER
+ටෝනි රණසිංහ	PER
+රවීන්ද්‍ර රන්දෙණිය	PER
+හේමාල් රණසිංහ	PER
+නිහාල් සිල්වා	PER
+සචිනි අයේන්ද්‍රා ස්ටැන්ලි	PER
+අයිරාංගනී සේරසිංහ	PER
+ශලනි තාරකා	PER
+කොවිලගේ ඇන්ටන් විජය කුමාරණතුංග	PER
+පූජා උමාශංකර්	PER
+යශෝධා විමලධර්ම	PER
+සංගීතා වීරරත්න	PER
+දෙමළ ජාතික සන්ධානය	ORG	Tamil National Alliance
+එක්සත් යහපාලන ජාතික පෙරමුණ	ORG	United National Front for Good Governance
+එක්සත් ජනතා නිදහස් සන්ධානය	ORG	United People's Freedom Alliance
+ද්‍රවිඩ ජාතික ජනතා පෙරමුණ	ORG	Tamil National People's Front
+ප්‍රජාතන්ත්‍රවාදී ජාතික සන්ධානය	ORG	Democratic National Alliance
+ජනනායක තමිළ් තේසිය කුට්ටනි	ORG	Democratic Tamil National Alliance
+පොදු ජන එක්සත් පෙරමුණ	ORG	People's Alliance
+සමාජවාදී ජනතා පෙරමුණ	ORG	Socialist Alliance
+"එක්සත් ජාතික පෙරමුණ, ශ්‍රී ලංකාව"	ORG	United National Front
+සමස්ත ලංකා ජනතා කොංග්‍රසය	ORG	All Ceylon Makkal Congress
+ලංකා කම්කරු කොංග්‍රසය	ORG	Ceylon Workers' Congress
+ශ්‍රී ලංකාවේ කොමියුනිස්ට් පක්ෂය	ORG	Communist Party of Sri Lanka
+ප්‍රජාතන්ත්‍රවාදී වාමාංශික පෙරමුණ	ORG	Democratic Left Front
+ප්‍රජාතන්ත්‍රවාදී ජනතා ව්‍යාපරය	ORG	Democratic National Movement
+ප්‍රජාතන්ත්‍රවාදී ජනතා පෙරමුණ	ORG	Democratic People's Front
+ප්‍රජාතන්ත්‍රවාදී ජනතා විමුක්ති පෙරමුණ	ORG	Democratic People's Liberation Front
+ඊලාම් ජනතා ප්‍රජාතන්ත්‍රවාදී පක්ෂය	ORG	Eelam People's Democratic Party
+ඊලාම් ජනතා විප්ලවවාදී විමුක්ති පෙරමුණ	ORG	Eelam People's Revolutionary Liberation Front
+ඉලංගෙයි තමිළ් අරසු කච්චි	ORG	Illankai Tamil Arasu Kachchi
+ජනතා විමුක්ති පෙරමුණ	ORG	Janatha Vimukthi Peramuna
+ජාතික හෙළ උරුමය	ORG	Jathika Hela Urumaya
+මහජන එක්සත් පෙරමුණ‍	ORG	Mahajana Eksath Peramuna
+ජාතික නිදහස් පෙරමුණ	ORG	National Freedom Front
+ජාතික කම්කරු සංගමය	ORG	National Union of Workers
+ශ්‍රී ලංකා නිදහස් පක්ෂය	ORG	Sri Lanka Freedom Party
+ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසය	ORG	Sri Lanka Muslim Congress
+ද්‍රවිඩ ඊලම් විමුක්ති සංවිධානය	ORG	Tamil Eelam Liberation Organization
+එක්සත් ජාතික පක්ෂය	ORG	United National Party
+කඳුරට ජනතා පෙරමුණ	ORG	Up-Country People's Front
+ඔක්කොම වැසියෝ ඔක්කොම රජවරු සංවිධානය	ORG	All Are Citizens All Are Kings Organization
+අඛිල ඉලඞ්කෛයි ද්‍රවිඩ මහාසභා	ORG	All Lanka Tamil Great Council
+අකිල ඉලංකෙයි තමිල් කොංග්‍රස්	ORG	All Ceylon Tamil Congress
+බොදු ජන පෙරමුණ	ORG	Buddhist People's Front
+පුරවැසි පෙරමුණ	ORG	Citizen's Front
+ප්‍රජාතන්ත්‍රවාදී පක්ෂය	ORG	Democratic Party
+ප්‍රජාතන්ත්‍රවාදී එක්සත් ජාතික පෙරමුණ	ORG	Democratic United National Front
+එක්සත් ප්‍රජාතන්ත්‍රවාදී සන්ධානය	ORG	Democratic Unity Alliance
+දේශ විමුක්ති ජනතා පක්ෂය	ORG	Desha Vimukthi Janatha Pakshaya
+ඊලාම් ජනතා විප්ලවවාදී විමුක්ති පෙරමුණ	ORG	Eelam People's Revolutionary Liberation Front
+ඊලවර් ප්‍රජාතන්ත්‍රවාදී පෙරමුණ	ORG	Eelavar Democratic Front
+පෙරටුගාමී සමාජවාදී පක්ෂය	ORG	Frontline Socialist Party
+ශ්‍රී ලංකා හරිත පක්ෂය	ORG	Green Party of Sri Lanka
+ලංකා සම සමාජ පක්ෂය	ORG	Lanka Sama Samaja Party
+ලිබරල් පක්ෂය	ORG	Liberal Party of Sri Lanka
+මව්බිම ජනතා පක්‍ෂය	ORG	Motherland People's Party
+මුස්ලිම් ජාතික සන්ධානය	ORG	Muslim National Alliance
+ජාතික කොංග්‍රසය	ORG	National Congress
+ජාතික සංවර්ධන පෙරමුණ	ORG	National Development Front
+ජාතික ජනතා පක්ෂය	ORG	National Peoples Party
+ජාතීන්ගේ සමඟි සංවිධානය	ORG	Nationalities Unity Organisation
+නව සමසමාජ පක්ෂය	ORG	Nava Sama Samaja Party
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ	ORG	New Democratic Front
+නව සිහළ උරුමය	ORG	New Sinhala Heritage
+අපේ ජාතික පෙරමුණ	ORG	Our National Front
+ජන සෙත පෙරමුණ	ORG	People's Welfare Front
+සමාජවාදී සමානතා පක්ෂය	ORG	Socialist Equality Party
+ශ්‍රී ලංකා කම්කරු පක්ෂය	ORG	Sri Lanka Labour Party
+ශ්‍රී ලංකා ජාතික බලය	ORG	Sri Lanka National Force
+ශ්‍රී ලංකා මහජන පක්ෂය	ORG	Sri Lanka People's Party
+ශ්‍රී ලංකා ප්‍රගතිශීලී පෙරමුණ	ORG	Sri Lanka Progressive Front
+ශ්‍රී ලංකා පෙරටුගාමී පක්ෂය	ORG	Sri Lanka Vanguard Party
+තමිළ් මක්කල් විඩුදලෛප් පුළිකල්	ORG	Tamil Makkal Viduthalai Pulikal
+ද්‍රවිඩ එක්සත් විමුක්ති පෙරමුණ	ORG	Tamil United Liberation Front
+එක්සත් ප්‍රජාතන්ත්‍රවාදී පෙරමුණ	ORG	United Democratic Front
+එක්සත් ලංකා පොදුජන පක්ෂය	ORG	United Lanka People's Party
+එක්සත් සාම පෙරමුණ	ORG	United Peace Front
+එක්සත් මහජන පක්‍ෂය	ORG	United People's Party
+එක්සත් සමාජවාදි පකෂය	ORG	United Socialist Party
+මහවැලි ගඟ	LOC
+මල්වතු ඔය	LOC
+කලා ඔය	LOC
+කැලණි ගඟ	LOC
+යාන් ඔය	LOC
+දැදුරු ඔය	LOC
+වලවේ ගඟ	LOC
+මාදුරු ඔය	LOC
+මහ ඔය	LOC
+කළු ගඟ	LOC
+කිරිඳි ඔය	LOC
+කුඹුක්කන් ඔය	LOC
+මැණික් ගඟ	LOC
+ගිං ගඟ	LOC
+මී ඔය	LOC
+ගල් ඔය	LOC
+කොත්මලේ ඔය	LOC
+බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළ	LOC
+රත්මලාන ගුවන්තොටුපළ	LOC
+මත්තල රාජපක්ෂ ජාත්‍යන්තර ගුවන්තොටුපළ	LOC
+කොළඹ වරාය	LOC
+හම්බන්තොට වරාය	LOC
+ත්‍රිකුණාමලය වරාය	LOC
+ගාලු වරාය	LOC
+පේදුරු තුඩුව වරාය	LOC
+කන්කසන්තුරේ වරාය	LOC
+ඔලුවිල් වරාය	LOC
+බඹරකන්ද ඇල්ල	LOC
+දියලුම ඇල්ල	LOC
+ලක්ෂපාන ඇල්ල	LOC
+ඩන්සිනන් ඇල්ල	LOC
+ඇබර්ඩින් ඇල්ල	LOC
+රම්බොඩ ඇල්ල	LOC
+ඩෙවෝන් ඇල්ල	LOC
+ශාන්ත ක්ලෙයාර් ඇල්ල	LOC
+දුන්හිඳ ඇල්ල	LOC
+ඕමන්තෙයි දුම්රිය ස්ථානය	LOC
+කඳපොල දුම්රිය ස්ථානය	LOC
+ගම්පහ දුම්රිය ස්ථානය	LOC
+තලෙයිමන්නාරම ජැටිය සහ දුම්රිය ස්ථානය	LOC
+පට්ටිපොල දුම්රිය ස්ථානය	LOC
+ගණේමුල්ල දුම්රිය ස්ථානය	LOC
+ග්‍රෑන්ඩ් හයට් කලම්බු	LOC
+ලෝක වෙළෙඳ මධ්‍යස්ථානය	LOC
+OnThree20 කුළුණ	LOC
+එම්පයර් කුළුණ	LOC
+ජීඑස් කුළුණ	LOC
+ද එම්පයර්	LOC
+හිල්ටන් රෙසිඩෙන්සීස්	LOC
+රෝයල් පාක් කුළුණ	LOC
+ෆෙයාවේ ස්කයිගාර්ඩන්	LOC
+අයිස්ලන්ඩ් රෙසිඩන්සීස් කුළුණ	LOC
+හැව්ලොක් සිටි පාර්ක් ටවර්	LOC
+හැව්ලොක් සිටි එලිබෑන්ක් ටවර්	LOC
+මොනාර්ක් ටවර්	LOC
+ද ෆෙයාර්මවුන්ට්	LOC
+ක්‍රෙස්කැට් රෙසිඩෙන්සීස්	LOC
+ලංකා බැංකුව	LOC
+බෑන්ක් ඔෆ් සිලෝන් මර්චන්ට්ස් ටවර්	LOC
+ලංකාදීප	GPE
+කච්චතීවු	GPE
+කයිට්ස්	GPE
+නාගදීප	GPE
+මහා රාවණා කොටුව	GPE
+කුඩා රාවණා කොටුව	GPE
+අම්පාර	GPE
+අනුරාධපුර	GPE
+බදුල්ල	GPE
+මඩකලපුව	GPE
+කොළඹ	GPE
+ගාල්ල	GPE
+ගම්පහ	GPE
+හම්බන්තොට	GPE
+යාපනය	GPE
+කළුතර	GPE
+මහනුවර	GPE
+කෑගල්ල	GPE
+කිලිනොච්චි	GPE
+කුරුණෑගල	GPE
+මන්නාරම	GPE
+මාතලේ	GPE
+මාතර	GPE
+මොණරාගල	GPE
+මුලතිව්	GPE
+නුවරඑළිය	GPE
+පොළොන්නරුව	GPE
+පුත්තලම	GPE
+රත්නපුර	GPE
+ත්‍රිකුණාමලය	GPE
+වවුනියාව	GPE
+කොළඹ	GPE
+දෙහිවල-ගල්කිස්ස	GPE
+මොරටුව	GPE
+ශ්‍රී ජයවර්ධනපුර කෝට්ටේ	GPE
+මීගමුව	GPE
+මහනුවර	GPE
+කල්මුනේ	GPE
+වවුනියාව	GPE
+ගාල්ල	GPE
+ත්‍රිකුණාමලය	GPE
+මඩකලපුව	GPE
+යාපනය	GPE
+කටුනායක	GPE
+දඹුල්ල	GPE
+කොලොන්නාව	GPE
+අනුරාධපුරය	GPE
+රත්නපුර	GPE
