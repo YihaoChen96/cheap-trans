@@ -1,0 +1,68 @@
+﻿rule	දෙමළ ජාතික සන්ධානය	ORG	Tamil National Alliance
+rule	එක්සත් යහපාලන ජාතික පෙරමුණ	ORG	United National Front for Good Governance
+rule	එක්සත් ජනතා නිදහස් සන්ධානය	ORG	United People's Freedom Alliance
+rule	ද්‍රවිඩ ජාතික ජනතා පෙරමුණ	ORG	Tamil National People's Front
+rule	ප්‍රජාතන්ත්‍රවාදී ජාතික සන්ධානය	ORG	Democratic National Alliance
+rule	ජනනායක තමිළ් තේසිය කුට්ටනි	ORG	Democratic Tamil National Alliance
+rule	පොදු ජන එක්සත් පෙරමුණ	ORG	People's Alliance
+rule	සමාජවාදී ජනතා පෙරමුණ	ORG	Socialist Alliance
+rule	"එක්සත් ජාතික පෙරමුණ, ශ්‍රී ලංකාව"	ORG	United National Front
+rule	සමස්ත ලංකා ජනතා කොංග්‍රසය	ORG	All Ceylon Makkal Congress
+rule	ලංකා කම්කරු කොංග්‍රසය	ORG	Ceylon Workers' Congress
+rule	ශ්‍රී ලංකාවේ කොමියුනිස්ට් පක්ෂය	ORG	Communist Party of Sri Lanka
+rule	ප්‍රජාතන්ත්‍රවාදී වාමාංශික පෙරමුණ	ORG	Democratic Left Front
+rule	ප්‍රජාතන්ත්‍රවාදී ජනතා ව්‍යාපරය	ORG	Democratic National Movement
+rule	ප්‍රජාතන්ත්‍රවාදී ජනතා පෙරමුණ	ORG	Democratic People's Front
+rule	ප්‍රජාතන්ත්‍රවාදී ජනතා විමුක්ති පෙරමුණ	ORG	Democratic People's Liberation Front
+rule	ඊලාම් ජනතා ප්‍රජාතන්ත්‍රවාදී පක්ෂය	ORG	Eelam People's Democratic Party
+rule	ඊලාම් ජනතා විප්ලවවාදී විමුක්ති පෙරමුණ	ORG	Eelam People's Revolutionary Liberation Front
+rule	ඉලංගෙයි තමිළ් අරසු කච්චි	ORG	Illankai Tamil Arasu Kachchi
+rule	ජනතා විමුක්ති පෙරමුණ	ORG	Janatha Vimukthi Peramuna
+rule	ජාතික හෙළ උරුමය	ORG	Jathika Hela Urumaya
+rule	මහජන එක්සත් පෙරමුණ‍	ORG	Mahajana Eksath Peramuna
+rule	ජාතික නිදහස් පෙරමුණ	ORG	National Freedom Front
+rule	ජාතික කම්කරු සංගමය	ORG	National Union of Workers
+rule	ශ්‍රී ලංකා නිදහස් පක්ෂය	ORG	Sri Lanka Freedom Party
+rule	ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසය	ORG	Sri Lanka Muslim Congress
+rule	ද්‍රවිඩ ඊලම් විමුක්ති සංවිධානය	ORG	Tamil Eelam Liberation Organization
+rule	එක්සත් ජාතික පක්ෂය	ORG	United National Party
+rule	කඳුරට ජනතා පෙරමුණ	ORG	Up-Country People's Front
+rule	ඔක්කොම වැසියෝ ඔක්කොම රජවරු සංවිධානය	ORG	All Are Citizens All Are Kings Organization
+rule	අඛිල ඉලඞ්කෛයි ද්‍රවිඩ මහාසභා	ORG	All Lanka Tamil Great Council
+rule	අකිල ඉලංකෙයි තමිල් කොංග්‍රස්	ORG	All Ceylon Tamil Congress
+rule	බොදු ජන පෙරමුණ	ORG	Buddhist People's Front
+rule	පුරවැසි පෙරමුණ	ORG	Citizen's Front
+rule	ප්‍රජාතන්ත්‍රවාදී පක්ෂය	ORG	Democratic Party
+rule	ප්‍රජාතන්ත්‍රවාදී එක්සත් ජාතික පෙරමුණ	ORG	Democratic United National Front
+rule	එක්සත් ප්‍රජාතන්ත්‍රවාදී සන්ධානය	ORG	Democratic Unity Alliance
+rule	දේශ විමුක්ති ජනතා පක්ෂය	ORG	Desha Vimukthi Janatha Pakshaya
+rule	ඊලාම් ජනතා විප්ලවවාදී විමුක්ති පෙරමුණ	ORG	Eelam People's Revolutionary Liberation Front
+rule	ඊලවර් ප්‍රජාතන්ත්‍රවාදී පෙරමුණ	ORG	Eelavar Democratic Front
+rule	පෙරටුගාමී සමාජවාදී පක්ෂය	ORG	Frontline Socialist Party
+rule	ශ්‍රී ලංකා හරිත පක්ෂය	ORG	Green Party of Sri Lanka
+rule	ලංකා සම සමාජ පක්ෂය	ORG	Lanka Sama Samaja Party
+rule	ලිබරල් පක්ෂය	ORG	Liberal Party of Sri Lanka
+rule	මව්බිම ජනතා පක්‍ෂය	ORG	Motherland People's Party
+rule	මුස්ලිම් ජාතික සන්ධානය	ORG	Muslim National Alliance
+rule	ජාතික කොංග්‍රසය	ORG	National Congress
+rule	ජාතික සංවර්ධන පෙරමුණ	ORG	National Development Front
+rule	ජාතික ජනතා පක්ෂය	ORG	National Peoples Party
+rule	ජාතීන්ගේ සමඟි සංවිධානය	ORG	Nationalities Unity Organisation
+rule	නව සමසමාජ පක්ෂය	ORG	Nava Sama Samaja Party
+rule	නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ	ORG	New Democratic Front
+rule	නව සිහළ උරුමය	ORG	New Sinhala Heritage
+rule	අපේ ජාතික පෙරමුණ	ORG	Our National Front
+rule	ජන සෙත පෙරමුණ	ORG	People's Welfare Front
+rule	සමාජවාදී සමානතා පක්ෂය	ORG	Socialist Equality Party
+rule	ශ්‍රී ලංකා කම්කරු පක්ෂය	ORG	Sri Lanka Labour Party
+rule	ශ්‍රී ලංකා ජාතික බලය	ORG	Sri Lanka National Force
+rule	ශ්‍රී ලංකා මහජන පක්ෂය	ORG	Sri Lanka People's Party
+rule	ශ්‍රී ලංකා ප්‍රගතිශීලී පෙරමුණ	ORG	Sri Lanka Progressive Front
+rule	ශ්‍රී ලංකා පෙරටුගාමී පක්ෂය	ORG	Sri Lanka Vanguard Party
+rule	තමිළ් මක්කල් විඩුදලෛප් පුළිකල්	ORG	Tamil Makkal Viduthalai Pulikal
+rule	ද්‍රවිඩ එක්සත් විමුක්ති පෙරමුණ	ORG	Tamil United Liberation Front
+rule	එක්සත් ප්‍රජාතන්ත්‍රවාදී පෙරමුණ	ORG	United Democratic Front
+rule	එක්සත් ලංකා පොදුජන පක්ෂය	ORG	United Lanka People's Party
+rule	එක්සත් සාම පෙරමුණ	ORG	United Peace Front
+rule	එක්සත් මහජන පක්‍ෂය	ORG	United People's Party
+rule	එක්සත් සමාජවාදි පකෂය	ORG	United Socialist Party	
